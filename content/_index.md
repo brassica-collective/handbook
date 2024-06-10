@@ -11,5 +11,4 @@ This is a landing page for participants in the collective to find all the resour
 
 {{< cards >}}
   {{< card link="handbook" title="Handbook" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
