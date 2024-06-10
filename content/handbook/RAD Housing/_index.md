@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+The [Retrofit](https://architectureau.com/articles/deep-retrofit-for-more-accessible-equitable-and-resilient-houses/)  and [Decommodify](https://en.wikipedia.org/wiki/Decommodification) (RAD) Housing approach to collaborative housing practices
