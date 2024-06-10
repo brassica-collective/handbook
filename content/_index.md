@@ -1,9 +1,11 @@
 ---
-title: My Site
+title: The Brassica Collective
 toc: false
 ---
 
-This is the landing page.
+A Retrofit and Decommodify (RAD) housing collective.
+
+This is a landing page for participants in the collective to find all the resources they need in one place.
 
 ## Explore
 
@@ -11,7 +13,3 @@ This is the landing page.
   {{< card link="handbook" title="Handbook" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
