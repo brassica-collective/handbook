@@ -15,19 +15,35 @@ This is, however, one necessary case of a gate that must be passed before moving
 
 At any point in time, the housing collective is able to calculate a ratio of the economic value of its assets and which party’s funds have been used to secure them.
 
-[table1]
+
+|Bank Mortgage Stream|Transitional Equity Stream|Collective Stewardship Stream|
+|--------------------|--------------------------|----------------------------|
+|Total of bank loans|Total of Transitional Equity Balances|Total asset value minus the totals from the other two streams|
+
 
 These totals are used to give a ratio, expressed as percentages. For example, if the collective has the following properties and mortgages:
 
-[table2]
+| |Valuation|Mortgage|
+|--|--------|--------|
+|Property 1|$1,000,000|$400,000|
+|Property 2|$2,000,000|$1,400,000|
+|Property 3|$1,000,000|$800,000|
+|TOTAL|$4,000,000|$2,600,000|
 
 And additionally it has $1,000,000 of transitional equity balances “owed” to individuals within the collective, then there is still $400,000 unencumbered. This gives the following inputs to the formula:
 
-[table3]
+|Category|Input|
+|------|----------|
+|Total of Bank loans|$2,600,000|
+|Total of Transitional Equity|$1,000,000|
+|Total asset value|$4,000,000|
 
-And the following totals and ratios (expressed as percentages).
+And the following totals and ratios (expressed as percentages):
 
-[table4]
+|BM Stream|TE Stream|CS Stream|
+|---------|---------|---------|
+|$2,600,000|$1,000,000|$400,000|
+|65%|25%|10%|
 
 ## Stream Gates
 There is a “gate” between streams in the model, which is essentially that percentage for the BM stream cannot drop below that needed to make the mortgage payments. The formula for regular financial contributions under the BM stream is essentially just “apportion the mortgage amongst people”, so theoretically any percentage ratio for the BM stream works, but the amount for regular financial contributions could become too large to be affordable.
