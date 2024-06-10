@@ -1,6 +1,6 @@
 ---
 title: Three streams model
 next: 
-weight: 4
+weight: 3
 ---
 

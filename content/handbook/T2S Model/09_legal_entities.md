@@ -1,5 +1,5 @@
 ---
 title: Legal entities
 next: 
-weight: 10
+weight: 9
 ---

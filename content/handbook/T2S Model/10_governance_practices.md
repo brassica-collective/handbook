@@ -1,5 +1,5 @@
 ---
 title: Governance practices
 next: 
-weight: 11
+weight: 10
 ---

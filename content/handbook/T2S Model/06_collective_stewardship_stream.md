@@ -1,5 +1,5 @@
 ---
 title: Collective stewardship stream
 next: 
-weight: 7
+weight: 6
 ---

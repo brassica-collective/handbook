@@ -1,7 +1,7 @@
 ---
 title: About the model
 next: 
-weight: 3
+weight: 2
 ---
 
 
