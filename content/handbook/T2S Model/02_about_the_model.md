@@ -3,6 +3,7 @@ title: About the model
 next: 
 weight: 2
 type: docs
+slug: about_the_model
 ---
 
 ## Model “streams”
@@ -11,7 +12,7 @@ This model is said to have three streams. The word stream is imperfect. They cou
 
 Having overlapping streams rather than discrete steps is important to this model, because the act of repaying mortgages is slow so, if they didn’t overlap, the collective would spend years paying off mortgages and acting exactly like the regular capitalist system for property ownership. By blending the schemes we are able to live the future immediately, in a proportional way. Even if only 1% of the housing is owned by the collective and debt free, we can see how that 1% of our financial contributions works in a better, more collective world. This lets us start to build confidence that the end state of the model (collective stewardship) will provide us with access to more affordable and humane housing options as well as better long-term housing security in the face of both individual life changes and shared risks such as climate change.
 
-For more details on how this works in practice, see [“Blending the Streams”](/handbook/t2s-model/07_blending_the_streams/). 
+For more details on how this works in practice, see [“Blending the Streams”](/handbook/t2s-model/blending_the_streams/). 
 
 ## Concepts
 

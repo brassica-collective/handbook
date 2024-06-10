@@ -3,6 +3,7 @@ title: Legal entities
 next: 
 weight: 8
 type: docs
+slug: legal_entities
 ---
 
 ## Legal entities

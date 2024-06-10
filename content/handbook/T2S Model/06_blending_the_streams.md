@@ -3,6 +3,7 @@ title: Blending the streams
 next: 
 weight: 6
 type: docs
+slug: blending_the_streams
 ---
 
 The three streams in this model can all happen simultaneously, although a mature collective will eventually only use the CS stream and a lot of this complexity can go away. The primary implication of blending the stream is the way that financial contributions are calculated, both in terms of the amount, the implications for making them, and the options for changing or reducing them.

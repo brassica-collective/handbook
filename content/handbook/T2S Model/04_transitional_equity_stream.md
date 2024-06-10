@@ -3,6 +3,7 @@ title: Transitional equity stream
 next: 
 weight: 4
 type: docs
+slug: transitional_equity_stream
 ---
 
 ## Purpose 
@@ -94,7 +95,7 @@ Under the TE stream, shelter is contingent on being able to continue to pay mont
 
 Once the group has reached its desired size, it would do well to focus on providing resilient ongoing shelter by paying off bank debt as quickly as possible, shifting it to individual equity, and then focus on paying that off collectively, shifting to community stewardship.
 
-The shelter provisions of the CS stream are described under [‘Collective Stewardship Model’](handbook/t2s-model/05_collective_stewardship_stream/) 
+The shelter provisions of the CS stream are described under [‘Collective Stewardship Model’](handbook/t2s-model/collective_stewardship_stream/) 
 
 ## Exit strategy
 
