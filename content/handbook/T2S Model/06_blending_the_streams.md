@@ -51,13 +51,23 @@ There is a “gate” between streams in the model, which is essentially that pe
 To avoid that unaffordability, streams subsequent to the BM stream are only used in the calculation of regular financial contributions once regular financial contribution under the BM stream drops below the BM stream affordability metric.
 
 ## Financial contributions by ratio
-Hopefully it’s clear from the above that each month, each individual will make a financial contribution made up of three parts according to the current ratio. For example, presuming the BM stream gate is reached (see above), that contribution might look as follows:
+Hopefully it’s clear from the above that each month, each individual will make a financial contribution made up of three parts according to the current ratio. For example, presuming the BM stream gate is reached (see above), that contribution might look as follows :
 
-[table5]
+||BM Stream|TE Stream|CS Stream|Total|
+|--|-------|---------|---------|-----|
+|Stream formula result|$2,000|$1,500|$750|N/A|
+|Stream ratio|65%|25%|10%|100%|
+|Ratio based component|$1,300|$375|$75|$1,750|
+
+*Numbers are roughly based on 40%, 30% and 15% of a $60,000 gross income*
 
 Hopefully this shows that the more the model moves towards the CS stream, the cheaper it will be. For example, imagine about half of those percentages have shifted to the right.
 
-[table6]
+||BM Stream|TE Stream|CS Stream|Total|
+|--|-------|---------|---------|-----|
+|Stream formula result|$2,000|$1,500|$750|N/A|
+|Stream ratio|30%|30%|40%|100%|
+|Ratio based component|$600|$450|$300|$1,350|
 
 And finally, imagine that the mortgages are paid off, and all the Transitional Equity bought out, then of course the total contribution would be the CS stream amount, $750 on a $60,000 salary, or maybe zero in retirement. 
 
