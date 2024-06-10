@@ -4,3 +4,45 @@ next:
 weight: 6
 type: docs
 ---
+
+The three streams in this model can all happen simultaneously, although a mature collective will eventually only use the CS stream and a lot of this complexity can go away. The primary implication of blending the stream is the way that financial contributions are calculated, both in terms of the amount, the implications for making them, and the options for changing or reducing them.
+
+Essentially this works by determining a proportion of the scheme being managed under each stream, and this is updated regularly (generally monthly). Simply put, that means that if 10% of the communities’ asset value is mortgaged, then 10% of the calculation for everyone’s regular financial contribution is calculated using the formulas for the Bank Mortgage stream.
+
+This is, however, one necessary case of a gate that must be passed before moving on. That’s because if there’s a mortgage, it really must be paid or there are dire consequences, and that may not leave money over for other stream calculations if contributions are to remain affordable. That is discussed under “stream gates”.
+
+## Stream Asset Ratio
+
+At any point in time, the housing collective is able to calculate a ratio of the economic value of its assets and which party’s funds have been used to secure them.
+
+[table1]
+
+These totals are used to give a ratio, expressed as percentages. For example, if the collective has the following properties and mortgages:
+
+[table2]
+
+And additionally it has $1,000,000 of transitional equity balances “owed” to individuals within the collective, then there is still $400,000 unencumbered. This gives the following inputs to the formula:
+
+[table3]
+
+And the following totals and ratios (expressed as percentages).
+
+[table4]
+
+## Stream Gates
+There is a “gate” between streams in the model, which is essentially that percentage for the BM stream cannot drop below that needed to make the mortgage payments. The formula for regular financial contributions under the BM stream is essentially just “apportion the mortgage amongst people”, so theoretically any percentage ratio for the BM stream works, but the amount for regular financial contributions could become too large to be affordable.
+
+To avoid that unaffordability, streams subsequent to the BM stream are only used in the calculation of regular financial contributions once regular financial contribution under the BM stream drops below the BM stream affordability metric.
+
+## Financial contributions by ratio
+Hopefully it’s clear from the above that each month, each individual will make a financial contribution made up of three parts according to the current ratio. For example, presuming the BM stream gate is reached (see above), that contribution might look as follows:
+
+[table5]
+
+Hopefully this shows that the more the model moves towards the CS stream, the cheaper it will be. For example, imagine about half of those percentages have shifted to the right.
+
+[table6]
+
+And finally, imagine that the mortgages are paid off, and all the Transitional Equity bought out, then of course the total contribution would be the CS stream amount, $750 on a $60,000 salary, or maybe zero in retirement. 
+
+
