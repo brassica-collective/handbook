@@ -1,5 +1,6 @@
 ---
 title: Transitional equity stream
 next: 
-weight: 5
+weight: 4
+type: docs
 ---

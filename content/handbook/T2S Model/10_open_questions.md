@@ -1,5 +1,6 @@
 ---
 title: Open questions
 next: 
-weight: 11
+weight: 10
+type: docs
 ---

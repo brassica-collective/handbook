@@ -1,13 +1,9 @@
 ---
 title: Introduction
-next: Purpose
+next: 02_about_the_model
 weight: 1
+type: docs
 ---
-
-
-## Transition to Stewardship (T2S) Housing Model 
-
-There are [many approaches](https://www.collaborativehousing.org.au/copy-of-gather-a-community) to housing in more collaborative ways, each with [different sets of benefits and challenges](https://www.youtube.com/watch?v=rgmj_wp9EOs) that make them more or less appropriate depending on the context. The model outlined here intends to draw on lessons emerging from the more well-tested of these approaches to articulate an additional avenue for collaborating on housing. This avenue offers another option for small groups of people committed to the high-trust work of collectively stewarding the use of housing and associated land; it is not appropriate for those interested in individual ownership of property.
 
 ## Purpose
 The goal of this model is to provide participants with the shelter typically associated with housing ownership in ways that cultivate stewardship of land for the broader community and future generations. The three streams in this model reflect the need to build the futures we wish to see within the constraints of the systems we’ve inherited. 

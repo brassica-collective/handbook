@@ -1,5 +1,6 @@
 ---
 title: Bank mortage stream
 next: 
-weight: 4
+weight: 3
+type: docs
 ---

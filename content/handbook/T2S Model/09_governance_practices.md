@@ -1,5 +1,6 @@
 ---
 title: Governance practices
 next: 
-weight: 10
+weight: 9
+type: docs
 ---

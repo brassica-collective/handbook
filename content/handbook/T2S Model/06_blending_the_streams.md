@@ -1,5 +1,6 @@
 ---
 title: Blending the streams
 next: 
-weight: 7
+weight: 6
+type: docs
 ---
