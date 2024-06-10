@@ -1,6 +1,6 @@
 ---
 title: Participation
-next: first-page
+next: 
 type: docs
 ---
 
