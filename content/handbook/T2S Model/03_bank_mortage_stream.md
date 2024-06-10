@@ -26,7 +26,7 @@ Since financial contribution can be dragged up by the required costs, it’s qui
 3. Reducing the debt burden. The main goal of the BM stream is to pay off the mortgage as quickly as possible by encouraging the move to transitional equity through additional financial contributions. The more additional financial contributions received, the faster the collective is able to reduce the principal of its mortgage loan(s). Reducing principal has an immediate impact on the loan interest, causing future required payments to be less.
 4. Re-financing. As something of a last resort, a loan that has been partially paid off could be refinanced to go for a longer duration (back to the original 30 years) thus reducing payments. This does not drive the model in the right direction and should only be used if there are no better options. 
 
-## Affordability Metric
+## Affordability metric
 
 The collective should choose an affordability metric for the BM stream that creates strong financial pressure to get the mortgages paid off, much as individuals and families do when they take out a mortgage. A recommended default for covering operation costs is 40% of the gross income of all residents. (As detailed earlier, this will be unaffordable for some potential participants at an individual level and the distribution of contributions can be approportioned as appropriate. The goal in this stream is to pay off the mortgage as soon as possible so that we shift towards those streams where we are able to reduce collective costs to levels that are genuinely affordable).
 

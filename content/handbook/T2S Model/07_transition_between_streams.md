@@ -7,7 +7,7 @@ type: docs
 
 In case it is not clear how the proportion of each stream changes over time, the following sections describe how the model moves “forwards” (a greater percentage accruing towards the CS stream), or “backwards” (towards the BM stream).
 
-## Towards the CS stream
+## Towards the Community Stewardship (CS) stream
 
 The ratio of assets held in community stewardship rather than transitional equity increases in the following ways:
 
@@ -18,7 +18,7 @@ When equity is accumulated through monthly contributions, and the collective doe
 4. When the collective’s bank loans are fully paid off, the component to the TE stream that would previously have been used to pay off loans is now used to buy back transitional equity instead, transferring it to the CS stream
 Through the application of the negative interest rate on Transitional Equity
 
-## Towards the BM stream
+## Towards the Bank Mortgage (BM) stream
 
 While this model is intended to go “forward”, it is possible in the early years for it to seemingly “go backwards” if additional assets (new properties or property improvements) are purchased through a collective decision to take on more debt (whether from individuals or banks).
 

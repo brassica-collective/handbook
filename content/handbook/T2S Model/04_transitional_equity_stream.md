@@ -28,7 +28,7 @@ However, providing the minimum is reached, the per-person contribution should be
 
 Overall, the regular monthly contribution of the TE model should not feel like a bargain. Living in the collective has many other benefits compared to conventional rent (security, agency and community to name a few). The goal of the model is to demonstrate that as the collective moves into the Community Stewardship stream then housing becomes radically affordable.
 
-## Affordability Metric
+## Affordability metric
 
 The collective should choose an affordability metric for the BM stream that feels similar to the rental market. A recommended default is 30% of the gross income of the participants.
 
@@ -67,18 +67,18 @@ The inverse is not true if property values increase, as the accumulation of equi
 Furthermore, the collective imposes a negative interest rate on equity holding. The suggested value is -2%. This means that your equity balance decreases by 2% per year (calculated monthly). This value is small enough to ensure that it doesn’t dramatically decrease your equity value, preserving most of it for your potential exit strategy, but inexorably moves the model towards community stewardship. Using a percentage like this also reduces smaller equity balances by a smaller amount, and will never entirely remove your equity as it asymptotes towards zero.
 
 ## Equity uses
-1.  Reducing financial contributions
+
+### Reducing financial contributions
 In a capitalist system, the primary use of housing equity is for rent reduction. If you buy a house, and you pay it off, you no longer have to pay a mortgage (although you still have to pay rates and other non-mortgage costs). This stream provides a similar system, by allowing you to “spend” equity to reduce regular payments. Essentially, you are able to use $1 of equity to reduce your monthly contribution by $1 this month. 
 
 Equity reduced this way is essentially bought by the collective. If there is a surplus buffer to do so under the Collective Stewardship (CS) stream, then this equity is effectively moved out of the TE stream and into the CS one. However, if no funds exist for this, the equity might be purchased under the TE stream by using buffer funds, possibly resulting in a draw down on the mortgage (increasing bank debt) if this continues. Depending on how much of the mortgage is paid off, there will be a limit in the group’s ability to do this, resulting in a limitation set on the amount of equity that can be spent in this way. However, over time as equity is amassed, the group’s debt burden also decreases and this option becomes more available.
 
-2. Shelter assistance if living outside the stream
-If a collective member holding equity is not living in a collective house for some reason (perhaps they left for an extended period, came back and there is not yet a room available for them), then they might be living in conventional housing paying rent or a mortgage.
+### Shelter assistance if living outside the stream
+If a collective member holding equity is not living in a collective house for some reason (perhaps they left for an extended period, came back and there is not yet a room available for them), then they might be living in conventional housing paying rent or a mortgage. 
 
 If this is the case, they are allowed to sell their equity back to the collective for cash, up to the amount per month of their monthly accommodation cost in their other housing arrangement, and limited by the collective’s available liquidity as described above.
 
-3. Cashing out equity on exit
-
+### Cashing out equity on exit 
 If a member wishes to move out, and leave the collective permanently, they are able to cash out their equity at the fastest rate that the collective can afford. This is described in more detail under  Exit strategy.
 
 ## Collective Liquidity
@@ -102,7 +102,7 @@ The TS stream needs a financial exit strategy to ensure that people are comforta
 
 In an ideal world, once someone decided to exit, they would get all their money back. In practice, this may be delayed due to the limited liquidity of the group. To account for this, when someone exits they are immediately paid out for their equity up to a maximum cap. This cap is based on the available liquidity, but it is not the total liquidity, or there would be none left for a second person to exit. Instead, the payment cap is based on the following formula:
 
-**initial_payment_cap = (exiting_member_liquidy / total_member_liquidy) x collective_liquidity**
+`initial_payment_cap = (exiting_member_liquidy / total_member_liquidy) x collective_liquidity`
 
 This means that in a group where Sally has $100,000 of equity, and other people together have $400,000 of equity, Sally can only take 20% (1/5th) of the available liquidity immediately upon exit. If the group had $200,000 of available liquidity, Sally could only be paid out $40,000 immediately on exit, with the other $60,000 still needing to be paid over time under conditions described below.
 

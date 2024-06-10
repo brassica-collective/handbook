@@ -11,7 +11,7 @@ Essentially this works by determining a proportion of the scheme being managed u
 
 This is, however, one necessary case of a gate that must be passed before moving on. That’s because if there’s a mortgage, it really must be paid or there are dire consequences, and that may not leave money over for other stream calculations if contributions are to remain affordable. That is discussed under “stream gates”.
 
-## Stream Asset Ratio
+## Stream asset ratio
 
 At any point in time, the housing collective is able to calculate a ratio of the economic value of its assets and which party’s funds have been used to secure them.
 
@@ -45,7 +45,7 @@ And the following totals and ratios (expressed as percentages):
 |$2,600,000|$1,000,000|$400,000|
 |65%|25%|10%|
 
-## Stream Gates
+## Stream gates
 There is a “gate” between streams in the model, which is essentially that percentage for the BM stream cannot drop below that needed to make the mortgage payments. The formula for regular financial contributions under the BM stream is essentially just “apportion the mortgage amongst people”, so theoretically any percentage ratio for the BM stream works, but the amount for regular financial contributions could become too large to be affordable.
 
 To avoid that unaffordability, streams subsequent to the BM stream are only used in the calculation of regular financial contributions once regular financial contribution under the BM stream drops below the BM stream affordability metric.

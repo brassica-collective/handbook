@@ -23,7 +23,7 @@ The governance body of the CS stream may have enshrined targets for affordabilit
 
 This stream should look favourable in comparison to home-ownership, at least in the eyes of values aligned individuals. If the entire house was managed according to this stream, your living situation should be radically affordable throughout your entire life, including periods of difficulty. 
 
-## Affordability Metric
+## Affordability metric
 
 The collective should choose an affordability metric for the CS stream that feels life-changingly affordable compared to the regular rental market, and it should probably be exclusively based on means, allowing it to drop to zero in the case of retirement or inability to earn money.
 
