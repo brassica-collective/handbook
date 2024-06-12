@@ -1,7 +1,8 @@
 ---
 title: Voyagers
+previous: participation
 next: crew
-weight: 3
+weight: 1
 type: docs
 slug: voyagers
 ---

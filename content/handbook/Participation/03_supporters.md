@@ -1,6 +1,6 @@
 ---
 title: Supporters
-next: voyagers
+next: rad-housing
 weight: 3
 type: docs
 slug: supporters

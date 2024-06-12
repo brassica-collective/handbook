@@ -1,6 +1,6 @@
 ---
 title: Crew
-next: rad_housing
+next: voyagers
 weight: 2
 type: docs
 slug: crew

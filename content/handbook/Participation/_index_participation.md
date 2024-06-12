@@ -1,5 +1,6 @@
 ---
 title: Participation
+previous: handbook
 next: voyagers
 type: docs
 sidebar:
