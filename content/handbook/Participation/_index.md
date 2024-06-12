@@ -1,7 +1,9 @@
 ---
 title: Participation
-next: 
+next: voyagers
 type: docs
+sidebar:
+  open: true
 ---
 
 The Brassica Collective coheres around a specific implementation of a RAD Housing project based on the work of a dynamic emerging group of participants who are experimenting with [commoning practices](https://commonslibrary.org/practising-commoning/) as part of a broader [prefigurative politics](https://commonslibrary.org/prefigurative-politics-in-practice/) theory of change. 
