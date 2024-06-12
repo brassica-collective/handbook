@@ -15,7 +15,7 @@ This goal has emerged in response to both the climate crisis and the housing cri
 
 Collective approaches to RAD housing are driven by grassroots efforts that can emerge differently depending on the local context in ways that complement [other initiatives](https://hackmd.io/@Teq/CollectivingHousing) helping to improve access to affordable, secure, housing and/or increase the environmental sustainability of housing. 
 
-One way to collectivise to decommodify housing is to implement a version of the [Transition to Stewardship (T2S) Model](/docs/t2s-model/). This model is intended as a set of guidelines for navigating the legal and financial governance of transitioning from shared-ownership to collective stewardship of multiple houses (within the the context of the owner/rental dichotomy within the Australian housing systems).
+One way to collectivise to decommodify housing is to implement a version of the [Transition to Stewardship (T2S) Model](/handbook/t2s-model/). This model is intended as a set of guidelines for navigating the legal and financial governance of transitioning from shared-ownership to collective stewardship of multiple houses (within the the context of the owner/rental dichotomy within the Australian housing systems).
 
 With the financial/legal context of the State of Victoria, the T2S model may also make it easier for small groups to leverage their financial and social privileges to begin a Seedling Project of acquiring and retrofitting properties in ways that involve a broader group of  supporters who are interested in participating as residents once these decommodified properties become and available as affordable housing.
 
