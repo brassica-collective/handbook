@@ -1,11 +1,7 @@
 ---
 title: About this handbook
-next: participation
 type: docs
-weight: 1
 url: /handbook
-sidebar:
-  open: true
 ---
 
 This handbook aims to collect stable versions of documentation for the Brassica Collective.  

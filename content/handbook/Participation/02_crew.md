@@ -1,6 +1,6 @@
 ---
 title: Crew
-next: voyagers
+next: supporters
 weight: 2
 type: docs
 slug: crew
