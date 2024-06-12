@@ -1,6 +1,6 @@
 ---
 title: Voyagers
-previous: participation
+prev: participation
 next: crew
 weight: 1
 type: docs

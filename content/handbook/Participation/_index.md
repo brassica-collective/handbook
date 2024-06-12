@@ -1,6 +1,6 @@
 ---
 title: Participation
-previous: handbook
+prev: handbook
 next: 01_voyagers
 type: docs
 slug: participation

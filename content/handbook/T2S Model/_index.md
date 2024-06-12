@@ -1,6 +1,6 @@
 ---
 title: T2S Model
-previous: rad-housing
+prev: rad-housing
 next: 01_introduction
 type: docs
 slug: t2s-model

@@ -1,5 +1,6 @@
 ---
 title: About this handbook
+next: participation
 type: docs
 weight: 1
 ---
