@@ -3,6 +3,7 @@ title: Crew
 next: 
 weight: 2
 type: docs
+slug: crew
 ---
 
 We expect multiple crews of various types to form during the Brassica RAD Housing project. 
