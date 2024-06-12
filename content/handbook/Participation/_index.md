@@ -3,6 +3,7 @@ title: Participation
 previous: handbook
 next: voyagers
 type: docs
+slug: participation
 sidebar:
   open: true
 ---
