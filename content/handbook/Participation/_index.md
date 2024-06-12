@@ -1,7 +1,7 @@
 ---
 title: Participation
 previous: handbook
-next: voyagers
+next: 01_voyagers
 type: docs
 slug: participation
 sidebar:
