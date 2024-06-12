@@ -1,7 +1,7 @@
 ---
 title: Voyagers
 prev: participation
-next: crew
+next: 02_crew
 weight: 1
 type: docs
 slug: voyagers

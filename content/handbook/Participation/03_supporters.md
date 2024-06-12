@@ -1,5 +1,6 @@
 ---
 title: Supporters
+prev: 02_crew
 next: rad-housing
 weight: 3
 type: docs

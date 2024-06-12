@@ -1,6 +1,7 @@
 ---
 title: Crew
-next: supporters
+prev: 01_voyagers
+next: 03_supporters
 weight: 2
 type: docs
 slug: crew

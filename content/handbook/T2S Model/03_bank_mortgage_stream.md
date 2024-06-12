@@ -1,6 +1,5 @@
 ---
 title: Bank mortgage stream
-next: 
 weight: 3
 type: docs
 slug: bank_mortgage stream

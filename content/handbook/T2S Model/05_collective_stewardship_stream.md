@@ -1,6 +1,5 @@
 ---
 title: Collective stewardship stream
-next: 
 weight: 5
 type: docs
 slug: collective_stewardship_stream

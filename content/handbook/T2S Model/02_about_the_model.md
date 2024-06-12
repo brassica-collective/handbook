@@ -1,6 +1,5 @@
 ---
 title: About the model
-next: 
 weight: 2
 type: docs
 slug: about_the_model
