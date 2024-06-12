@@ -12,5 +12,5 @@ The Brassica Collective coheres around a specific implementation of a RAD Housin
 
 Within this context, we expect the specific participatory decision-making processes we adopt to be co-created by those involved. 
 
-As a starting point, we are differentiating between ['Voyagers'](/handbook/participation/voyagers/) who participate in collective decision-making practices, and ['Supporters'](/handbook/participation/supporters/) who who are not currently interested in participating in decision-making yet want to support the Brassica Collective in contributing to RAD goals. 
+As a starting point, we are differentiating between ['Voyagers'](/handbook/participation/voyagers/) who participate in collective decision-making practices, and ['Supporters'](/handbook/participation/supporters/) who are not currently interested in participating in decision-making yet want to support the Brassica Collective in contributing to RAD goals. 
 
