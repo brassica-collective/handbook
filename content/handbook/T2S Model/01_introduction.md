@@ -1,5 +1,6 @@
 ---
 title: Introduction
+prev: t2s-model
 next: 02_about_the_model
 weight: 1
 type: docs
