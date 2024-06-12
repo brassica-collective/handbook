@@ -1,6 +1,6 @@
 ---
 title: Supporters
-next: 
+next: voyagers
 weight: 3
 type: docs
 slug: supporters

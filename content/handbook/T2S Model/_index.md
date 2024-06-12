@@ -2,6 +2,7 @@
 title: T2S Model
 next: 01_introduction
 type: docs
+slug: t2s-model
 ---
 
 ## Transition to Stewardship (T2S) Housing Model 
