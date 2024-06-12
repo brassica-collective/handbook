@@ -14,5 +14,5 @@ Initial sets of documentation includes:
 
 This handbook is currently maintained by the [RAD Crew](/handbook/participation/crew/). We aim to include a transparent process for determining when and how to update key documents in this handbook as part of the initial governance processes proposed for the Brassica Collective. If you'd like to get involved in maintaining these documents in the meantime, please contact us at crew@radhousing.org 
 
-This handbook is being constructed for an emerging Brassica Collective that gathers on the unceded lands of the Wurundjeri Woi Wurrung people of the Kulin Nation. We pay respect to past, present, and emerging Wurundjeri Elders and honour their enduring connections to Country. We acknowledge the ongoing impacts of colonisation, and recognise the importance of First Nations leadership in cultivating sustainable collective practices.
+This handbook is being maintained for an emerging Brassica Collective that gathers on the unceded lands of the Wurundjeri Woi Wurrung people of the Kulin Nation. We pay respect to past, present, and emerging Wurundjeri Elders and honour their enduring connections to Country. We acknowledge the ongoing impacts of colonisation, and recognise the importance of First Nations leadership in cultivating sustainable collective practices.
 
