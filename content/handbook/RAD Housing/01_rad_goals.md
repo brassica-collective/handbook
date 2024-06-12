@@ -1,5 +1,6 @@
 ---
 title: RAD Housing Goals
+next: t2s_model
 type: docs
 prev: docs/folder/
 slug: rad_goals
