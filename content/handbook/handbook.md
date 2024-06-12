@@ -2,6 +2,7 @@
 title: About this handbook
 type: docs
 url: /handbook
+slug: handbook
 ---
 
 This handbook aims to collect stable versions of documentation for the Brassica Collective.  
