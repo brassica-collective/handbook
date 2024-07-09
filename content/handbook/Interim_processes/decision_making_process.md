@@ -1,20 +1,15 @@
-# Interim Process for Decision-Making 
+---
+title: Decision Making Process
+prev: Interim Processes
+next: 
+type: docs
+slug: decision_making_process
+sidebar:
+  open: true
+---
 
-Status: Version 1 draft for RAD Crew to review 
+The process outlined below is intended to be replaced by decision-making *agreements* once we have created them (and should be reviewed in October, if not already replaced by then). 
 
-## Context: 
-We will need to make a lot of decisions together. 
-
-To create a participatory decision-making process we will need to agree on how and when different types of decisions are made by whom. This will take time. 
-
-In the meantime, we are differentiating between two broad types of decisions: 'major' decisions about how we form our collective and 'minor' operational decisions needed to start implementing the RAD Housing goals for our collective.
-
-Adopting an interim processes for making these two types of decisions is intended to help us make initial decisions together while cultivating a shared context from which to co-create more appropriate decision-making processes for the each of the many types of decisions we hope to make together.
-
-The interim process for making both of these types of decisions will include time within our assemblies for discussing up-coming decisions and engaging with discussion in an online tool - ['Loomio'](handbook/content/handbook/Guides/Loomio_intro.md) - that is designed to support decentralised groups to make decisions transparently. 
-
-This interim processes will be replaced by more appropriate agreements once we have created them (and should be reviewed in October, if not replaced by then). 
- 
 ## Key Concepts
 
 MAJOR DECISIONS: Major decisions are those that have high risk and/or permanent outcomes. Initially, our major decisions will be about how we function as a collective, including the principles informing our collective practices and how we make different types of decisions together. Major decisions we will face later (and hope to have an updated decision making process for) include articulating our criteria for determining membership rights and responsibilities, our processes for navigating conflict well together, when and how to acquire property, co-living and multi-site collectivising agreements, etc.,
@@ -25,9 +20,7 @@ CONSENSUS AGREEMENTS: a [*consensus agreement*](https://www.seedsforchange.org.u
 
 CONSENT AGREEMENTS: a [*consent agreement*]() is similar to consensus however, instead of seeking the best decision for the group, consent is the absence of objections (“I can live with this decision”). Rather then aiming to resolve all concerns, the proposal is only amended for “principled objections” (such as “I think there is a serious risk this proposal could do harm”, not “I don’t like it”). While there are many ways of reaching consent, the stages of reaching consent agreements typically includes some version of the following steps:  proposal; questions: reactions; amendments; confirmation; implementation. This approach is not appropriate in all contexts but does provide a transparent way to make low-risk time-sensitive decisions within decentralised groups.
 
-## Interim decision-making process 
-
-### Consensus Agreement Process for Initial Major Decisions
+## Consensus Agreement for Initial Major Decisions
 Initially, our major decisions will be about how we function as a collective, including the principles informing our collective practices and how we make different types of decisions together. 
 
 While there are many ways of forming consensus agreements, to start us off we are adopting a 4-stage version: 
@@ -42,7 +35,7 @@ When the proposal is stable, the facilitator will start a formal ['consensus pro
 The facilitator summarises the outcome and initiate any steps required for implementation (e.g., updating the handbook)
 
 
-### Minor Decisions Process
+## Consent Agreement for Initial Minor Decisions
 Minor decisions are those with low-risk and easily-reversible outcomes. Examples of minor decisions include selecting professionals who can review our T2S model, choosing a location for hosting our next assembly, prioritising the next tasks needed to move the project forward, selecting a process for documenting our decisions, etc.,   
 
 Our interim process for making minor decisions is to delegate decisions types to the crew through a *consent agreement* process. In this context, a *consent agreement* is similar to consensus, but instead of seeking the best decision for the group, consent is the absence of objections ('I can live with this decisions'). Rather then aiming to resolve all concerns, the proposal is only amended for 'principled objections' (such as “I think there is a serious risk this proposal could do harm”, not “I don’t like it”). 
@@ -55,7 +48,8 @@ While there are many ways of forming consent agreements, we will follow a simpli
 4. CONFIRMATION: The crew can then post a formal ['Consent proposal'](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal) on Loomio (adding any amendment) 
 5. IMPLEMENTATION: The facilitor then closes the proposal and summarises the outcome on Loomio for documentation.
  
-In between Assemblies, crew can seek [*advice*](https://help.loomio.com/en/guides/advice_process/index.html) from Voyagers to increase the range of perspectives informing the decisions that have been delegated to them
+In between Assemblies, crew can also seek [*advice*](https://help.loomio.com/en/guides/advice_process/index.html) from Voyagers to increase the range of perspectives informing the decisions that have been delegated to them
+
 
 
 
