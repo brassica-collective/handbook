@@ -1,9 +1,10 @@
 ---
 title: T2S Model
-prev: rad-housing
+prev: agreements
 next: 01_introduction
 type: docs
 slug: t2s-model
+weight: 5
 sidebar:
   open: true
 ---

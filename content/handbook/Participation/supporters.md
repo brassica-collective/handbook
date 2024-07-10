@@ -1,10 +1,13 @@
 ---
 title: Supporters
-prev: 02_crew
-next: rad-housing
-weight: 3
-type: docs
 slug: supporters
+type: docs
+prev: participation
+next: voyagers
+weight: 1
+sidebar:
+  open: true
+
 ---
 
 Supporters are those who are interested in the project generally but not wanting to participate in decision-making processes about the specifics.
