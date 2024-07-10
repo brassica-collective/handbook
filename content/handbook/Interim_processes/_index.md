@@ -1,16 +1,17 @@
 ---
 title: Interim Processes
-prev: participation
-next: decision_making_process
-type: docs
 slug: interim_processes
+type: docs
+prev: crew
+next: assembly_facilitation
+weight: 3
 sidebar:
   open: true
 ---
 
 We will need to make a lot of decisions together. 
 
-To create a participatory decision-making process we will need to agree on how and when different types of decisions are made by whom. This will take time. It may also be useful to experiment with some different decision-making processes first.
+To create a participatory decision-making process we will need to agree on how and when [different types of decisions](/handbook/t2s-model/governance_practices/) are made by whom. This will take time. It may also be useful to experiment with some different decision-making processes first.
 
 Adopting an interim processes is intended to help us make initial decisions together while cultivating a shared context from which to co-create more appropriate agreements for the each of the many types of decisions we hope to make together. 
 

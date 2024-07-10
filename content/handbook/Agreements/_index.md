@@ -1,9 +1,10 @@
 ---
 title: Agreements
-prev: assembly_facilitation
-next: handbook
+slug: agreements
 type: docs
-slug: interim_agreements
+prev: crew
+next: interim_processes
+weight: 4
 sidebar:
   open: true
 ---
@@ -20,5 +21,3 @@ The types of agreements we make are up to us. Potential aspects of our collectiv
 As we make agreements as a collective, they will be added here. 
 
 Until wil have the relevant decision-making agreements, we have an [interim process](content/handbook/Interim_processes/decision_making_process.md) for making decisions about our initial agreements. 
-
-To demonstrate this process, see the Loomio topic 'Jamez Principles'.

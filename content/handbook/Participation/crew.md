@@ -1,10 +1,13 @@
 ---
 title: Crew
-prev: 01_voyagers
-next: 03_supporters
-weight: 2
-type: docs
 slug: crew
+type: docs
+prev: voyagers
+next: agreements
+weight: 3
+sidebar:
+  open: true
+
 ---
 
 Crew are [Voyagers](/handbook/participation/voyagers/) who have chosen to participate in one or more of the working groups responsible for directing specific aspects of the project (with guidance from the broader collection of Voyagers at key decision points). 

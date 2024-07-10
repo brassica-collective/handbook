@@ -1,6 +1,8 @@
 ---
 title: RAD Housing
+slug: rad-housing
 type: docs
+weight: 1
 prev: handbook
 next: participation
 sidebar:

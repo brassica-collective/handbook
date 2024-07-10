@@ -1,9 +1,10 @@
 ---
 title: Interim Decision Making Process
-prev: interim_processes
-next: assembly_facilitation
-type: docs
 slug: decision_making_process
+type: docs
+prev: assembly_facilitation
+next: agreements
+weight: 2
 sidebar:
   open: true
 ---

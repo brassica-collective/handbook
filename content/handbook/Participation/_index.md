@@ -1,9 +1,10 @@
 ---
 title: Participation
-prev: handbook
-next: 01_voyagers
-type: docs
 slug: participation
+type: docs
+next: supporters
+prev: rad-housing
+weight: 2
 sidebar:
   open: true
 ---
