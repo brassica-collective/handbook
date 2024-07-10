@@ -2,8 +2,8 @@
 title: Agreements
 slug: agreements
 type: docs
-prev: crew
-next: interim_processes
+prev: decision_making_process
+next: t2s-model
 weight: 4
 sidebar:
   open: true
