@@ -1,7 +1,7 @@
 ---
 title: Voyagers
 prev: participation
-next: 02_crew
+next: interim_processes
 weight: 1
 type: docs
 slug: voyagers
@@ -17,7 +17,7 @@ In between assemblies, Crew will also make explicit requests for Voyagers to par
 
 Depending on changing circumstances, Voyagers can opt-in for periods of time with additional responsibilities as part of one or more Crew and/or explicitly opt-out of decision-making responsibilities for short-periods of time (e.g., to rest and support more sustainable long-term participation).
 
-A minimum expectation for Voyagers is that they engage when prompted by [Crew](/handbook/participation/crew/).
+A minimum expectation for Voyagers is that they engage when prompted by [Crew](/handbook/participation/crew/), abide by our collective agreements, and contribute to our [group processes](/handbook/interim_processes)
 
 
 

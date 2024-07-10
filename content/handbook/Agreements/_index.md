@@ -1,7 +1,7 @@
 ---
 title: Agreements
-prev: interim_agreements
-next: 
+prev: assembly_facilitation
+next: handbook
 type: docs
 slug: interim_agreements
 sidebar:

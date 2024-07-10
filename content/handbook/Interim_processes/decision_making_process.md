@@ -1,7 +1,7 @@
 ---
-title: Decision Making Process
-prev: Interim Processes
-next: 
+title: Interim Decision Making Process
+prev: interim_processes
+next: assembly_facilitation
 type: docs
 slug: decision_making_process
 sidebar:

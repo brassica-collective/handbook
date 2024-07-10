@@ -1,8 +1,8 @@
 ---
 title: RAD Housing
 type: docs
-prev: 03_supporters
-next: t2s-model
+prev: handbook
+next: participation
 sidebar:
   open: true
 ---
