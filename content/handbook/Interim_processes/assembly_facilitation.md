@@ -16,6 +16,7 @@ The following are some initial process templates for structuring our assemblies.
  * Opening circle 
  * Crew report-backs  
  * Peer Q&A  
+ * Rest break
  * Discussion of upcoming decisions on Loomio  
  * Activities in small groups  
  * Re-formation of crews
