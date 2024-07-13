@@ -9,17 +9,28 @@ sidebar:
   open: true
 ---
 
-The following is an example of an assembly process to use as templates for structuring our assemblies. These are intended to provide us we a clear structure that helps us each take turns facilitating assemblies. We can add to this with more examples as we go and build on the structure as we co-create our agreements and processes.  
+Lessons from decentralised organising emphaise the value of cultivating processes that are both clear and flexible. 
+
+For our initial assemblies, there are some key elements (in addition to standard meeting processes) we hope to cultivate: an opening circle, time for Crews to report their updates to the broader collective, discussion of any upcoming decisions, an opportunity to form/join/leave crews, an activity to help us practice relating well together, and a closing circle. 
+
+The following are two examples of ways of structuring these elements. These are intended to be adapted as we can us each take turns facilitating assemblies and, as we co-create our agreements and processes, as can also can adjust these and add more examples.
 
 ### Example 1:
  * Acknowledgement of Country  
  * Opening circle 
- * Crew report-backs  
- * Peer Q&A  
- * Rest break
+ * Crew report-backs & peer Q&A  
  * Discussion of upcoming decisions on Loomio  
+ * Rest break
  * Activities in small groups  
  * Re-formation of crews
  * Closing circle  
 
-
+### Example 2:
+ * Acknowledgement of Country  
+ * Opening circle 
+ * Crew report-backs & peer Q&A  
+ * Activities in small groups  
+ * Rest break
+ * Discussion of upcoming decisions on Loomio  
+ * Re-formation of crews
+ * Closing circle  
