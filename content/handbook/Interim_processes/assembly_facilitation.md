@@ -11,7 +11,7 @@ sidebar:
 
 Lessons from decentralised organising emphasise the value of cultivating processes that are both clear and flexible. For our initial assemblies, there are some key elements (in addition to standard meeting processes) that we hope to cultivate: an opening circle, time for Crews to report their updates to the broader collective, time to discuss upcoming decisions, an opportunity to form/join/leave crews, an activity to help us to build skills relating well together and practice navigating conflict productively, and a closing circle. 
 
-The following are two examples of ways of structuring these elements. These are intended to be adapted as we each take turns facilitating assemblies and, as we co-create our agreements and processes, we can also can adjust these and add more examples.
+The following are two examples of ways of structuring these elements. These are intended to be adapted as we each take turns facilitating assemblies and, as we co-create our agreements and processes, we can also adjust these and add more examples.
 
 ### Example 1:
  * Acknowledgement of Country  
