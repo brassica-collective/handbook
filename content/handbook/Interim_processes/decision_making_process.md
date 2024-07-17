@@ -9,10 +9,15 @@ sidebar:
   open: true
 ---
 
-The process outlined below is intended to be replaced by decision-making *agreements* once we have created them (and should be reviewed in October, if not already replaced by then). 
+To create a participatory decision-making process we will need to agree on how and when [different types of decisions](/handbook/t2s-model/governance_practices/) are made by whom. This will take time. It may also be useful to experiment with some different decision-making processes first.
+
+Adopting an interim processes is intended to help us make initial decisions together while cultivating a shared context from which to co-create more appropriate agreements for each of the many types of decisions we hope to make together. The process outlined below is intended to be replaced by decision-making *agreements* once we have created them (and should be reviewed in October, if not already replaced by then). 
+
+As outlined below, initial decisions will be made in one of two ways: by forming consensus for 'major' decisions about how we form our collective, and by Crew establishing consent from Voyagers to  make the specific types of 'minor' operational decisions needed to start implementing the RAD Housing goals for our collective. For both these types of decisions we will include time within our assemblies for discussing up-coming decisions and engaging with discussion in an online tool - ['Loomio'](handbook/content/handbook/Guides/Loomio_intro.md) - that is designed to support decentralised groups to make decisions transparently. 
+
+Before outlining the process, it is worth clarifying that our approach is drawing on a few key concepts that are used differently in other contexts. The following descriptions of these concepts is intended to provide context for our initial process as well as a pathway for us to begin exploring how to co-create our longer-term decision-making agreements.  
 
 ## Key Concepts
-Before outlining the process, it is worth clarifying that this process is drawing on a few key concepts that are used differently in other contexts. The following descriptions of these concepts is intended to provide a pathway   
 
 MAJOR DECISIONS: Major decisions are those that have high risk and/or permanent outcomes. Initially, our major decisions will be about how we function as a collective, including the principles informing our collective practices and how we make different types of decisions together. Major decisions we will face later (and hope to have an updated decision making process for) include articulating our criteria for determining membership rights and responsibilities, our processes for navigating conflict well together, when and how to acquire property, co-living and multi-site collectivising agreements, etc.,
 
@@ -42,7 +47,9 @@ The facilitator summarises the outcome and initiate any steps required for imple
 ## Interim Consent Process for Minor Decisions
 Minor decisions are those with low-risk and easily-reversible outcomes. Examples of minor decisions include selecting professionals who can review our T2S model, choosing a location for hosting our next assembly, prioritising the next tasks needed to move the project forward, selecting a process for documenting our decisions, etc.,   
 
-Our interim process for making minor decisions is to delegate decisions types to a crew through a *consent* process. In this context, *consent* is similar to consensus, but instead of seeking the best decision for the group, consent is the absence of objections ('I can live with this decisions'). Rather then aiming to resolve all concerns, the proposal is only amended for 'principled objections' (such as “I think there is a serious risk this proposal could do harm”, not “I don’t like it”). 
+Our interim process for making minor decisions is to delegate specific types of decisions to a crew through a consent process. This process is intended to help Crew establish consent from Voyagers to continue making the specific types of operational decisions needed to start implementing the RAD Housing goals for our collective.
+
+In this context, *consent* is similar to consensus, but instead of seeking the best decision for the group, consent is the absence of objections ('I can live with this decisions'). Rather then aiming to resolve all concerns, the proposal is only amended for 'principled objections' (such as “I think there is a serious risk this proposal could do harm”, not “I don’t like it”). 
 
 While there are many ways of forming agreement via consent, we will follow a simplified process (until we have a chance to collaborate on a more nuanced one). The steps in this process are:
 
@@ -52,21 +59,7 @@ While there are many ways of forming agreement via consent, we will follow a sim
 4. CONFIRMATION: The crew can then post a formal ['Consent proposal'](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal) on Loomio (adding any amendment) 
 5. IMPLEMENTATION: The facilitor then closes the proposal and summarises the outcome on Loomio for documentation.
  
-In between Assemblies, crew can also seek [*advice*](https://help.loomio.com/en/guides/advice_process/index.html) from Voyagers to increase the range of perspectives informing the decisions that have been delegated to them
+In between Assemblies, crew can also seek [*advice*](https://help.loomio.com/en/guides/advice_process/index.html) from Voyagers to increase the range of perspectives informing the decisions delegated to them
 
-## Delegating Decisions Classes to Crew
-RAD Crew will need...
-
-Our interim process for delegating types decisions to the RAD crew. In this context, delegation is 
-
-While there are many ways of forming delegation agreements, we will follow a simplified process (until we have a chance to collaborate on a more nuanced one). The steps in this process are:
-
-1. PROPOSAL & QUESTIONS: As part of the crew report-back during the assembly, they will identify types of decision needed to move the project forward and invites clarification questions.  
-2. REACTIONS: Following clarifications, the facilitator runs an in-person [sense check poll](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check) to test for reactions. 
-3. AMENDMENTS: Those with concerns are able to suggest specific constructive modifications to the proposal for further discussion.  
-4. CONFIRMATION: The crew can then post a formal ['Consent proposal'](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal) on Loomio (adding any amendment) 
-5. IMPLEMENTATION: The facilitor then closes the proposal and summarises the outcome on Loomio for documentation.
- 
-In between Assemblies, crew can also seek [*advice*](https://help.loomio.com/en/guides/advice_process/index.html) from Voyagers to increase the range of perspectives informing the decisions that have been delegated to them
 
 
