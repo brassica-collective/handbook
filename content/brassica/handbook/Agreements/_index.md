@@ -3,7 +3,7 @@ title: Agreements
 slug: agreements
 type: docs
 prev: decision_making_process
-next: t2s-model
+next:
 weight: 4
 sidebar:
   open: true

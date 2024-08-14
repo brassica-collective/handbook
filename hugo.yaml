@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: About RAD Housing
-      pageRef: /
+      pageRef: /about
       weight: 1
     - name: T2S Model
       pageRef: /t2s-model
