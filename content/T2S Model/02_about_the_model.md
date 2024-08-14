@@ -11,7 +11,7 @@ This model is said to have three streams. The word stream is imperfect. They cou
 
 Having overlapping streams rather than discrete steps is important to this model, because the act of repaying mortgages is slow so, if they didn’t overlap, the collective would spend years paying off mortgages and acting exactly like the regular capitalist system for property ownership. By blending the schemes we are able to live the future immediately, in a proportional way. Even if only 1% of the housing is owned by the collective and debt free, we can see how that 1% of our financial contributions works in a better, more collective world. This lets us start to build confidence that the end state of the model (collective stewardship) will provide us with access to more affordable and humane housing options as well as better long-term housing security in the face of both individual life changes and shared risks such as climate change.
 
-For more details on how this works in practice, see [“Blending the Streams”](/handbook/t2s-model/blending_the_streams/). 
+For more details on how this works in practice, see [“Blending the Streams”](../blending_the_streams/).
 
 ## Concepts
 
@@ -21,7 +21,7 @@ Housing costs [include](https://www.ahuri.edu.au/analysis/brief/understanding-30
 
 ### Mortgage
 
-A secured loan used by a borrower to buy a property. Typically a mortgage loan is repaid over a number of years to repay both the capital cost (i.e. the actual money paid for the property, also called the ‘mortgage principal’) and the interest on the loan. The loan is secured by rights to the deed of ownership for the property, these rights are held by the entity that provided the loan until the loan (including all interest) is fully repaid. 
+A secured loan used by a borrower to buy a property. Typically a mortgage loan is repaid over a number of years to repay both the capital cost (i.e. the actual money paid for the property, also called the ‘mortgage principal’) and the interest on the loan. The loan is secured by rights to the deed of ownership for the property, these rights are held by the entity that provided the loan until the loan (including all interest) is fully repaid.
 
 ### Operating costs on a mortgaged property
 
@@ -56,11 +56,11 @@ A financial contribution not expected of a participant, but paid nonetheless. Th
 
 ### Total asset value
 
-The value of the collective’s assets as they relate to property ownership. This is generally the combined total of all property valuations owned by the collective (regardless of whether they are mortgaged), plus any cash savings or similar. Other material assets (such as tools and equipment) are not generally considered in this model but if a collective does choose to have expensive assets it could include them in total asset value if it wants, using a realistic resale value of the asset. 
+The value of the collective’s assets as they relate to property ownership. This is generally the combined total of all property valuations owned by the collective (regardless of whether they are mortgaged), plus any cash savings or similar. Other material assets (such as tools and equipment) are not generally considered in this model but if a collective does choose to have expensive assets it could include them in total asset value if it wants, using a realistic resale value of the asset.
 
 ### Affordability Metrics
 
-Each stream has a different affordability metric . 
+Each stream has a different affordability metric .
 
 There are many ways to calculate housing affordability. One of the more useful is the 30:40 indicator - an indirect gauge of [‘housing affordability stress’ (HAS)](https://www.ahuri.edu.au/analysis/brief/mortgage-stress-rental-stress-housing-affordability-stress-whats-difference) defined as “when households in the bottom 40% of the income distribution pay more than 30% of their gross income on mortgage or rent payments." When [making this calculation](https://www.ahuri.edu.au/analysis/brief/understanding-3040-indicator-housing-affordability-stress), household income can be calculated as the combined gross income (income before tax is paid) for all householders, or it can be calculated in more nuanced ways be determining the relevant equivalised disposable income (income after tax is paid adjusted for the number and ages of people in the household). Another nuanced but harder-to-calculate measure is 'residual income', which is based on how much a household has left available for ‘housing costs’ after paying for a standard budget of household goods and services.
 
