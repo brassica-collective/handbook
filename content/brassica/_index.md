@@ -1,5 +1,5 @@
 ---
-title: The Brassica Collective 2
+title: The Brassica Collective
 toc: false
 ---
 
