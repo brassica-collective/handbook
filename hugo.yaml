@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Handbook
-      pageRef: /handbook
+    - name: Brassica Handbook
+      pageRef: /brassica/handbook
       weight: 1
     - name: Contact ↗
       url: "mailto:crew@radhousing.org"

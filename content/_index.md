@@ -10,7 +10,7 @@ This is a landing page for participants in the collective to find all the resour
 ## Explore
 
 {{< cards >}}
-  {{< card link="handbook" title="Handbook" icon="book-open" >}}
+  {{< card link="brassica/handbook" title="Brassica Handbook" icon="book-open" >}}
   {{< card link="launch_slides.pdf" title="Launch Event Slides" icon="photograph" >}}
 
 {{< /cards >}}
