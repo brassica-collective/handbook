@@ -1,16 +1,13 @@
 ---
-title: The Brassica Collective
+title: RAD Housing
 toc: false
 ---
 
-A Retrofit and Decommodify (RAD) housing collective.
+Some stuff about RAD Housing
 
-This is a landing page for participants in the collective to find all the resources they need in one place.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="brassica/handbook" title="Brassica Handbook" icon="book-open" >}}
-  {{< card link="launch_slides.pdf" title="Launch Event Slides" icon="photograph" >}}
-
+  {{< card link="brassica" title="Brassica Collective" icon="book-open" >}}
 {{< /cards >}}
