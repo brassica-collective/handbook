@@ -18,7 +18,7 @@ markup:
 
 menu:
   main:
-    - name: What is RAD Housing?
+    - name: About RAD Housing
       pageRef: /
       weight: 1
     - name: T2S Model
