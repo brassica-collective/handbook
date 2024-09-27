@@ -23,6 +23,7 @@ Opening circle 20 min
  * Statement of intent
  * Arriving ritual
  * Arriving circle prompt
+ * Expressing 'twinges' (A twinge is something someone is having feelings about, they could be small or big feelings, but the idea is to bring the most minor discomforts or awkwardnesses into the awareness of the group. The point is to name the twinge and have it witnessed, not fixed or solved.)
 
 Meeting Agenda ~1.5hrs 
  * The specific details and order of 'meeting business' on our agenda will change, as the examples below illustrate, yet we hope to cultivate a rhythm that allows for  time for Crews to report their updates to the broader collective, time to discuss upcoming decisions, an opportunity to form/join/leave crews, and an activity to help us to build skills relating well together and practice navigating conflict productively, and emergent agenda items. This is long, facilitators may want to add a break and/or an energy-raising activity.
