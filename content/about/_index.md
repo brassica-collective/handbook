@@ -3,8 +3,8 @@ title: About RAD Housing
 slug: about
 type: docs
 weight: 1
-prev: /t2s-model
-next: retrofit
+prev: /
+next: /about/01_retrofit
 sidebar:
   open: true
 ---
