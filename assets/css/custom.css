@@ -1,0 +1,46 @@
+:root {
+  --retrofit-color: #244410;
+  --decommodify-color: #840000;
+}
+
+#hero {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+#hero h2 {
+  font-size: 2em;
+  font-family: monospace, monospace;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+#hero h2 a {
+  background-color: rgb(229, 231, 235);
+  color: black;
+  padding-right: 0.2em;
+  padding-left: 0.2em;
+}
+
+#hero h2 a:hover {
+  filter: brightness(70%);
+  text-decoration: underline;
+}
+
+#hero h2 a.retrofit {
+  background-color: var(--retrofit-color);
+  color: white;
+}
+
+#hero h2 a.retrofit:hover {
+  filter: brightness(200%);
+}
+
+#hero h2 a.decommodify {
+  background-color: var(--decommodify-color);
+  color: white;
+}
+
+#hero h2 a.decommodify:hover {
+  filter: brightness(200%);
+}
