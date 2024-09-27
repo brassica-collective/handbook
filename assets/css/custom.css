@@ -50,6 +50,7 @@
   margin: 0;
   background: linear-gradient(to right, var(--retrofit-color) 50%, var(--decommodify-color) 50%);
   line-height: 1;
+  color: white;
 }
 
 #site-title .rad {

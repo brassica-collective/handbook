@@ -48,3 +48,6 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
+  theme:
+    default: dark
+    displayToggle: true
