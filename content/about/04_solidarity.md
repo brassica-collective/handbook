@@ -55,6 +55,5 @@ There are a wide range of solidarity economy tools, including community land tru
 
 For example, a RAD housing collective could contribute to solidarity economy movements by cultivating networks with worker cooperatives for the skills, labour, products, and services needed to retrofit and maintain collective housing across multiple properties. 
 
-Forming networks with worker cooperatives as part of participating in the the solidarity economy movement also helps us to act in solidarity with workers fighting for dignified, safe, and sustainable livelihoods. 
-
+Forming networks with worker cooperatives as part of participating in the the solidarity economy movement also helps us to act in solidarity with workers fighting for dignified, safe, and sustainable livelihoods. Some examples of worker cooperatives providing products and services relevant to retrofitting, include [Earthworker Construction Cooperative](https://www.ecccoop.au/), [Earthworker Energy Cooperative](https://earthworkerenergy.coop/), [Earthworker Smart Energy Cooperative](https://smartenergycooperative.com.au/),  and [Cooperative Power](https://www.cooperativepower.org.au/)
 
