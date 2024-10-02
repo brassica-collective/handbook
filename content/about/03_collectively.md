@@ -20,7 +20,9 @@ Building our capacity to relate well together takes intention and practice. For 
 Of the broader set of relational practices that enable living collectively more generally, there are some specific considerations that are highlighted by the RAD housing approach.  
 
 ## Project-Group Balance
-Implementing RAD housing is likely to need to balance the tensions between the project (of acquiring, retrofitting, and maintaining the infrastructure needed for collaborative housing) and the formation of a group. This tension is well documented, and intersects with a range of other variable dimensions of collaborative housing options.
+Implementing RAD housing is likely to need to balance the tensions between the *project* of acquiring, retrofitting, and maintaining the infrastructure needed for collaborative housing and the *group* dynamics of the participants who emerges to collectively steward these houses over time. 
+
+The difficulty of balancing tensions between participating in good group processes and designing and implementing projects for collective benefit are well documented (and intersect with a range of other variable dimensions of [collaborative housing options](https://www.youtube.com/watch?v=rgmj_wp9EOs)).
 
 For example, some approaches are driven by a cohesive group who collaborate on meeting their collective housing needs. For instance, some groups choose to living together in ways that align with a shared set of values (rather than the specific configuration of housing). One of the benefits of this group-first approach is that groups can prioritise carefully building the relational scaffolding needed to live collectively while slowly co-creating the physical infrastructure to house the group along the way (as many thriving intentional communities have done). One of the barriers for more wide-spread implementation of this approach include the expectation that participants have the capacity to dive all-in on participating in collective practices, often with an unclear exit-pathway for those whose circumstances change. 
 
