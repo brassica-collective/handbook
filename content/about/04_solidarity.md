@@ -46,7 +46,7 @@ In addition to compounding the impacts of the climate crisis on First Nations pe
 
 As with the other forms of justice, we need structural change to achieve equitable housing. At the same time, a housing collective might be able to act in solidarity with those experiencing housing stress by showing up to eviction defences, designing with specific accessibility needs in mind, and forming agreements for emergency-shelter so that none of their available housing are left empty. 
  
-## Participating in a 'solidarity economy' movements
+## Participating in 'solidarity economy' movements
 The [solidarity economy](https://solidarityeconomyprinciples.org/what-do-we-mean-by-solidarity-economy/) is "an organizing framework for those who wish to create a systemic commitment to and practice of interdependence and collective liberation in the economic activities that meet our material needs."
 
 Solidarity economies can emerge from movements that build networks, federations, and coalitions that help to integrate three common strategies for social change: personal transformation, building alternative institutions, and challenging dominant  social, economic, and political relationships and institutions.
