@@ -41,7 +41,7 @@ We should also be acting in solidarity with people who are disproportionately at
 
 One action to acknowledge these unjust impacts is to take responsibility for our daily contributions to the causes of this crisis. For example, we could cap household emissions at a target that matches those nations most at risk, rather than waiting on local governments or international guidance to direct us. At the same time, we could be supporting refugees more directly by designing physical infrastructure and relational practices for our housing so that we can provide emergency shelter for people navigating broader refugee support systems. 
 
-## Acting in Solidarity with experiencing housing stress
+## Acting in Solidarity with people experiencing housing stress
 In addition to compounding the impacts of the climate crisis on First Nations peoples and refugees, the housing crisis is contributing to the injustices faced by people who are homeless, living in precarious situations, struggling to find affordable rentals, navigating underfunded infrastructure like public housing, or otherwise experiencing housing stress. 
 
 As with the other forms of justice, we need structural change to achieve equitable housing. At the same time, a housing collective might be able to act in solidarity with those experiencing housing stress by showing up to eviction defences, designing with specific accessibility needs in mind, and forming agreements for emergency-shelter so that none of their available housing are left empty. 
