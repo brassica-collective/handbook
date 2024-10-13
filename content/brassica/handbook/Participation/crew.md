@@ -19,7 +19,7 @@ The following are examples of three types of crew and two specific crew, to illu
 ## Governance crews
 Governance type of Crews are those focused on planning and design tasks,documentation, and facilitation practices.
 
-The RAD Crew will be our first governance type crew, and is taking responsibility for designing and facilitating group decision-making processes, refining the T2S model, documenting emerging processes, and supporting our Collective to stay aligned with the RAD housing goals.
+The RAD Crew will be our first governance type crew. The RAD Crew's goals are to drive forward the RAD Housing model by ensuring that the Brassica Collective, and other interested groups, can retrofit, and decommodify existing suburban housing so that we, and others, can live in secure, resilient and affordable housing. As part of this, the crew will take the initial responsibility for designing and facilitating group decision-making processes, documenting emerging processes, and supporting the emerging direction of Brassica Collective to stay aligned with the RAD housing goals.
 
 ## Implementation crews
 Implementation types of Crew are those focused on the project management tasks required to implement specific stages of the project, such as acquiring properties, retrofitting, etc.,
