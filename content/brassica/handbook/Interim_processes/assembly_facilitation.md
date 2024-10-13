@@ -9,12 +9,11 @@ sidebar:
   open: true
 ---
 
-Lessons from decentralised organising emphasise the value of cultivating processes for collaborating that are both clear and flexible. As this group grows, our way of being in assembly will need to be a bit different from a normal conversation, in order to ensure that we give room for everyone's voices, and create safer spaces for difficult conversations. 
+Lessons from decentralised organising emphasise the value of cultivating processes for [meetings](https://commonslibrary.org/better-activist-meetings/) and ongoing collaborating that are both clear and flexible. As this group grows, our way of being in assembly will need to be a bit different from a normal conversation, in order to ensure that we give room for everyone's voices, and create safer spaces for difficult conversations. 
 
 One of the well-established facilitation tools for creating such spaces is to adopt a structured 'container' that starts with an opening circle to signal our move into this deliberate collaborative space and ends with closing circle that will bring us back to more familiar ways of conversing
 
 For our initial assemblies, we are adopting an initial structured container to support as all to take turns co-facilitating assemblies. As we co-create our agreements and processes, we can also adjust these Assembly guidelines and add more examples.
-
 
 ## Facilitation Container
 
