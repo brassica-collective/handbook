@@ -100,6 +100,7 @@ Opening circle 20 min
 	  - Organise one-off meeting to plan seedling crew objectives (call for volunteers)
 
  Closing circle 15 min
+ * Reconfigure our buddy system
  * Set date/time for next Assembly   
  * Call for co-facilitator for next Assembly 
  * Call for cook for the next assembly 
