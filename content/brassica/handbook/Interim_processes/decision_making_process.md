@@ -3,7 +3,7 @@ title: Interim Decision Making Process
 slug: decision_making_process
 type: docs
 prev: assembly_facilitation
-next: agreements
+next: te_fund
 weight: 2
 sidebar:
   open: true
