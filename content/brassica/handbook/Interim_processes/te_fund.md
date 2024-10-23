@@ -9,8 +9,6 @@ sidebar:
   open: true
 ---
 
-# Brassica Interim TE Fund
-
 This document describes how Brassica Collective funds are managed during this interim stage where we are not incorporated. The intent is that once a legal structure has been prepared to represent the Brassica Collective, funds will be moved over to that system.
 
 ## Adding Funds
