@@ -3,7 +3,7 @@ title: How-tos
 slug: howtos
 type: docs
 prev: agreements
-next: housing_principles
+next:
 weight: 4
 sidebar:
   open: true
