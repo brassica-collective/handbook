@@ -15,9 +15,9 @@ This document describes how Brassica Collective funds are managed during this in
 
 ### Who can add funds?
 
-Any Brassica Collective Voyager can add funds. If you are not a voyager, and are wanting to contribute to the Brassica Collective financially, please contact crew@radhousing.org to discuss. A Transitional Equity balance will be tracked for all Brassica Collective Voyagers, regardless of whether they have added funds or plan to.
+Any Brassica Collective participant can add funds. If you are not a participant, and are wanting to contribute to the Brassica Collective financially, please contact crew@radhousing.org to discuss. A Transitional Equity balance will be tracked for all Brassica Collective participants, regardless of whether they have added funds or plan to.
 
-### I'm a Voyager, why would I add funds?
+### I'm a Brassica participant, why would I add funds?
 
 You are under no obligation to add funds. However, we encourage everyone to add some funds each month if they can afford it, even if it's a really small token amount. This allows you to practice participating in the financial model that we're planning to deploy for managing housing costs collectively, which is likely to be a much larger part of all of our budgets in the future. Additionally, we do actually need funds at this stage of the project, to pay for the services which will help us get moving towards our first house purchase.
 
@@ -75,15 +75,15 @@ You'll receive a statement of your balance each month, no later than a week into
 
 ### What could the money get spent on?
 
-We know that any expenditure of money reduces everyone's TE balance, and we think that shouldn't happen lightly. As such, expenditures should ideally be things that materially drive forward the project. Our process for this is that money is spent only by crews which have a delegated power to spend money towards a certain objective. Additionally to this the RAD crew will oversee that money is not being spent needlessly and will raise the alarm with the Voyagers if we seem to be getting off track.
+We know that any expenditure of money reduces everyone's TE balance, and we think that shouldn't happen lightly. As such, expenditures should ideally be things that materially drive forward the project. Our process for this is that money is spent only by crews which have a delegated power to spend money towards a certain objective. Additionally to this the RAD crew will oversee that money is not being spent needlessly and will raise the alarm with the Brassica participants if we seem to be getting off track.
 
 In addition to expenditures based on delegated crew responsibilities, it's also possible that our account might incur fees and charges, which are considered unavoidable reductions in our asset value.
 
 ### Who can see my TE balance?
 
-To avoid creating a disparity between those involved in bookkeeping and those not, TE balances are transparent within the Brassica Collective Voyagers. They are not shared outside that group.
+To avoid creating a disparity between those involved in bookkeeping and those not, TE balances are transparent within the Brassica Collective Participants. They are not shared outside that group.
 
-However, while everyone's TE is available to look up and all books are visible on request by any voyager, it is not proactively sent to others. You are only sent details of your own balance and group totals, and likewise any software developed will not proactively show you the balance of others, you'd have to go through a few clicks to find it.
+However, while everyone's TE is available to look up and all books are visible on request by any participant in the Brassica Collective, it is not proactively sent to others. You are only sent details of your own balance and group totals, and likewise any software developed will not proactively show you the balance of others, you'd have to go through a few clicks to find it.
 
 ## Withdrawing Funds
 
