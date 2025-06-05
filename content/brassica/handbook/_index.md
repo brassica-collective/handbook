@@ -14,7 +14,7 @@ Initial sets of documentation includes:
   * The different forms of [participation](participation/) proposed when launching the Brassica Collective (2024-06-05)
   * Some [interim processes](interim_processes) (to be replaced by collective [agreements](agreements/))
   * The current draft of the [T2S Model](/t2s-model/) that the RAD Crew is developing to help us navigate the financial/legal hurdles to collectively stewarding property.
-  * Some '['how-to' guides](../howtos/) for processes that we develop that we expect to need to re-use multiple times in different conditions (e.g., identifying house-purchasing critera)
+  * Some '['how-to' guides](howtos/) for processes that we develop that we expect to need to re-use multiple times in different conditions (e.g., identifying house-purchasing critera)
 
 This handbook is currently maintained by the [Brassica Process & Strategy Crew](participation/crew/). We aim to include a transparent process for determining when and how to update key documents in this handbook as part of the initial governance processes proposed for the Brassica Collective. If you'd like to get involved in maintaining these documents in the meantime, please contact us at [crew@radhousing.org](mailto:crew@radhousing.org).
 
