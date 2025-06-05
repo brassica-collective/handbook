@@ -3,7 +3,7 @@ title: About this handbook
 slug: handbook
 type: docs
 weight: 1
-next: rad-housing
+next: participation
 prev: t2s-model
 ---
 

@@ -10,9 +10,7 @@ sidebar:
 
 ---
 
-Supporters are those who are not currently able to [participate](../../participation) in Brassica Collective, yet: 
-* have participated in the past and intend to in the future so want to maintain an awareness about how the project is going
-* want to participate in the future in specific ways despite having not yet participated (e.g., as residents in established Brassica houses) but are happy to be hands-off about how we get the houses and/or are not able to commit to reliably participating right now.
+Supporters are those who are not currently able to commit to reliably [participating](../../participation) in Brassica Collective, yet intend to participate in the future so want to maintain an awareness about how the project is going.
 
 Supporters can reach out to one of the current Brassica Collective participants to express interest in participating at any time to learn about the current (re)entry-processes. 
 
