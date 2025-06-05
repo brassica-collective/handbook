@@ -64,8 +64,8 @@ See our [agreements](../../agreements/) section of this Handbook and the relevan
 - [ ] Discussion forum and decision-making software ([Loomio](https://www.loomio.com/)) 
 
 #### Software for Crew participation
-[ ] Project-management ([Taiga]/(https://taiga.io/)) 
-[ ] Document management & collaboration space (tbc)
+- [ ] Project-management ([Taiga](https://taiga.io/)) 
+- [ ] Document management & collaboration space (tbc)
 
 #### Software for IT support participation
 - [ ] Handbook Website updates (Github, Hugo)
