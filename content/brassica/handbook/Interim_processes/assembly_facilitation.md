@@ -15,7 +15,7 @@ One of the well-established facilitation tools for creating such spaces is to ad
 
 For our initial assemblies, we are adopting an initial structured container to support as all to take turns co-facilitating assemblies. As we co-create our agreements and processes, we can also adjust these Assembly guidelines and add more examples.
 
-The Agenda for each Assembly is shared by the [PAS Crew]((participation/crew/)) on our Loomio forum in advance (along with any links to current discussion), and meeting notes are added to the same thread within the following week. 
+The Agenda for each Assembly is shared by the Process & Stratergy Crew on our Loomio forum in advance (along with any links to current discussion), and meeting notes are added to the same thread within the following week. 
 
 ## Facilitation Container
 
@@ -49,11 +49,10 @@ Opening circle 20 min
  * Arriving circle prompt
 
  Meeting agenda 1.5hrs 
- * Crew report-backs & peer Q&A  
+ * Crew report-backs, peer Q&A, and time for participants to opt-in/opt-out to each Crew  
  * Discussion of upcoming decisions 
  * Rest break
  * Facilitated activity (e.g., the [1-2-4-all facilitation pattern](https://handbook.enspiral.com/guides/workshop_patterns])
- * Re-formation of crews
 
  Closing circle 15 min
  * Set date/time for next Assembly   
