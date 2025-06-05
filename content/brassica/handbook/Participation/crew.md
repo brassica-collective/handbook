@@ -12,7 +12,7 @@ sidebar:
 
 Crew are working groups that have been delegated a specific scope of decision making and operational responsibilities that enable them to lead specific aspects of the project (with guidance from the broader collection of active participants at key decision points).
 
-Each of our Crew consist of a changing set of [participants](../participation/) who have opted-in to collaborate with others on the additional area of delegated responsibilities for a set period of time. 
+Each of our Crew consist of a changing set of [participants](../../participation) who have opted-in to collaborate with others on the additional area of delegated responsibilities for a set period of time. 
 
 We expect multiple crews of various types to form during the Brassica RAD Housing project. Some crews may be needed for short periods of time, and others may be needed for the length of the project. Regardless of the length of the working group itself, participants are asked to opt-in at each Assembly so that we can distribute the work-load across everyone who has capacity to participate in this way. While participants may choose to stay on as Crew across multiple Assemblies, the step of explicitly opting in is intended to help us identity when we need to rest and/or to communicate when we have other priorities.
 
