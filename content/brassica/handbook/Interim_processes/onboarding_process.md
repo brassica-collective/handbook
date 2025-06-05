@@ -71,7 +71,8 @@ See our [agreements](../../agreements/) section of this Handbook and the relevan
 - [ ] Handbook Website updates (Github, Hugo)
 - [ ] Communication tools admin & maintenance (Matrix, Loomio, etc.,)
 
-## Ways of working together, Draft Agreements, and Emerging Proposals (see our Loomio forum for the latest) 
+## Ways of working together 
+Draft Agreements and Emerging Proposals (see our Loomio forum for the latest) 
 - [ ] Project Management Processes / Crew Ways of Working
 - [ ] Participation Agreement Drafts
 
