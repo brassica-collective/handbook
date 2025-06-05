@@ -60,20 +60,20 @@ See our [agreements](../../agreements/) section of this Handbook and the relevan
 
 
 #### Software for Minimum participation 
-- [] Chat groups ([Matrix](https://matrix.org/)) 
-- [] Discussion forum and decision-making software ([Loomio](https://www.loomio.com/)) 
+- [ ] Chat groups ([Matrix](https://matrix.org/)) 
+- [ ] Discussion forum and decision-making software ([Loomio](https://www.loomio.com/)) 
 
 #### Software for Crew participation
 [ ] Project-management ([Taiga]/(https://taiga.io/)) 
 [ ] Document management & collaboration space (tbc)
 
 #### Software for IT support participation
-- [] Handbook Website updates (Github, Hugo)
-- [] Communication tools admin & maintenance (Matrix, Loomio, etc.,)
+- [ ] Handbook Website updates (Github, Hugo)
+- [ ] Communication tools admin & maintenance (Matrix, Loomio, etc.,)
 
 ## Ways of working together, Draft Agreements, and Emerging Proposals (see our Loomio forum for the latest) 
-- [] Project Management Processes / Crew Ways of Working
-- [] Participation Agreement Drafts
+- [ ] Project Management Processes / Crew Ways of Working
+- [ ] Participation Agreement Drafts
 
 ## Collaboration calibration
 > Q. Please share anything you feel is relevant about your approach to collaborative projects (e.g., your style of leadership, types of tasks you tend to avoid, how much experience you have at navigating conflict well together, etc.,) 
