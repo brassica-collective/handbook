@@ -3,7 +3,7 @@ title: The Brassica Collective
 toc: false
 ---
 
-Brassica Collective is a multi-site housing project driven by an emerging group of participants. Inspired by RAD Housing, the broad aims of this collective are to use the 'transistion to stewardship' model to help us retrofit and decommodify multiple houses in ways that support us to live more collectively while acting in solidarity with broader movements for justice.  
+Brassica Collective is a multi-site housing project driven by an emerging group of participants. Inspired by RAD Housing, we aim to use the 'transistion to stewardship' model to help us retrofit and decommodify multiple houses in ways that support us to live more collectively while acting in solidarity with broader movements for justice.  
 
 This is a landing page for participants in the collective to find all the resources they need in one place.
 

@@ -4,7 +4,7 @@ slug: supporters
 type: docs
 prev: crew
 next: interim_processes
-weight: 1
+weight: 3
 sidebar:
   open: true
 
