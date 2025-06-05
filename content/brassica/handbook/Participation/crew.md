@@ -4,7 +4,7 @@ slug: crew
 type: docs
 prev: participation
 next: supporters
-weight: 3
+weight: 2
 sidebar:
   open: true
 

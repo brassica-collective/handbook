@@ -4,7 +4,7 @@ slug: participation
 type: docs
 next: crew
 prev: /brassica/handbook
-weight: 2
+weight: 1
 sidebar:
   open: true
 ---
