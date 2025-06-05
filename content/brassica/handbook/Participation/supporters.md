@@ -2,22 +2,20 @@
 title: Supporters
 slug: supporters
 type: docs
-prev: participation
-next: voyagers
-weight: 1
+prev: crew
+next: interim_processes
+weight: 3
 sidebar:
   open: true
 
 ---
 
-Supporters are those who are interested in the project generally but not wanting to participate in decision-making processes about the specifics.
+Supporters are those who are not currently able to commit to reliably [participating](../../participation) in Brassica Collective, yet intend to participate in the future so want to maintain an awareness about how the project is going.
 
-This includes, 
- * Folk who are want to participate in decision-making in the future (e.g., as residents in established Brassica houses) but are happy to be hands-off about how we get the houses and/or are not able to commit to reliably participating as a Voyager right now.
- * People with no intention of being ever being Voyagers, yet value the role of Brassica Collective in contributing to RAD goals and want to support in ad-hoc ways such as offering us your knowledge/expertise on aspects of the project, putting in bread-labour by coming to working bees, contributing funds etc.
+Supporters can reach out to one of the current Brassica Collective participants to express interest in participating at any time to learn about the current (re)entry-processes. 
 
-Minimum expectations for Supports are: 
-* Expressing interest in the project while explicitly opting-out of decision-making processes (for now)
+For those who aren't intending to participate, yet value the role of Brassica Collective in contributing to RAD goals and want to support in ad-hoc ways, opportunities for this include:
+* Offering your knowledge/expertise on aspects of the project, putting in bread-labour by coming to working bees, etc. 
+* Attending 'discussion nights' hosted by the Brassica Collective (these are shared on the RAD Housing Signal chat)* 
 * Engaging with specific support requests from Crew; opting-in or out depending on capacity at the time.
-* Reaching out to express interested if/when waiting to contribute to decision-making processes
- 
+
