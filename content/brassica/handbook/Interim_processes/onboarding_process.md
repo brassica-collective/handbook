@@ -42,7 +42,7 @@ See the [RAD Housing](content/about) website, and discuss with on-boarding suppo
 - [ ] Transformative Justice approaches to navigating conflict well
 
 ## Current Agreements 
-See our [agreements](.../agreements/) section of this Handbook and the relevant Loomio threads when the website is not up-to-date, including:
+See our [agreements](../../agreements/) section of this Handbook and the relevant Loomio threads when the website is not up-to-date, including:
 - [ ] Interim decision-making processes 
 - [ ] Interim Transitional Equity fund
 - [ ] Assembly facilitation guidelines
