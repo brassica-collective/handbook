@@ -8,12 +8,9 @@ weight: 2
 sidebar:
   open: true
 ---
+## Context 
 
-This document describes the ways in which new participants are 'on-boarded' into the Brassica Collective. This is a living document that will need to be updated as our collective practices emerge over time. 
-
-# Context: 
-
-The following notes function as our interim guideline for orienting and on-boarding people into the Brassica Collective so that they feel confident in co-creating the collective going forward. 
+The following notes function as our guideline for orienting and on-boarding people into the Brassica Collective so that they feel confident in co-creating the collective going forward. 
 
 In this context, orientation is a process of providing an overview of current practices while on-boarding builds on the orientation process to provide support while a new participant develops the context required to actively engage in our collective practices. 
 
