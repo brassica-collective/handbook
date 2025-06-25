@@ -34,6 +34,7 @@ While on-boarding supporters are responsible for checking when and how to suppor
 
 ### Foundational Context 
 See the [RAD Housing](content/about) website, and discuss with on-boarding supporters the ‘what’, ‘why’, and ‘how’ questions around how the Collective is incorporating:
+- [ ] Assembly facilitation guidelines
 - [ ] Climate-adaptation processes
 - [ ] Decommodification principles
 - [ ] Collective practices for commoning
@@ -41,11 +42,10 @@ See the [RAD Housing](content/about) website, and discuss with on-boarding suppo
 - [ ] The Transition to Stewardship pathway shared by RAD housing
 - [ ] Transformative Justice approaches to navigating conflict well
 
-## Current Agreements 
+## Current Agreements
 See our [agreements](../../agreements/) section of this Handbook and the relevant Loomio threads when the website is not up-to-date, including:
 - [ ] Interim decision-making processes 
 - [ ] Interim Transitional Equity fund
-- [ ] Assembly facilitation guidelines
 - [ ] Delegation of decisions to the PAS crew
     - [ ] Delegation to RAD Crew
     - [ ] Splitting the PAS Crew from the RAD project
