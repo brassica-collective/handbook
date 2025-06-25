@@ -13,7 +13,7 @@ Lessons from decentralised organising emphasise the value of cultivating process
 
 One of the well-established facilitation tools for creating such spaces is to adopt a structured 'container' that starts with an opening circle to signal our move into this deliberate collaborative space and ends with closing circle that will bring us back to more familiar ways of conversing
 
-For our initial assemblies, we are adopting an initial structured container to support as all to take turns co-facilitating assemblies. As we co-create our agreements and processes, we can also adjust these Assembly guidelines and add more examples.
+For our initial assemblies, we adopted a structured container to support as all to take turns co-facilitating assemblies. As we co-create our agreements and processes, we can also adjust these Assembly guidelines and add more examples. Since then, we have added additional processes (such as a 'check-in round' that includes an opportunity to express 'twinges').
 
 The Agenda for each Assembly is shared by the Process & Strategy Crew on our Loomio forum in advance (along with any links to current discussion), and meeting notes are added to the same thread within the following week. 
 
