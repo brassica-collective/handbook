@@ -2,9 +2,9 @@
 title: Interim Onboarding Process
 slug: onboarding_process
 type: docs
-prev: te_fund
-next: agreements
-weight: 4
+prev: howtos
+next: assembly_facilitation
+weight: 2
 sidebar:
   open: true
 ---

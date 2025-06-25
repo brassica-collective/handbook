@@ -3,7 +3,7 @@ title: How-tos
 slug: howtos
 type: docs
 prev: agreements
-next: assembly_facilitation
+next: onboarding_process
 weight: 4
 sidebar:
   open: true

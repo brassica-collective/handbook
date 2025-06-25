@@ -2,9 +2,9 @@
 title: Assembly Facilitation Guidelines
 slug: assembly_facilitation
 type: docs
-prev: interim_processes
-next: decision_making_process
-weight: 1
+prev: onboarding_process
+next: 
+weight: 2
 sidebar:
   open: true
 ---
