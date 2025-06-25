@@ -1,5 +1,5 @@
 ---
-title: Interim Onboarding Process
+title: Onboarding Process
 slug: onboarding_process
 type: docs
 prev: howtos
@@ -9,7 +9,7 @@ sidebar:
   open: true
 ---
 
-This document describes the ways in which new participants are 'on-boarded' into the Brassica Collective during this interim stage where we have not established our participation agreements. .
+This document describes the ways in which new participants are 'on-boarded' into the Brassica Collective. This is a living document that will need to be updated as our collective practices emerge over time. 
 
 # Context: 
 
@@ -58,7 +58,6 @@ See our [agreements](../../agreements/) section of this Handbook and the relevan
 - [ ] Ask for IT support to set up apps on mobiles/computers if needed
 - [ ] Meet with a support person to walk-through current ways-of-working for each app relevant to participation intentions 
 
-
 #### Software for Minimum participation 
 - [ ] Chat groups ([Matrix](https://matrix.org/)) 
 - [ ] Discussion forum and decision-making software ([Loomio](https://www.loomio.com/)) 
@@ -85,6 +84,6 @@ Please add comments if there are any additional supports needed to be able to ti
 
 - [ ] I feel confident I understand the foundational context of the RAD housing project
 - [ ] I feel confident I can use each of the Brassica communication channels appropriately
-- [ ] I feel confident I understand the current Brassica agreements (including building high-trust relationships) and am able to participate in the collective ways that align with these expectations. 
+- [ ] I feel confident I understand the current Brassica agreements and am able to participate in the collective ways that align with these expectations. 
 - [ ] I have had opportunities to express my preferences for ways of working together
 - [ ] I feel confident that I can participate in future processes of updating and co-creating collective agreements going forward expressed
