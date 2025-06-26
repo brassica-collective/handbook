@@ -8,34 +8,55 @@ weight: 2
 sidebar:
   open: true
 ---
-The following check-list is intended to help us remember areas where new participants may need support to feel confident in co-creating our collective practices going forward. It is also intended to help new participants to identify how to ask for support while they develops the context required to actively engage in our collective practices. 
 
-On-boarding is considered complete when a new participant is:
-* Familiar with the RAD housing approach that inspired the Brassica Collective
-* Using the Collective's communication channels.
-* Understand and be acting in alignment with existing agreements
-* Attending assemblies and contributing to online discussion forums  
-* Engaging with all emerging agreements and processes
-* Comfortable expressing confidence in participating in decisions and processes for updating and co-creating collective agreements going forward (see statement of confidence)
+New participants are supported through a largely self-directed onboarding process, this includes:   
 
-### Foundational Context 
+#### Talking through the Context Checklist with an onboarding supporter and asking for help to gain relevant context as needed 
+  > *This process is intended to both help those in support roles remember areas where new participants may need support to feel confident in co-creating our collective practices going forward,. The check-list can also function as a check-list for each new participant to identify the areas of support they need to actively engage in our collective practices. Talking through this checklist may need to occur over multiple sessions depending on a new participant's existing forms of context.*
+
+
+#### Sharing relevant context for collaborating
+  > *As you gather context about participating in the Brassica Collective, please share anything you feel is relevant about your approach to collaborative projects as needed (e.g., your style of leadership, types of tasks you tend to avoid, how much experience you have at navigating conflict well together, etc.,)* 
+
+
+#### Sharing your statement of confidence in participating  
+  >*When ready, please share each of the following statements with the collective to indicate how confident you are in participating in the collective (on-boarding is considered complete when all statements are shared)*:
+
+  I feel confident that
+
+   - [ ] I understand the foundational context of the RAD housing project
+   - [ ] I can use each of the Brassica communication channels appropriately
+   - [ ] I can regularly attend assemblies 
+   - [ ] I can reliably contribute to our online discussion forums
+   - [ ] I can act in alignment with existing collective agreements 
+   - [ ] I can contribute to the processes for updating and co-creating collective agreements going forward
+  >
+
+# Context Check-list
+
+## Foundational Context 
 See the [RAD Housing](content/about) website, and discuss with on-boarding supporters the ‘what’, ‘why’, and ‘how’ questions around how the Collective is incorporating:
-- [ ] Assembly facilitation guidelines
 - [ ] Climate-adaptation processes
 - [ ] Decommodification principles
 - [ ] Collective practices for commoning
 - [ ] Solidarity actions for connecting our collective to broader movements for justice. 
-- [ ] The Transition to Stewardship pathway shared by RAD housing
 - [ ] Transformative Justice approaches to navigating conflict well
+- [ ] The RAD Housing Transition to Stewardship pathway 
 
-## Current Agreements
-See our [agreements](../../agreements/) section of this Handbook and the relevant Loomio threads when the website is not up-to-date, including:
+## Current Agreements and Processes
+See other how to guidelines and our [agreements](../../agreements/) sections of this Handbook:
+- [ ] Assembly facilitation guidelines
 - [ ] Interim decision-making processes 
 - [ ] Interim Transitional Equity fund
 - [ ] Delegation of decisions to the PAS crew
     - [ ] Delegation to RAD Crew
     - [ ] Splitting the PAS Crew from the RAD project
 - [ ] Delegation of decision to Seedling Crew
+
+## Ways of working together 
+Draft Agreements and Emerging Proposals (see our Loomio forum for the latest), inclduing:  
+- [ ] Draft Participation Agreements
+- [ ] Crew Ways of Working
 
 ## Communication channels 
 #### On- boarding steps:
@@ -56,21 +77,5 @@ See our [agreements](../../agreements/) section of this Handbook and the relevan
 - [ ] Handbook Website updates (Github, Hugo)
 - [ ] Communication tools admin & maintenance (Matrix, Loomio, etc.,)
 
-## Ways of working together 
-Draft Agreements and Emerging Proposals (see our Loomio forum for the latest) 
-- [ ] Project Management Processes / Crew Ways of Working
-- [ ] Participation Agreement Drafts
 
-## Collaboration calibration
-> Q. Please share anything you feel is relevant about your approach to collaborative projects (e.g., your style of leadership, types of tasks you tend to avoid, how much experience you have at navigating conflict well together, etc.,) 
-
-## Statement of Confidence Participating in Cocreating and Updating Collective Agreements Going Forward 
-
-Please add comments if there are any additional supports needed to be able to tick each of these off:
-
-- [ ] I feel confident I understand the foundational context of the RAD housing project
-- [ ] I feel confident I can use each of the Brassica communication channels appropriately
-- [ ] I feel confident I understand the current Brassica agreements and am able to participate in the collective ways that align with these expectations. 
-- [ ] I have had opportunities to express my preferences for ways of working together
-- [ ] I feel confident that I can participate in future processes of updating and co-creating collective agreements going forward expressed
 
