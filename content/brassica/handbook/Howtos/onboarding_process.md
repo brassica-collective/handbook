@@ -19,7 +19,7 @@ New participants are supported through a largely self-directed onboarding proces
   > *As you gather context about participating in the Brassica Collective, please share anything you feel is relevant about your approach to collaborative projects as needed (e.g., your style of leadership, types of tasks you tend to avoid, how much experience you have at navigating conflict well together, etc.,)* 
 
 
-#### Sharing your statement of confidence in participating in the Brassica Collective 
+#### Sharing your statement of confidence in participating  
   >*When ready, please share each of the following statements with the collective to indicate how confident you are in participating in the collective (on-boarding is considered complete when all statements are shared)*:
 
   I feel confident that
