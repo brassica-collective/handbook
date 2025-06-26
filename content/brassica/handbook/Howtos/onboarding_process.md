@@ -23,15 +23,15 @@ New participants are supported through a largely self-directed onboarding proces
 #### Sharing your statement of confidence in participating in the Brassica Collective 
   >*When ready, please share each of the following statements with the collective to indicate how confident you are in participating in the collective (on-boarding is considered complete when all statements are shared)*:
 
-   - [ ] I feel confident I understand the foundational context of the RAD housing project
-   - [ ] I feel confident I can use each of the Brassica communication channels appropriately
-   - [ ] I feel confident that I can regularly attend assemblies 
-   - [ ] I feel confident that I can reliably contribute to our online discussion forums
-   - [ ] I feel confident I understand the current Brassica agreements and am able to participate in the collective ways that align with these expectations.
-   - [ ] I feel confident that I can participate in future processes of updating and co-creating collective agreements going forward expressed
+  I feel confident that
+
+   - [ ] I understand the foundational context of the RAD housing project
+   - [ ] I can use each of the Brassica communication channels appropriately
+   - [ ] I can regularly attend assemblies 
+   - [ ] I can reliably contribute to our online discussion forums
+   - [ ] I can act in alignment with existing collective agreements 
+   - [ ] I can contribute to the processes for updating and co-creating collective agreements going forward
   >
-
-
 
 # Context Check-list
 
