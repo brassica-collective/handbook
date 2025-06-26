@@ -9,7 +9,6 @@ sidebar:
   open: true
 ---
 
-# Onboarding Process 
 New participants are supported through a largely self-directed onboarding process, this includes:   
 
 #### Talking through the Context Checklist with an onboarding supporter and asking for help to gain relevant context as needed 
