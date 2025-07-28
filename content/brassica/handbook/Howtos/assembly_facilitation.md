@@ -4,7 +4,7 @@ slug: assembly_facilitation
 type: docs
 prev: onboarding_process
 next: handbook
-weight: 2
+weight: 3
 sidebar:
   open: true
 ---
