@@ -84,6 +84,6 @@ In github, you can create a pull-request (so that your changes can be merged int
 
 # Additional Resources:
 * Markdown syntax: https://www.markdownguide.org/basic-syntax/  
-* Terminal commands for Unbuntu: https://help.ubuntu.com/community/UsingTheTerminal 
+* Terminal commands for Ubuntu: https://help.ubuntu.com/community/UsingTheTerminal 
 * Git commands: https://education.github.com/git-cheat-sheet-education.pdf
 * Git Hub explainer: https://docs.github.com/en/get-started/start-your-journey/hello-world 
