@@ -76,7 +76,7 @@ In the main terminal window:
 1. check for any updates by others on the same branch (`git pull`)
 2. publish your branch and push your updates 
 
-## Create a pull-request  
+### Create a pull-request  
 In github, you can create a pull-request (so that your changes can be merged into the main branch and deployed): 
 1. Select the 'compare and pull request' option
 2. Add a title and description for your request
