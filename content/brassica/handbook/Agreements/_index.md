@@ -9,7 +9,6 @@ sidebar:
   open: true
 ---
 
-## Context
 The types of agreements we make are up to us.
 
 While there are contexts where organising practices can benefit from being dynamic and/or undocumented, we also need [durable groups](https://commonslibrary.org/constitutions-how-to-build-durable-groups/) that streamline horizontal decision-making by establishing a clear standards for relating to each other, and clarifying the conditions within which these standards be challenged, revised, or even disposed of all together. 
