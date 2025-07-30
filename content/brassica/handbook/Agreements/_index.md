@@ -26,7 +26,7 @@ Specific operational decisions are currently being delegated to crew based on th
 
 ### Participation Agreements. 
 We are in the processes of clarifying our shared understanding of different aspects of participation, including: 
-* Responsibilities & Expectations: outlining what responsibilities we each agree to by participating in this collective in different ways, and what we can expect as participants in the collective
+* [Responsibilities & Expectations](responsibilities_and_expectations): outlining what responsibilities we each agree to by participating in this collective in different ways, and what we can expect as participants in the collective
 
 * Entry & Exit Pathways: outlining our processes for inviting additional people to participate in the collective and our processes for opting-out of participation temporarily or indefinitely. 
 
