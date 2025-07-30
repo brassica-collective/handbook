@@ -3,7 +3,7 @@ title: Agreements
 slug: agreements
 type: docs
 prev: decision_making_process
-next: howtos
+next: responsibilities_and_expectations
 weight: 4
 sidebar:
   open: true

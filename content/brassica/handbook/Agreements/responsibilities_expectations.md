@@ -3,7 +3,7 @@ title: Responsibilities and Expectations
 slug: responsibilities_and_expectations
 type: docs
 prev: agreements
-next: 
+next: howtos
 weight: 2
 sidebar:
   open: true
@@ -30,15 +30,22 @@ As a participant in the collective, my minimum responsibilities are:
 1. Monitoring my capacity for participating in the collective in different ways, and notifying the collective when my capacity to participate changes
 2. Acting in alignment with our current collective agreements   
 3. Participating in co-creating collective agreements, including: 
-   * (a) Proposing amendments to existing agreements or proposals that emerge as barriers to my participation
-   * (b) Contributing to discussions about proposed agreements and amendments, by:
-        - attending Assemblies when at all possible, and 
-        - commenting on discussion-threads in our online forums when relevant
-   * (c) Contributing to agreed processes for making *collective-wide* decisions, by: 
-        - reliably responding to calls for consent or consensus in our online forums, and
-        - offering amendments to proposals that I’m not satisfied with
-4. Respecting those decisions made within the scope of *delegated-decisions* when I have chosen *not* to take on working-group responsibilities. 
 
+   (a) Proposing amendments to existing agreements or proposals that emerge as barriers to my participation
+
+   (b) Contributing to discussions about proposed agreements and amendments, by:
+
+        (i) attending Assemblies when at all possible, and 
+
+        (ii) commenting on discussion-threads in our online forums when relevant
+
+    (c) Contributing to agreed processes for making *collective-wide* decisions, by: 
+
+        (i) reliably responding to calls for consent or consensus in our online forums, and
+
+        (ii) offering amendments to proposals that I’m not satisfied with
+
+4. Respecting those decisions made within the scope of *delegated-decisions* when I have chosen *not* to take on working-group responsibilities. 
 
 ### Additional Responsibilities
 
@@ -87,8 +94,8 @@ This agreement will be reviewed in any of the following conditions:
 ### Terminology
 Where can I find more information about the jargon terms and associated assumptions in this agreement? 
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context: 
-    * Any reference to ‘we’ includes all current participants in the Brassica Collective.  
-    * A ‘participant’ in the collective refers to everyone who has been invited into the collective and has not since opted-out of the minimum responsibilities for participants defined above.
+* Any reference to ‘we’ includes all current participants in the Brassica Collective.  
+* A ‘participant’ in the collective refers to everyone who has been invited into the collective and has not since opted-out of the minimum responsibilities for participants defined above.
 
 ### Rational
 Why do we need a responsibilities and expectations agreement?
