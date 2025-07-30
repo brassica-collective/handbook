@@ -100,8 +100,8 @@ Where can I find more information about the jargon terms and associated assumpti
 ### Rational
 Why do we need a responsibilities and expectations agreement?
 * This agreement emerged as a way to help us balance our responsibilities to each other with our varying capacity to consistently participate. 
-* Prior to this agreement, we have not had a shared articulation of the responsibilities we accept as participants in this collective, as well as what we expect from each other while participating. 
 * This agreement is intended to help us build a culture of encouraging participation; not punishing lack of participation
+* For those who are not currently able to participate yet want to stay informed (for future participation possibilities and/or ad-hoc contributions to the project, such as attending working-bees), we encourage maintaining a ['supporter'](supporters/) role.  
 
 ### Site considerations
 Why doesn’t this agreement include details about collectively stewarded housing-sites?
