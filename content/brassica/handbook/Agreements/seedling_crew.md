@@ -18,18 +18,14 @@ The Seedling Crew goal is to establish the criteria for the purchase of a proper
 
 1. Determine the requirements and criteria for the initial property to be purchased by the Collective.
 
-# Responsibilities
-In the implementation of the above objectives and with reference to the following scope, the Seedling Crew can make decisions to:
-* Determine their own internal processes,
-* Proceed with the objectives as outlined above, 
-* Make decisions within the scope of delegation outlined above, and
-* Represent and act on behalf of the Brassica Collective to build relationships and solidarity in the service of these objectives.
-
-The Crew may also consult with Collective participants as per the process for minor decisions, and consult and petition the PAS Crew for funds as needed.
-
-## In-Scope 
+## Scope of Delegation
+The implementation of the above objectives are delegated to the Seedling Crew, who may consult with Collective participants, as per the process for minor decisions, with regard to:
+* Determining their own internal processes,
+* Proceeding with the objectives as outlined above, 
+* Making decisions within the scope of delegation outlined above, and
+* Representing and acting on behalf of the Brassica Collective to build relationships and solidarity in the service of these objectives.
+ 
 The requirements and criteria for the initial property to be purchased by the Collective may include, but are not limited to, the following considerations:
-
 * Location (distance from services/transport, nearby future purchase opportunities, preferred LGA)
 * Block qualities (size, aspect, soil, neighbours)
 * Accessibility
@@ -41,12 +37,12 @@ The requirements and criteria for the initial property to be purchased by the Co
 * Creating a document which can be handed over to the Crew (yet undetermined) responsible for the purchase of the house.
 * Documenting the process which the Seedling Crew uses so it may be replicated in the future for other purchases.
 
-Funds may requested from the PAS Crew  for things such as:
+The Crew may consult and petition the PAS Crew for funds as needed for things such as:
 * Resources to allow for better research, such as real estate results.
 * Consultancy services of relevant specialists, such as architects, quantity surveyors, or accessibility services.
 * Consultation with local First Nations land councils
 
-## Out-of-Scope 
+### Out-of-Scope 
 The Seedling Crew is not expected to be responsible for the following:
 
 * Determining “the” property to be purchased.
@@ -56,5 +52,6 @@ The Seedling Crew is not expected to be responsible for the following:
 * Contracting tradespeople or acquiring construction materials.
 * Submitting documentation or approval needed from councils for construction.
 
-
+## Timeline
+The Seedling Crew is intended to meet their objectives within 6 months. Until the stated objectives are met, progress updates will be provided at each Assembly. During this time, consultation regarding purchase criteria will be conducted either on Loomio or through in-person group discussion. 
  
