@@ -13,7 +13,7 @@ Ensuring this handbook is updated to reflect current practices is included withi
 
 If there are changes you think need to be made, please reach out to the PAS Crew. If you would like to contribute to the work of updating the handbook, please opt-in to participating on the PAS Crew when you have capacity to do so. 
 
-The following guidelines assume you are familare with the process of finding relevant documentation for a range of general tools and processes (see the list of 'further resources'). 
+The following guidelines assume you are familar with the process of finding relevant documentation for a range of general tools and processes (see the list of 'further resources'). 
 
 If you would like to contribute and are not yet comfortable with any of the relevant tools and processes, please ask to collaborate on changes and/or request support in your approach to learning how to make changes.
 
@@ -33,7 +33,7 @@ If you've not yet done so:
 3. Check for any updates (`git pull`)
 4. Check-out relevant branch :
     * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git checkout [branch name]`) and check for updates (`git pull`). 
-    * If you don't have an existing branch, create one (`git branch [branch name]`)) 
+    * If you don't have an existing branch, create one (`git branch [branch name]`), and publish it (`git push -u origin [branch name]`) 
 5. Open the branch in the code-editor of your choice 
 (e.g.,`code .`)
  
@@ -81,10 +81,10 @@ In the main terminal window:
 
 ### Share updates
 1. check for any updates by others on the same branch (`git pull`)
-2. publish your branch and push your updates (`git push -u origin <branch>`)
+2. push your updates to the remote branch (`git push`)
 
 ### Create a pull-request  
-In github, you can create a pull-request (so that your changes can be merged into the main branch and deployed): 
+When you have finished making all changes, create a pull-request in github (so that your changes can be merged into the main branch and deployed): 
 1. Select the 'compare and pull request' option for your branch
 2. Add a title and description for your request
 3. Select 'pull request' (request review) 
