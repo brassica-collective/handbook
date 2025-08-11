@@ -1,5 +1,5 @@
 ---
-title: Seedling Crew - Objectives & Scope
+title: Seedling Crew
 slug: seedling_crew
 type: docs
 prev: pas_crew
@@ -18,9 +18,9 @@ The Seedling Crew goal is to establish the criteria for the purchase of a proper
 
 1. Determine the requirements and criteria for the initial property to be purchased by the Collective.
 
-# Delegated Decisions
-The Crew can make decisions to:
-* Determine their own internal processes (currently modelled on that used by the PAS Crew),
+# Responsibilities
+In the implementation of the above objectives and with reference to the following scope, the Seedling Crew can make decisions to:
+* Determine their own internal processes,
 * Proceed with the objectives as outlined above, 
 * Make decisions within the scope of delegation outlined above, and
 * Represent and act on behalf of the Brassica Collective to build relationships and solidarity in the service of these objectives.
