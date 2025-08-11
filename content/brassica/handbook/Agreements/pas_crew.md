@@ -2,9 +2,9 @@
 title: PAS Crew
 slug: pas_crew
 type: docs
-prev: responsibiliites_and_expectations
-next: seedling_crew
-weight: 3
+prev: seedling_crew
+next: howtos
+weight: 5
 sidebar:
   open: true
 ---

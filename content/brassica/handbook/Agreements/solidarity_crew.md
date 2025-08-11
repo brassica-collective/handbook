@@ -2,9 +2,9 @@
 title: Solidarity Crew
 slug: solidarity_crew
 type: docs
-prev: seedling_crew
-next: howtos
-weight: 5
+prev: responsibilities_and_expectations
+next: seedling_crew
+weight: 3
 sidebar:
   open: true
 ---

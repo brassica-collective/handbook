@@ -3,7 +3,7 @@ title: Responsibilities and Expectations
 slug: responsibilities_and_expectations
 type: docs
 prev: agreements
-next: pas_crew
+next: solidarity_crew
 weight: 2
 sidebar:
   open: true
