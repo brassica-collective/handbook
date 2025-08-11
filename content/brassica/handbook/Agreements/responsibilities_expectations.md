@@ -94,11 +94,11 @@ Where can I find more information about the jargon terms and associated assumpti
 * Any reference to ‘we’ includes all current participants in the Brassica Collective.  
 * A ‘participant’ in the collective refers to everyone who has been invited into the collective and has not since opted-out of the minimum responsibilities for participants defined above.
 
-### Rational
+### Intentions
 Why do we need a responsibilities and expectations agreement?
 * This agreement emerged as a way to help us balance our responsibilities to each other with our varying capacity to consistently participate. 
 * This agreement is intended to help us build a culture of encouraging participation; not punishing lack of participation
-* For those who are not currently able to participate yet want to stay informed (for future participation possibilities and/or ad-hoc contributions to the project, such as attending working-bees), we encourage maintaining a ['supporter'](supporters/) role.  
+* We assume that those who are not currently able to participate yet want to stay informed (for future participation possibilities and/or ad-hoc contributions to the project, such as attending working-bees) can continue to stay engaged in a ['supporter'](supporters/) role.  
 
 ### Site considerations
 Why doesn’t this agreement include details about collectively stewarded housing-sites?
