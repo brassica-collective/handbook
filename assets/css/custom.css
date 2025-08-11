@@ -61,3 +61,15 @@
   font-size: 1.1em;
   font-stretch: 110%;
 }
+
+.content ol {
+  list-style-type: decimal;
+}
+
+.content ol ol {
+  list-style-type: lower-alpha;
+}
+
+.content ol ol ol {
+  list-style-type: lower-roman;
+}

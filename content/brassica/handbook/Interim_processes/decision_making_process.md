@@ -57,7 +57,7 @@ While there are many ways of forming agreement via consent, we will follow a sim
 2. REACTIONS: Following clarifications, the facilitator runs an in-person [sense check poll](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check) to test for reactions.
 3. AMENDMENTS: Those with concerns are able to suggest specific constructive modifications to the proposal for further discussion.
 4. CONFIRMATION: The crew can then post a formal ['Consent proposal'](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal) on Loomio (adding any amendment)
-5. IMPLEMENTATION: The facilitor then closes the proposal and summarises the outcome on Loomio for documentation.
+5. IMPLEMENTATION: The facilitator then closes the proposal and summarises the outcome on Loomio for documentation.
 
 In between Assemblies, crew can also seek [*advice*](https://help.loomio.com/en/guides/advice_process/index.html) from Voyagers to increase the range of perspectives informing the decisions delegated to them
 
