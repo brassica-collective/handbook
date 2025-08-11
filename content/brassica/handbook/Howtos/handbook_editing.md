@@ -9,20 +9,13 @@ sidebar:
   open: true
 ---
 
-Editing the handbook is one of the responsibilities of the Process and Strategy Crew 
+Ensuring this handbook is updated to reflect current practices is included within the Process and Strategy (PAS) Crew responsibilities.
 
-The following guidelines assume you can find relevant documentation for a range of general tools and processes (e.g., see the resource list below). 
+If there are changes you think need to be made, please reach out to the PAS Crew. If you would like to contribute to the work of updating the handbook, please opt-in to participating on the PAS Crew when you have capacity to do so. 
 
-If you would like to contribute and are not yet comfortable with any of the relevant tools and processes, please ask to collaborate on changes and/or request support. 
+The following guidelines assume you are familare with the process of finding relevant documentation for a range of general tools and processes (see the list of 'further resources'). 
 
-For updating *content*, this includes: 
-* terminal commands
-* using git version control processes 
-* using markdown syntax to edit documents
-* installing and updating software on your local device with terminal commands
-
-For contributing to the *design and maintenance*, additional tools and processes include: 
-* the Hextra Starter Template (details below or at https://github.com/imfing/hextra-starter-template)
+If you would like to contribute and are not yet comfortable with any of the relevant tools and processes, please ask to collaborate on changes and/or request support in your approach to learning how to make changes.
 
 ## Updating content in the Brassica Handbook: 
 
@@ -53,8 +46,22 @@ In your code-editor:
 3. If needed create the file in the relevant folders with appropriate names (all lowercase and using underscores between words, e.g., `conduct_agreement.md`)
 
 ### Edit Markdown documents
-1. Add/edit the navigation information of title; slug; type; prev; next; etc., (at the top of the file between two sets of ---)
-2. Add/edit the file content (using Markdown syntax)
+1. Add/edit the navigation information of title; slug; type; prev; next; etc., (at the top of the file between two sets of three dashes )
+  For example, if you view the markdown for this file, it starts with 
+  ```
+  ---
+title: Handbook Editing
+slug: handbook_editing
+type: docs
+prev: assembly_facilitation
+next: handbook
+weight: 4
+sidebar:
+  open: true
+---
+
+  ```
+2. Add/edit the file content (using [Markdown syntax](https://www.markdownguide.org/tools/hugo/))
 
 ### Preview changes
 Preview changes in the front-end (editing the files  as above to fix any broken dependencies)
@@ -74,16 +81,30 @@ In the main terminal window:
 
 ### Share updates
 1. check for any updates by others on the same branch (`git pull`)
-2. publish your branch and push your updates 
+2. publish your branch and push your updates (`git push -u origin <branch>`)
 
 ### Create a pull-request  
 In github, you can create a pull-request (so that your changes can be merged into the main branch and deployed): 
-1. Select the 'compare and pull request' option
+1. Select the 'compare and pull request' option for your branch
 2. Add a title and description for your request
 3. Select 'pull request' (request review) 
 
-# Additional Resources:
-* Markdown syntax: https://www.markdownguide.org/basic-syntax/  
-* Terminal commands for Ubuntu: https://help.ubuntu.com/community/UsingTheTerminal 
-* Git commands: https://education.github.com/git-cheat-sheet-education.pdf
-* Git Hub explainer: https://docs.github.com/en/get-started/start-your-journey/hello-world 
+### Review changes and merge pull-request
+If you were asked to review the changes proposed by someone else: 
+1. review and comment on changes and/or
+2. merge the changes into the main branch 
+3. delete the branch (both on the repository when prompted, and on your local device (e.g. `git switch main` then `git branch -d [branch name]`))    
+
+# Further Resources:
+
+For updating *content*, background knowledge to learn if not already known includes: 
+* using [markdown syntax](https://www.markdownguide.org/getting-started/) to edit documents
+* using [git](https://en.wikipedia.org/wiki/Git) for version control on your local device ([pdf of a command cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf
+))
+* using terminal commands for Ubuntu: https://help.ubuntu.com/community/UsingTheTerminal
+* installing and updating software on your local device using [terminal commands](https://en.wikipedia.org/wiki/Command-line_interface)
+* using the service we use to host our public repository (currently, this is [github](https://docs.github.com/en/get-started/start-your-journey/hello-world ))
+
+For contributing to the *design and maintenance*, additional tools and processes include: 
+* the Hextra Starter Template (details below or at https://github.com/imfing/hextra-starter-template)
+
