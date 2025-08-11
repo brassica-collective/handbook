@@ -3,7 +3,7 @@ title: Seedling Crew
 slug: seedling_crew
 type: docs
 prev: pas_crew
-next: howtos
+next: solidarity_crew
 weight: 4
 sidebar:
   open: true
