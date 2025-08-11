@@ -16,14 +16,18 @@ As part of this transitional pathway towards the more just futures we want to se
 * practice navigating conflict and responding to harm collectively (without resorting to punishment or surveillance); 
 * build our capacity for participating in the broader networks of relationships needed to take care of one another and our environments  
 
-Within this context, we are practising balancing our expectations of ourselves and each other with the variable and fluctuating capacity each of us have to meet our various responsibilities. 
+Within this context, we are practising balancing our expectations of ourselves and each other with the variable and fluctuating capacity each of us have to meet our various responsibilities. For details, see our [Responsibilities and Expectations Agreement](../Agreements/responsibilities_expectations.md)
 
-To help us each participate in ways that we can sustain, we are building intentional structures around how we interact with each other while participating in this project. 
+This includes building intentional structures around our expectations of each other for sharing the responsibilities of driving this project forward, such as:
 
-As detailed in our Responsibilities and Expectations Agreement, this includes differentiating between 'minimum' and 'opt-in' responsibilities: 
+##### Processes for opting-in to participation responsibilities
+When participating in this collective, we expect each other to explicitly opt-into a set of minimum responsibilities. Each interval, each participant can also choose to take on some of the additional responsibilities needed to move the collective project forward. By expecting each other to opt-in to these additional responsibilities *when we have capacity*, we aim to distribute our shared responsibilities in sustainable ways. These additional responsibilities include those being stewarded by our various [crews](crew)  
 
-- Our minimum responsibilities are those we expect of each other participants in this project; this includes an expectation that we support each other to take breaks from participating when unable to meet these responsibilities. 
+##### Processes for opting-out of participation responsibilities
+We expect each other to communicate as our capacity to meet the minimum responsibilities of participating fluctuates and, to encourage each other to take breaks from participating by either: 
+- opting-out temporarily, by communicating an intended time-frame for pausing participation in the project, or
+- opting-out indefinelty, by discontinuing participation (and returning via our entry pathway if/when circumstances allows)
 
-- For the collective to move our RAD housing project forward, we also expect each other to opt in to additional responsibilities when we have capacity. This helps us distribute the workload while participating in ways that we can sustain. 
+For those not currently participating in the project who want to stay engaged, we encourage maintaining a [supporter](supporters) role in the project.
 
-For those who don't currently have capacity to participate yet intend to in the future, we welcome them staying engaged with the project as [supporters](supporters).
+
