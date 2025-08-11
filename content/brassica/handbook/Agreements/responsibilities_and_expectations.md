@@ -14,14 +14,6 @@ This document forms part of our set of emerging Participation Agreements, and ou
 * Processes for opting-in to additional responsibilities within the collective
 * Expectations from each other as participants in the collective
 
-## Contents:
-* Participant Responsibilities
-    * Minimum Responsibilities
-    * Additional Responsibilities
-* Participant Expectations
-* Review Conditions
-* Context Questions & Assumptions
-
 ## Participant Responsibilities
 ### Minimum Responsibilities
 As a participant in the collective, my minimum responsibilities are:
