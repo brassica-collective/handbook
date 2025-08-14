@@ -4,7 +4,7 @@ slug: seedling_crew
 type: docs
 prev: solidarity_crew
 next: pas_crew
-weight: 4
+weight: 5
 sidebar:
   open: true
 ---

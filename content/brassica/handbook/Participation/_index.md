@@ -11,23 +11,29 @@ sidebar:
 
 Brassica Collective is a multi-site housing project driven by an emerging group of participants experimenting with one approach to implementing RAD housing goals.
 
-As part of this transitional pathway towards the more just futures we want to see, we seek to:
+To contribute to transitioning towards the more just futures we want to see, we seek to:
 * decentralise our decision-making processes and ways of organising;
-* practice navigating conflict and responding to harm collectively (without resorting to punishment or surveillance);
+* practice transforming through conflict and responding to harm collectively (without resorting to punishment or surveillance);
 * build our capacity for participating in the broader networks of relationships needed to take care of one another and our environments
 
-Within this context, we are practising balancing our expectations of ourselves and each other with the variable and fluctuating capacity each of us have to meet our various responsibilities. For details, see our [Responsibilities and Expectations Agreement](../agreements/responsibilities_and_expectations)
+Within this context, we seek to balance our expectations of ourselves and each other with the variable and fluctuating capacity each of us have to meet our various responsibilities. To help us experiment with this balance, we are building intentional processes for:
 
-This includes building intentional structures around our expectations of each other for sharing the responsibilities of driving this project forward, such as:
+##### Opting-in to participation responsibilities
+When participating in this collective, we expect each other to explicitly opt-in to a set of minimum responsibilities. 
 
-##### Processes for opting-in to participation responsibilities
-When participating in this collective, we expect each other to explicitly opt-into a set of minimum responsibilities. Each interval, each participant can also choose to take on some of the additional responsibilities needed to move the collective project forward. By expecting each other to opt-in to these additional responsibilities *when we have capacity*, we aim to distribute our shared responsibilities in sustainable ways. These additional responsibilities include those being stewarded by our various [crews](crew)
+Each interval, each participant can also choose to take on some of the additional responsibilities needed to move the collective project forward. By expecting each other to opt-in to these additional responsibilities *when we have capacity*, we aim to distribute our shared responsibilities in sustainable ways. These additional responsibilities include those being stewarded by our various [crews](crew)
 
-##### Processes for opting-out of participation responsibilities
-We expect each other to communicate as our capacity to meet the minimum responsibilities of participating fluctuates and, to encourage each other to take breaks from participating by either:
-- opting-out temporarily, by communicating an intended time-frame for pausing participation in the project, or
-- opting-out indefinelty, by discontinuing participation (and returning via our entry pathway if/when circumstances allows)
+##### Opting-out of participation responsibilities and expectations
+We expect each other to communicate as our capacity to participate fluctuates, and to encourage each other to take breaks by either:
+- temporarily opting-out of responsibilities (by communicating an intended time-frame for pausing participation in the project), or
+- indefinitely opting-out of both responsibilities and expectations (exiting, with the option to return through the entry pathway in the future)
 
 For those not currently participating in the project who want to stay engaged, we encourage maintaining a [supporter](supporters) role in the project.
+
+#### Onboarding new and returning participants
+Prior to inviting people who have expressed interest to begin (or return to) participating in this project, we have processes help us consider how much capacity we have to support them in the process of gathering the context and skills needed to participate and contribute to driving this project forward.
+
+For more details, see our [Responsibilities and Expectations](../agreements/responsibilities_and_expectations) and [Entry and Exit Pathways](../agreements/entry_and_exit_pathways) agreements. 
+
 
 

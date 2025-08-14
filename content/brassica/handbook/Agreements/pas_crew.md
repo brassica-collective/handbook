@@ -4,7 +4,7 @@ slug: pas_crew
 type: docs
 prev: seedling_crew
 next: howtos
-weight: 5
+weight: 6
 sidebar:
   open: true
 ---

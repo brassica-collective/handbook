@@ -4,7 +4,7 @@ slug: solidarity_crew
 type: docs
 prev: responsibilities_and_expectations
 next: seedling_crew
-weight: 3
+weight: 4
 sidebar:
   open: true
 ---

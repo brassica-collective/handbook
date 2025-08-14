@@ -2,9 +2,9 @@
 title: Responsibilities and Expectations
 slug: responsibilities_and_expectations
 type: docs
-prev: agreements
+prev: entry_and_exit_pathways
 next: solidarity_crew
-weight: 2
+weight: 3
 sidebar:
   open: true
 ---
