@@ -11,7 +11,7 @@ sidebar:
 
 The types of agreements we make are up to us.
 
-While there are contexts where organising practices can benefit from being dynamic and/or undocumented, we also need [durable groups](https://commonslibrary.org/constitutions-how-to-build-durable-groups/) that streamline horizontal decision-making by establishing a clear standards for relating to each other, and clarifying the conditions within which these standards be challenged, revised, or even disposed of all together. 
+While there are contexts where organising practices can benefit from being dynamic and/or undocumented, we also need [durable groups](https://commonslibrary.org/constitutions-how-to-build-durable-groups/) that streamline horizontal decision-making by establishing clear standards for relating to each other, and clarifying the conditions within which these standards can be challenged, revised, or even disposed of all together. 
 
 This handbook is where we will maintain records of our current collective agreements. 
 
