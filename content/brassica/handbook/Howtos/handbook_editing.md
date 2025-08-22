@@ -34,6 +34,7 @@ If you've not yet done so:
 4. Check-out relevant branch :
     * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git checkout [branch name]`) and check for updates (`git pull`). 
     * If you don't have an existing branch, create one (`git branch [branch name]`), and publish it (`git push -u origin [branch name]`) 
+    * Checkout the branch (`git swtich [branch name]`)
 5. Open the branch in the code-editor of your choice 
 (e.g.,`code .`)
  
