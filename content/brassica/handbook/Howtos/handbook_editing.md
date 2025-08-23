@@ -34,6 +34,7 @@ If you've not yet done so:
 4. Check-out relevant branch :
     * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git checkout [branch name]`) and check for updates (`git pull`). 
     * If you don't have an existing branch, create one (`git branch [branch name]`), and publish it (`git push -u origin [branch name]`) 
+    * Checkout the branch (`git swtich [branch name]`)
 5. Open the branch in the code-editor of your choice 
 (e.g.,`code .`)
  
@@ -99,8 +100,7 @@ If you were asked to review the changes proposed by someone else:
 
 For updating *content*, background knowledge to learn if not already known includes: 
 * using [markdown syntax](https://www.markdownguide.org/getting-started/) to edit documents
-* using [git](https://en.wikipedia.org/wiki/Git) for version control on your local device ([pdf of a command cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf
-))
+* using [git](https://en.wikipedia.org/wiki/Git) for version control on your local device ([pdf of a command cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) or see the [more extensive documentation](https://git-scm.com/book/en/v2))
 * using terminal commands for Ubuntu: https://help.ubuntu.com/community/UsingTheTerminal
 * installing and updating software on your local device using [terminal commands](https://en.wikipedia.org/wiki/Command-line_interface)
 * using the service we use to host our public repository (currently, this is [github](https://docs.github.com/en/get-started/start-your-journey/hello-world ))
