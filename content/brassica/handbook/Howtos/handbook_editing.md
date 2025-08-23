@@ -100,8 +100,7 @@ If you were asked to review the changes proposed by someone else:
 
 For updating *content*, background knowledge to learn if not already known includes: 
 * using [markdown syntax](https://www.markdownguide.org/getting-started/) to edit documents
-* using [git](https://en.wikipedia.org/wiki/Git) for version control on your local device ([pdf of a command cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf
-))
+* using [git](https://en.wikipedia.org/wiki/Git) for version control on your local device ([pdf of a command cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) or see the [more extensive documentation](https://git-scm.com/book/en/v2))
 * using terminal commands for Ubuntu: https://help.ubuntu.com/community/UsingTheTerminal
 * installing and updating software on your local device using [terminal commands](https://en.wikipedia.org/wiki/Command-line_interface)
 * using the service we use to host our public repository (currently, this is [github](https://docs.github.com/en/get-started/start-your-journey/hello-world ))
