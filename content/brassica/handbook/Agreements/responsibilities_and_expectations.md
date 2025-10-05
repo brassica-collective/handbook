@@ -3,7 +3,7 @@ title: Responsibilities and Expectations
 slug: responsibilities_and_expectations
 type: docs
 prev: entry_and_exit_pathways
-next: solidarity_crew
+next: knowledge_gardening_crew
 weight: 3
 sidebar:
   open: true
