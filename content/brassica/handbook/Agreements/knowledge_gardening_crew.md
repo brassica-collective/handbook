@@ -12,7 +12,7 @@ sidebar:
 The following is a summary of the objectives and associated decision-making scope delegated to the Knowledge Gardening Crew by participants of the Brassica Collective (via the consent process detailed in our interim decision making process, with the proposal and discussion documented on Loomio). 
 
 ## Goal 
-The Knowledge Gardening Crew’s goal is to document our project in ways that support us to implement our collective agreements internally, and share our processes as we learn about collective practice in public.
+The Knowledge Gardening Crew’s goal is to document our project in ways that support us to implement our collective agreements internally, and share our processes as we learn about collective practices in public.
 
 ## Objectives
 1. Generate, maintain, and manage internal documentation that supports the implementation of our collective processes 
@@ -34,9 +34,7 @@ We expect the Knowledge Gardening Crew to consult with the relevant Crew about d
 * Consulting with PAS Crew when updating documentation about how to facilitate an Assembly
 * Consulting with Solidarity Crew when we are considering the broader justice implications of choosing a particular product or supplier  
 
-Additionally, we expect the Knowledge Gardening Crew to ask Collective participants for advice on decisions that require significant work from non-crew participants or are potentially controversial. For example,
-
-* Deciding when and how to introduce a new documentation tool or processes that changes how participants are expected to meet their minimum responsibilities (e.g., when to replace google docs with an open-source collaborative document editing tool)
+Additionally, we expect the Knowledge Gardening Crew to ask Collective participants for advice on decisions that require significant work from non-crew participants or are potentially controversial. For example, deciding when and how to introduce a new documentation tool or processes that changes how participants are expected to meet their minimum responsibilities 
 
 The Knowledge Gardening Crew is not expected to be responsible for internal and external communication processes (these remain PAS Crew responsibilities).
 
