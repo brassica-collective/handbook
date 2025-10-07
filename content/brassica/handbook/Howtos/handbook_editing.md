@@ -34,7 +34,8 @@ If you've not yet done so:
 4. Check-out relevant branch :
     * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git checkout [branch name]`) and check for updates (`git pull`). 
     * If you don't have an existing branch, create one (`git branch [branch name]`), and publish it (`git push -u origin [branch name]`) 
-5. Open the branch in the code-editor of your choice 
+    * Check out the new branch (`git checkout [branch name]`) 
+6. Open the branch in the code-editor of your choice 
 (e.g.,`code .`)
  
 Try to focus on one major change at a time. For each major change, the process is open/create files; edit & preview (until the major change is working), then commit before moving to the next major change. 

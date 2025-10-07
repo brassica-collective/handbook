@@ -2,7 +2,7 @@
 title: Solidarity Crew
 slug: solidarity_crew
 type: docs
-prev: responsibilities_and_expectations
+prev: knowledge_gardening_crew
 next: seedling_crew
 weight: 4
 sidebar:
