@@ -2,7 +2,7 @@
 title: Handbook Editing
 slug: handbook_editing
 type: docs
-prev: comms_guidelines
+prev: assembly_facilitation
 next: handbook
 weight: 5
 sidebar:

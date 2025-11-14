@@ -1,10 +1,10 @@
 ---
-title: Communication Tools Guidelines
+title: Communication Tools
 slug: comms_guidelines
 type: docs
-prev: assembly_facilitation
-next: handbook_editing
-weight: 4
+prev: onboarding_process
+next: assembly_facilitation
+weight: 3
 sidebar:
   open: true
 ---

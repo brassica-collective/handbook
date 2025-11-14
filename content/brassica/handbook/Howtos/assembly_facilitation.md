@@ -2,9 +2,9 @@
 title: Assembly Facilitation Guidelines
 slug: assembly_facilitation
 type: docs
-prev: onboarding_process
-next: handbook
-weight: 3
+prev: comms_guidelines
+next: handbook_editing
+weight: 4
 sidebar:
   open: true
 ---

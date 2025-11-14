@@ -3,7 +3,7 @@ title: Onboarding Process
 slug: onboarding_process
 type: docs
 prev: howtos
-next: assembly_facilitation
+next: comms_guidelines
 weight: 2
 sidebar:
   open: true
