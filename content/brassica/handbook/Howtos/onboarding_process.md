@@ -76,7 +76,7 @@ Brassica Collective emerged as a project to design and implementation of version
 
 As a RAD Housing inspired project, we aim to [decommodify](https://radhousing.org/about/decommodify/) and [retrofit](https://radhousing.org/about/retrofit/) multiple housing sites by [transitioning from collective ownership to stewardship](https://radhousing.org/t2s-model/) while [living collectively](https://radhousing.org/about/collectively/) and [acting in solidarity](https://radhousing.org/about/solidarity/) with movements for justice)
 
-For more of the context on which the Brassica Collective is building, see the [RAD Housing](content/about) website, and discuss with on-boarding supporter the ‘what’, ‘why’, and ‘how’ questions around how the Collective is incorporating:
+For more of the context on which the Brassica Collective is building, see the [RAD Housing](content/about) website, and discuss with your on-boarding supporter or buddy the ‘what’, ‘why’, and ‘how’ questions around how the Collective is currently incorporating:
 - [ ] Climate-adaptation processes
 - [ ] Decommodification principles
 - [ ] Collective practices for commoning
