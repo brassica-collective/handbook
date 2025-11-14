@@ -47,7 +47,7 @@ Review the following statements, for those that you are not ready to agree with,
 
 When ready, please share each statement of confidence with the collective   
 
-> **On-boarding is considered complete when all statements are shared**
+> **On-boarding is considered complete when all statements are shared** as outlined in our [Entry & Exit Pathways Agreement](https://radhousing.org/brassica/handbook/agreements/entry_and_exit_pathways/)
 
 ### Reflect on participation capacity 
 - Review participation [responsibilities and expectations](https://radhousing.org/brassica/handbook/agreements/responsibilities_and_expectations/) and update your [participation status](https://brassica.radhousing.org/), opting in or out of different forms of participation each interval as relevant. 

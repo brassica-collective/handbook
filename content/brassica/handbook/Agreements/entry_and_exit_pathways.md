@@ -116,7 +116,7 @@ If the invitation is accepted, the proposer should ensure that participants are:
 
 ### Onboarding  {#onboarding}
 
-The *process* for onboarding is stewarded by the PAS crew and is intended to guide recent participants in understanding existing agreements and actively engage in co-creating future collective practices. 
+The [*process* for onboarding](https://radhousing.org/brassica/handbook/howtos/onboarding_process/) is stewarded by the PAS crew and is intended to guide recent participants in understanding existing agreements and actively engage in co-creating future collective practices. 
 
 The proposer is responsible for coordinating the support requested by a new participant as they complete the relevant onboarding activities. This initial support is expected to continue until onboarding is complete, or the onboarding support is replaced with some other agreed mode of support within the collective.  
 
