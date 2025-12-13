@@ -9,9 +9,9 @@ sidebar:
   open: true
 ---
 
-Ensuring this handbook is updated to reflect current practices is included within the Process and Strategy (PAS) Crew responsibilities.
+Ensuring this handbook is updated to reflect current practices is included within the Knowledge Gardening Crew's responsibilities.
 
-If there are changes you think need to be made, please reach out to the PAS Crew. If you would like to contribute to the work of updating the handbook, please opt-in to participating on the PAS Crew when you have capacity to do so. 
+If there are changes you think need to be made, please reach out to the Knowledge Gardening Crew. If you would like to contribute to the work of updating the handbook, please opt-in to participating on the Knowledge Gardening Crew when you have capacity to do so. 
 
 The following guidelines assume you are familar with the process of finding relevant documentation for a range of general tools and processes (see the list of 'further resources'). 
 
