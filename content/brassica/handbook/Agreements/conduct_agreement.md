@@ -2,8 +2,8 @@
 title: Conduct Agreement
 slug: conduct_agreement
 type: docs
-prev: 
-next: 
+prev: agreements
+next: entry_and_exit_pathways
 weight: 2
 sidebar:
   open: true
@@ -152,15 +152,15 @@ When participants act at odds with our shared expectations, we agree to be guide
 * **Escalate:** the Pause on Participation working group will initiate an Involuntary Exit process if the conditions for returning to participation are not met within the specified time-frame.
 ### 5. Involuntary Exit
 
-# Review Conditions
-This agreement will be reviewed in any of the following conditions (whichever comes first): 
+## Review Conditions
+This agreement will be reviewed in any of the following circumstances (whichever comes first): 
 * Whenever a participant proposes an amendment to this agreement
-* When any agreement in the set of Participation * Agreements is amended
-Prior to the first participants living in a collectively stewarded site
+* When any agreement in the set of Participation Agreements is amended
+* Prior to the first participants living in a collectively stewarded site
 * After the Behaviours-Expectations Calibration process has been initiated five times
 * Every two years
 
-# Context Questions & Assumptions
+## Context Questions & Assumptions
 _Where can I find more information about the jargon terms and associated assumptions in this agreement?_
 * The ‘collective’ referenced in this agreement is the Brassica Collective, as described in our handbook 
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context: 
@@ -189,12 +189,14 @@ _What are the assumed values reflected in this agreement?_
     * This approach informs our intention to practice providing each other with care when we experience harm as well as helping each other to hold ourselves accountable when we learn we've caused harm to others.
 
 _What are examples of behaviours that can contribute to oppressive dynamics?_
+
 Oppressive dynamics emerge from power imbalances that perpetuate oppression. These power imbalances emerge in the context of societal structures (including policies, institutions, and cultural norms) that reinforce inequality, marginalizing individuals and communities. 
 Individual behaviours that can reflect and reinforce these broader oppressive power dynamics in ways that tend to contribute to harmful situations include: 
 * Bullying (e.g., deliberate intimidation) 
 * Harassment (e.g., unwelcome personal attention)
 * Disrespectful behaviour (e.g., unwelcome sharing of personal information or private communications)
 * Belittling language, prejudiced comments, or thoughtless jokes about another person’s identity, personal characteristics, and/or life-choices (including but not limited to: gender, gender identity and expression, sexual orientation, disability, mental illness, neuroatypicality, physical appearance, race, religion, eating habits, health decisions, and drug use).
+
 _Why doesn’t this agreement consider all possible scenarios we might face as a collective?_
 * We think it is impossible to predict all possible scenarios. We are creating a ‘how to’ guide as a starting point to guide us in more concrete ways and will update this as new scenarios emerge.
 * We expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective. 
