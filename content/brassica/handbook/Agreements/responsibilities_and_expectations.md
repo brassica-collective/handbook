@@ -71,25 +71,21 @@ This agreement (*Version: 4.1*) will be reviewed in any of the following conditi
 3. Prior to the first participants living in a collectively stewarded site
 4. Every two years (if not otherwise reviewed in that time frame)
 
-## Context & Assumptions
+## Context Questions & Assumptions
 
-### Terminology
-Where can I find more information about the jargon terms and associated assumptions in this agreement?
+_Where can I find more information about the jargon terms and associated assumptions in this agreement?_
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:
 * Any reference to ‘we’ includes all current participants in the Brassica Collective.
 * A ‘participant’ in the collective refers to everyone who has been invited into the collective and has not since opted-out of the minimum responsibilities for participants defined above.
 
-### Intentions
-Why do we need a responsibilities and expectations agreement?
+_Why do we need a responsibilities and expectations agreement?_
 * This agreement emerged as a way to help us balance our responsibilities to each other with our varying capacity to consistently participate.
 * This agreement is intended to help us build a culture of encouraging participation; not punishing lack of participation
 * We assume that those who are not currently able to participate yet want to stay informed (for future participation possibilities and/or ad-hoc contributions to the project, such as attending working-bees) can continue to stay engaged in a ['supporter'](supporters/) role.
 
-### Site considerations
-Why doesn’t this agreement include details about collectively stewarded housing-sites?
+_Why doesn’t this agreement include details about collectively stewarded housing-sites?_
 * The current version of this agreement is for our collective practice prior to acquiring any housing-sites; the many additional responsibilities and expectations associated with collectively stewarding high-value resources or living together are beyond the present scope.
 * We expect to update this agreement and/or clarify site-specific agreements about our responsibilities and expectations within each housing site and within the broader collective.
 
-### What about...?
-Why doesn’t this agreement consider all possible scenarios we might face as a collective?
+_Why doesn’t this agreement consider all possible scenarios we might face as a collective?_
 * We expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.
