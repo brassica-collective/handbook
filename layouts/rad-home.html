@@ -1,8 +1,8 @@
-{{ define "main" }}
+{{/*  {{ define "main" }}
   <h1 id="site-title" class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100"><div class="rad">RAD</div><div class="housing">Housing</div></h1>
 
 
-  <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
+  <div class='hx-mx-auto hx-flex'>
     {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
     {{ partial "toc.html" . }}
 
@@ -11,6 +11,28 @@
 
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
 
+
+        <div id="hero">
+          <h2><a class="retrofit" href="/about/retrofit">Retrofit</a> and <a class="decommodify" href="/about/decommodify">Decommodify</a> housing <a href="/about/collectively">Collectively</a>, and in <a href="/about/solidarity">Solidarity</a></h2>
+        </div>
+
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </main>
+    </article>
+  </div>
+{{ end }}  */}}
+
+{{ define "main" }}
+  {{ if .Title }}<h1 id="site-title" class="hx:text-center hx:mt-2 hx:text-4xl hx:font-bold hx:tracking-tight hx:text-slate-900 hx:dark:text-slate-100">{{ .Title }}</h1>{{ end }}
+
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
+    {{ partial "toc.html" . }}
+
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="hx:w-full hx:min-w-0 hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12">
 
         <div id="hero">
           <h2><a class="retrofit" href="/about/retrofit">Retrofit</a> and <a class="decommodify" href="/about/decommodify">Decommodify</a> housing <a href="/about/collectively">Collectively</a>, and in <a href="/about/solidarity">Solidarity</a></h2>

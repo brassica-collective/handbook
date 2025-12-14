@@ -9,9 +9,9 @@ sidebar:
   open: true
 ---
 
-Ensuring this handbook is updated to reflect current practices is included within the Process and Strategy (PAS) Crew responsibilities.
+Ensuring this handbook is updated to reflect current practices is included within the Knowledge Gardening Crew's responsibilities.
 
-If there are changes you think need to be made, please reach out to the PAS Crew. If you would like to contribute to the work of updating the handbook, please opt-in to participating on the PAS Crew when you have capacity to do so. 
+If there are changes you think need to be made, please reach out to the Knowledge Gardening Crew. If you would like to contribute to the work of updating the handbook, please opt-in to participating on the Knowledge Gardening Crew when you have capacity to do so. 
 
 The following guidelines assume you are familar with the process of finding relevant documentation for a range of general tools and processes (see the list of 'further resources'). 
 
@@ -34,8 +34,8 @@ If you've not yet done so:
 4. Check-out relevant branch :
     * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git checkout [branch name]`) and check for updates (`git pull`). 
     * If you don't have an existing branch, create one (`git branch [branch name]`), and publish it (`git push -u origin [branch name]`) 
-    * Checkout the branch (`git swtich [branch name]`)
-5. Open the branch in the code-editor of your choice 
+    * Check out the new branch (`git checkout [branch name]`) 
+6. Open the branch in the code-editor of your choice 
 (e.g.,`code .`)
  
 Try to focus on one major change at a time. For each major change, the process is open/create files; edit & preview (until the major change is working), then commit before moving to the next major change. 

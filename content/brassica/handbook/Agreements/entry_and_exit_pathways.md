@@ -2,7 +2,7 @@
 title: Entry and Exit Pathways
 slug: entry_and_exit_pathways
 type: docs
-prev: agreements
+prev: conduct_agreement
 next: responsibilities_and_expectations
 weight: 2
 sidebar:
@@ -116,7 +116,7 @@ If the invitation is accepted, the proposer should ensure that participants are:
 
 ### Onboarding  {#onboarding}
 
-The *process* for onboarding is stewarded by the PAS crew and is intended to guide recent participants in understanding existing agreements and actively engage in co-creating future collective practices. 
+The [*process* for onboarding](https://radhousing.org/brassica/handbook/howtos/onboarding_process/) is stewarded by the PAS crew and is intended to guide recent participants in understanding existing agreements and actively engage in co-creating future collective practices. 
 
 The proposer is responsible for coordinating the support requested by a new participant as they complete the relevant onboarding activities. This initial support is expected to continue until onboarding is complete, or the onboarding support is replaced with some other agreed mode of support within the collective.  
 
@@ -183,25 +183,25 @@ This agreement (*Version 4.1*) will be reviewed in any of the following circumst
 
 ## Context Questions & Assumptions 
 
-### *Where can I find more information about the jargon terms and associated assumptions in this agreement?* 
+_Where can I find more information about the jargon terms and associated assumptions in this agreement?_
 
 * The ‘collective’ referenced in this agreement is the [Brassica Collective](/brassica/handbook), as described in our handbook  
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:   
   * ‘we’ refers to all current participants in the Brassica Collective.   
   * A ‘current participant’ is everyone who has opted-in to their ‘minimum responsibilities’ to the collective for the relevant interval(s), as described in the [Responsibilities and Expectations Agreement](../responsibilities_and_expectations)
 
-### *Why do we need an entry & exit agreement?* 
+_Why do we need an entry & exit agreement?_
 
 * Articulating our current understanding of when/how/why people start and stop participating is intended to help us honour our varying and fluctuating capacity for participation, and navigate the emerging project-group dynamics as the configuration of participants change over time.   
 * Our entry pathway is the process through which **any current participant** can invite additional potential participants to collaborate with us on this experiment in implementing RAD housing and co-creating our collective living practices going forward.  
 * As part of taking collective responsibility for each other as participants, we want to ensure that we are thoughtful about our collective capacity for supporting additional people to become active participants (by becoming familiar with the various conceptual and relational contexts this may require).
 
-### Why doesn’t this agreement include details about how people enter or exit collectively stewarding housing-sites?
+_Why doesn’t this agreement include details about how people enter or exit collectively stewarding housing-sites?_
 
 * The current version of this agreement is for our collective practice prior to acquiring any housing-sites.    
 * We expect to update this agreement and/or clarify site-specific agreements about entry and exit pathways when we have had time to consider the many additional complexities associated with when, why, and how people can enter and exit our collectively stewarded housing sites.  
 
-### Why doesn’t this agreement consider all possible scenarios we might face as a collective? 
+_Why doesn’t this agreement consider all possible scenarios we might face as a collective?_
 
 * We also expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective. 
 

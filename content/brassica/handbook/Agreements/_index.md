@@ -3,7 +3,7 @@ title: Agreements
 slug: agreements
 type: docs
 prev: decision_making_process
-next: entry_and_exit_pathways
+next: conduct_agreement
 weight: 4
 sidebar:
   open: true
@@ -32,7 +32,7 @@ We are in the processes of clarifying our shared understanding of different aspe
 
 * [Entry & Exit Pathways](entry_and_exit_pathways): outlining our processes for inviting additional people to participate in the collective and our processes for opting-out of participation temporarily or indefinitely. 
 
-* Conduct: clarifying how we can expect others to conduct themselves in relation to us, our responsibilities to conduct ourselves likewise, and how we intend to respond in situations where the conduct of any participants are not aligning with our expectations of each other.
+* [Conduct](conduct_agreement): clarifying how we can expect others to conduct themselves in relation to us, our responsibilities to conduct ourselves likewise, and how we intend to respond in situations where the conduct of any participants are not aligning with our expectations of each other.
 
 * Conduct Supporter Roles: establishing a distributed support structure to help us learn to collectively take responsibility for navigating conflict well together. 
 

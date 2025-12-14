@@ -16,7 +16,7 @@ How-tos are living documents. If you're impacted by one of these processes, and 
 Examples include: 
 * Our facilitation guidelines - an emergent process we are using to help us create a 'container' for intentional group processes.
 * Our guidelines for on-boarding - an emergent process intended to help us support new participants gain the context and confidence to co-create our collective going forward.
-* Guidelines for updating the content of this handbook - this is one of the responsibilities of the Process and Strategy Crew 
+* Guidelines for updating the content of this handbook - this is one of the responsibilities of the Knowledge Gardening Crew. 
 
 If you're in a different collective, please feel free to take any of these guides and adapt them to your own purposes as needed. See the creative commmons licence details on the [about this handbook](../../handbook) page.
 
