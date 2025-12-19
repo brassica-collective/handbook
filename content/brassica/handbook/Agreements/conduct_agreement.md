@@ -87,9 +87,13 @@ When participants act at odds with our shared expectations, we agree to be guide
 * We commit to **reflecting** on the impacts of our behaviours on others so that we can continue **learning** from our differences (if requested, this will happen within a timeframe agreed to by those involved)
 
 **Further actions when relevant:**
+
 * **Debrief:** we treat the sharing of feelings as a request for acknowledgement of someone’s perspective of a situation, not as an opening for discussion. If we need clarification or want to discuss the situation further, we will ask our conduct supporter(s) to help us debrief our experience and reflect on how our behaviors were experienced by others.
+
 * **Apologise:** if any mistakes or misunderstandings are identified in our reflections, we apologise to those impacted and commit to further learning
+
 * **Agreement review:** all participants are expected to reflect on the ways our collective practices structure how we relate to each other and propose amendments to agreements where relevant
+
 * **Escalate:** if reflections identify misunderstandings or disagreements, or patterns of behaviour that are out-of-alignment with our shared expectations, then we request our conduct supports to initiate the Structured Dialogue or Behaviours-Expectations Calibration processes, as appropriate
 
 ### 2. Structured Dialogue
@@ -99,13 +103,16 @@ When participants act at odds with our shared expectations, we agree to be guide
 * Participants are navigating a conflict and are willing to communicate directly, but have come to an impasse
 
 **Response process:**
+
 * **Direct dialogue:** participants will be asked to arrange a time to engage in dialogue directly, outside of the group context; support to structure this dialogue can be requested from their conduct supporter(s). 
+
 * [**Mediated dialogue:**](https://www.tangledwilderness.org/features/pocket-guide-to-conflict-mediation) if a misunderstanding, disagreement, or conflict is unable to be resolved directly, the conduct supporter(s) will either mediate or organise an external mediator to hold space for participants to continue their dialogue.
 
 **Further actions:**
 * **Escalate:** our conduct supports will initiate a Behaviours-Expectations Calibration process if we refuse to participate in dialogue when requested. 
 
 ### 3. Behaviours-Expectations Calibration
+
 **Situations this process applies to:**
 * When any participant acts in ways that others experience as violating our conduct expectations, notably:
     * A refusal to align their behaviour with shared expectations (e.g. refusing a request for Structured Dialogue)
@@ -113,9 +120,11 @@ When participants act at odds with our shared expectations, we agree to be guide
     * A single serious incident that is out of alignment with shared expectations (e.g., a singular incident of intimidating behaviour)
 
 **Response process:**
+
 * **Conduct supporter(s) help a participant write a notice of concern:**
     * A participant can share their experiences of other participants’ behaviours as violations of our conduct expectations with their conduct supporter(s) at any time. 
     * Conduct supporter(s) will help participants to write these concerns and will initiate the formation of a working-group to respond to them.
+
 * **Form a working group to identify pathways forward** (this working group can include any participants, including affected parties; but, at a minimum, it should include conduct supporter(s) of participants impacted and those whose actions are impacting others). When a written notice of concern is shared with conduct supporter(s), a dedicated working group will take responsibility for:
     * Identifying avenues of support for participants impacted by their experiences of our conduct expectations being violated.
     * Identifying any specific behavioural changes needed to address the concerns raised (and a time-frame for these changes to be undertaken if relevant). 
@@ -126,17 +135,22 @@ When participants act at odds with our shared expectations, we agree to be guide
         * Resources available to support behavioural change, and
         * Timeline of expected behavioural change
         * Warning of any consequences for behaviours of concern persisting beyond that timeline (e.g., pause on participation)
+
 * **Conduct supporter(s) to help us hold ourselves accountable for responding to a notice of concern by:**
     * Supporting participants to treat the sharing of concerns as a request for acknowledgement of someone’s perspective of a situation, not as an opening for discussion. If we need clarification or want to discuss the situation further, we will ask our conduct supporter(s) to help us debrief our experience and reflect on how our behaviors were experienced by others.
     * Helping participants access the relevant supports and engage with expected behavioural changes
+
 * **Alter behaviours:** the behavioural changes requested will depend on the situation; they may be specific to an individual or be relevant to all participants. Examples include: 
     * An expectation that a participant learn more about how their behaviours can impact others (e.g., attend anti-racism training) 
     * An expectation that a participant alter specific behaviours to re-align with shared expectations (e.g., by learning how to avoid contributing to another participants’ specific experiences of micro-aggressions) 
     * An expectation that we improve our collective approaches to aligning our behaviours and expectations (e.g., organising group-wide training or amending our agreements).
+
 **Further actions:**
+
 * **Escalate:** the Behaviour-Expectations Calibration working-group will initiate a Pause on Participation process if we refuse to participate in these responses processes 
 
 ### 4. Pause on participation
+
 **Situations this process applies to:**
 * A major violation of collective values or agreements, including sustained inappropriate behaviour. For example, harassment and bullying, and persistent discriminatory behaviour as a result of refusal to engage in Behaviour-Expectations Calibration processes.
 
@@ -147,10 +161,25 @@ When participants act at odds with our shared expectations, we agree to be guide
     * Determine the conditions that will need to be met to lift the pause-on-participation (these should be specific and feasible actions, such as participating in mediated conversations with those involved, offering apologies or acknowledgements of the harm caused to impacted participants, attending training, demonstrating learning and understanding in a particular area and a commitment to changed behaviour). 
     * Work with affected parties to assess what broader changes may be needed (potential examples include, creating new group training, investing in more mutual care and mutual aid (including those who have caused harm), facilitating and mediating conversations between affected parties, working groups, or the all participants)
     * Support return to participation if/when relevant conditions have been met.
+
 **Agreement review:** all participants are expected to reflect on the ways our collective practices structure how we relate to each other and propose amendments to agreements where relevant
+
 **Further actions:**
 * **Escalate:** the Pause on Participation working group will initiate an Involuntary Exit process if the conditions for returning to participation are not met within the specified time-frame.
+
 ### 5. Involuntary Exit
+
+**Situations this process applies to**: 
+Demonstrating a pattern of violating community agreements, including deep and sustained damaging behaviour. For example, domestic violence or other abusive behaviours.
+
+**Response**: 
+Repeated violations of collective agreements will initiate the Exit Pathway (as detailed in the Entry and Exit Pathways Agreement), including removal from communication channels and administrative privileges, relinquishing expectations of the collective, return of transitional equity. 
+In addition, the context prompting an involuntary exit may be communicated privately to organisers of other projects within our broader ecosystem of collective practices if there is reason to believe that broader awareness would provide more avenues for supporting the behaviour changes we believe would reduce further harm.
+
+**Further actions**: 
+Continued learning: The group will work to assess the conditions that led to the exit, and work with affected parties and the whole group to identify any broader changes we may need to initiate within our collective practices. 
+
+Re-entry pathways: In keeping with abolitionist views that people are capable of change and self reflection in their own time, a re-entry pathway may be considered if the person shows long term extensive change in behaviour and expresses interest in participating again. In circumstances where participants remain concerned about safety, collective-wide decisions may need to be made about how we determine our capacity for responding to these concerns.
 
 ## Review Conditions
 This agreement will be reviewed in any of the following circumstances (whichever comes first): 
