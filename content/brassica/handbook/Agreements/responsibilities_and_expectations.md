@@ -3,7 +3,7 @@ title: Responsibilities and Expectations
 slug: responsibilities_and_expectations
 type: docs
 prev: entry_and_exit_pathways
-next: knowledge_gardening_crew
+next: multi_site_purchasing
 weight: 3
 sidebar:
   open: true
