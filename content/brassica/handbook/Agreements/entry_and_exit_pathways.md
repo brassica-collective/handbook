@@ -100,7 +100,7 @@ The proposal will be **retired**:
 
 After a proposal is resolved or retired, the proposer is responsible for
 
-* Summarising the considerations discussedion
+* Summarising the considerations discussed
 * Adding the potential participant to either the ‘participant invitation list’ or ‘retired proposals’ list, and
 * Communicating to the potential participant the outcome of the proposal, including any concerns/objections raised if relevant, and explaining the next steps in the process
 
