@@ -133,7 +133,7 @@ Onboarding is completed when new participants confirm they feel confident in eac
 
 ### Pause Participation (Hiatus)
 
-A participation hiatus occurs when a participant explicitly opts out of their minimum responsibilities for a fixed period of time while retaining their expectations of the collective.
+A participation hiatus occurs when someone explicitly opts out of their participation responsibilities for a fixed period of time. *During this time, minimum responsibilities and expectations continue as outlined here and in other agreements*.
 
 Participants are expected to communicate to the collective that they are taking a ‘hiatus’ when they:
 
