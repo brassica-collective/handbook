@@ -35,10 +35,3 @@ We are in the processes of clarifying our shared understanding of different aspe
 * [Conduct](conduct_agreement): clarifying how we can expect others to conduct themselves in relation to us, our responsibilities to conduct ourselves likewise, and how we intend to respond in situations where the conduct of any participants are not aligning with our expectations of each other.
 
 * Conduct Supporter Roles: establishing a distributed support structure to help us learn to collectively take responsibility for navigating conflict well together.
-
-
-### Housing agreements
-
-We are also in the process of clarifying our shared understanding of when, how, and why we plan to acquire and retrofit houses as a collective. For instance, we have an initial:  
-
-* [Multi-Site Purchasing Agreement](multi_site_purchsing)
