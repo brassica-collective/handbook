@@ -37,4 +37,8 @@ We are in the processes of clarifying our shared understanding of different aspe
 * Conduct Supporter Roles: establishing a distributed support structure to help us learn to collectively take responsibility for navigating conflict well together.
 
 
+### Housing agreements
 
+We are also in the process of clarifying our shared understanding of when, how, and why we plan to acquire and retrofit houses as a collective. For instance, we have an initial:  
+
+* [Multi-Site Purchasing Agreement](multi_site_purchsing)
