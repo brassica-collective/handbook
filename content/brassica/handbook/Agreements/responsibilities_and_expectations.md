@@ -16,19 +16,29 @@ This document forms part of our set of emerging Participation Agreements, and ou
 
 ## Participant Responsibilities
 ### Minimum Responsibilities
-As a participant in the collective, my minimum responsibilities are:
+While involved in the collective, my minimum responsibilities are:
 1. Monitoring my capacity for participating in the collective in different ways, and notifying the collective when my capacity to participate changes
 2. Acting in alignment with our current collective agreements
-3. Participating in co-creating collective agreements, including:
-    1. Proposing amendments to existing agreements or proposals that emerge as barriers to my participation
-    3. Contributing to discussions about proposed agreements and amendments, by:
-        1. attending Assemblies when at all possible, and
-        2. commenting on discussion-threads in our online forums when relevant
-    3. Contributing to agreed processes for making *collective-wide* decisions, by:
-        1. reliably responding to calls for consent or consensus in our online forums, and
-        2. offering amendments to proposals that I’m not satisfied with
+3. Respecting decisions made within the scope delegated to crews I am not currently involved in, and via a consensus of active participants while I am on hiatus.
 
-4. Respecting those decisions made within the scope of *delegated-decisions* when I have chosen *not* to take on working-group responsibilities.
+### Participation Responsibilities
+
+In addition to minimum responsibilities, as a participant I am responsible for co-creating collective agreements, including:  
+
+  1. Proposing amendments to existing agreements or proposals that emerge as barriers to my participation
+
+  2. Contributing to discussions about proposed agreements and amendments, by: 
+
+      a. attending Assemblies when at all possible, AND
+
+      b. commenting on discussion-threads in our online forums when relevant
+
+  3. Contributing to agreed processes for making collective-wide decisions, by: 
+
+      a. reliably responding to calls for consent or consensus in our online forums, AND
+      
+      b. offering amendments to proposals that I’m not satisfied wit
+
 
 ### Additional Responsibilities
 
@@ -74,9 +84,10 @@ This agreement (*Version: 4.1*) will be reviewed in any of the following conditi
 ## Context Questions & Assumptions
 
 _Where can I find more information about the jargon terms and associated assumptions in this agreement?_
-* This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:
-* Any reference to ‘we’ includes all current participants in the Brassica Collective.
-* A ‘participant’ in the collective refers to everyone who has been invited into the collective and has not since opted-out of the minimum responsibilities for participants defined above.
+* This agreement assumes familiarity with our broader set of Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:
+  * Any reference to ‘we’ includes all current participants in the Brassica Collective.
+  * A ‘participant’ in the collective refers to everyone who has been invited into the collective and has not since opted-out of the minimum responsibilities for participants defined above.
+  * 'Calls for consensus' and 'Calls for consent' are part of the 'test-for-agreement' stages of our [interim decision making agreements](https://radhousing.org/brassica/handbook/interim_processes/decision_making_process/) 
 
 _Why do we need a responsibilities and expectations agreement?_
 * This agreement emerged as a way to help us balance our responsibilities to each other with our varying capacity to consistently participate.
