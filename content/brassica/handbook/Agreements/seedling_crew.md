@@ -4,14 +4,14 @@ slug: seedling_crew
 type: docs
 prev: solidarity_crew
 next: pas_crew
-weight: 5
+weight: 7
 sidebar:
   open: true
 ---
 
-The following is a summary of the objectives and associated decision-making scope delegated to the Seedling Crew by participants of the Brassica Collective (via the consent process detailed in our interim decision making process, with the proposal and discussion documented on Loomio). 
+The following is a summary of the objectives and associated decision-making scope delegated to the Seedling Crew by participants of the Brassica Collective (via the consent process detailed in our interim decision making process, with the proposal and discussion documented on Loomio).
 
-## Goal 
+## Goal
 The Seedling Crew goal is to establish the criteria for the purchase of a property in line with the values and objectives of the Brassica Collective. The role of the Seedling Crew is to create a purchase framework, not purchase the property itself. Once this is completed, new Crews will be established to implement the purchase and retrofit.
 
 ## Objectives
@@ -21,15 +21,15 @@ The Seedling Crew goal is to establish the criteria for the purchase of a proper
 ## Scope of Delegation
 The implementation of the above objectives are delegated to the Seedling Crew, who may consult with Collective participants, as per the process for minor decisions, with regard to:
 * Determining their own internal processes,
-* Proceeding with the objectives as outlined above, 
+* Proceeding with the objectives as outlined above,
 * Making decisions within the scope of delegation outlined above, and
 * Representing and acting on behalf of the Brassica Collective to build relationships and solidarity in the service of these objectives.
- 
+
 The requirements and criteria for the initial property to be purchased by the Collective may include, but are not limited to, the following considerations:
 * Location (distance from services/transport, nearby future purchase opportunities, preferred LGA)
 * Block qualities (size, aspect, soil, neighbours)
 * Accessibility
-* House size, features, condition and costs to retrofit 
+* House size, features, condition and costs to retrofit
 * Retrofit end goals and appropriate approaches
 * Overall budget (including retrofit)
 * Personal preferences and needs of Collective participants (pending consultation and with understanding that the first property has the potential to be lived in by any member of the Collective)
@@ -42,7 +42,7 @@ The Crew may consult and petition the PAS Crew for funds as needed for things su
 * Consultancy services of relevant specialists, such as architects, quantity surveyors, or accessibility services.
 * Consultation with local First Nations land councils
 
-### Out-of-Scope 
+### Out-of-Scope
 The Seedling Crew is not expected to be responsible for the following:
 
 * Determining “the” property to be purchased.
@@ -53,5 +53,5 @@ The Seedling Crew is not expected to be responsible for the following:
 * Submitting documentation or approval needed from councils for construction.
 
 ## Timeline
-The Seedling Crew is intended to meet their objectives within 6 months. Until the stated objectives are met, progress updates will be provided at each Assembly. During this time, consultation regarding purchase criteria will be conducted either on Loomio or through in-person group discussion. 
- 
+The Seedling Crew is intended to meet their objectives within 6 months. Until the stated objectives are met, progress updates will be provided at each Assembly. During this time, consultation regarding purchase criteria will be conducted either on Loomio or through in-person group discussion.
+
