@@ -28,16 +28,12 @@ In addition to minimum responsibilities, as a participant I am responsible for c
   1. Proposing amendments to existing agreements or proposals that emerge as barriers to my participation
 
   2. Contributing to discussions about proposed agreements and amendments, by: 
-
-      a. attending Assemblies when at all possible, AND
-
-      b. commenting on discussion-threads in our online forums when relevant
+      1. attending Assemblies when at all possible, AND
+      2. commenting on discussion-threads in our online forums when relevant
 
   3. Contributing to agreed processes for making collective-wide decisions, by: 
-
-      a. reliably responding to calls for consent or consensus in our online forums, AND
-      
-      b. offering amendments to proposals that I’m not satisfied wit
+      1. reliably responding to calls for consent or consensus in our online forums, AND
+      2. offering amendments to proposals that I’m not satisfied wit
 
 
 ### Additional Responsibilities
