@@ -13,13 +13,11 @@ This agreement describes the general approach of the Brassica Collective to purc
 
 ## Why we purchase
 
-We purchase sites in order to provide housing that is in line with our collective vision (when we have one). Until we have that, we purchase sites in order to fulfill the general goals of RAD Housing, that is to Retrofit and Decommodify housing Collectively, and in Solidarity.
+We purchase sites in order to provide housing that is in line with our collective vision (when we have one). Until we have that, we purchase sites in order to fulfil the general goals of RAD Housing, that is to Retrofit and Decommodify housing Collectively, and in Solidarity.
 
 ## When we purchase
 
 This will be amended later to present a plan for how we stagger the purchase of multiple sites. For now, we will purchase our first site when:
-
-
 
 -   We have a registered legal entity for the collective, and all the legal instruments ready to execute the T2S model.
 -   We have created all the agreements outlined in Purchase Steps (below)
@@ -31,8 +29,6 @@ This will be amended later to present a plan for how we stagger the purchase of 
 ### Site Purchasing Agreement
 
 We develop a Site Purchasing Agreement each time we intend to purchase a site. It most likely does not describe a specific property  (unless we are reacting to an unusual opportunity) but describes a specific attempt to search for and, if found, buy a property for specific reasons.
-
-
 
 The Site Purchasing Agreement will contain:
 

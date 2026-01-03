@@ -10,7 +10,7 @@ sidebar:
 ---
 
 This document forms part of our broader set of emerging Participation Agreements, and outlines how we currently understand our:
-* expectations of how we conduct ourselves while participating in the project
+* expectations of how we conduct ourselves while involved in the project, including while on hiatus from participation responsibilities
 * gradually escalating processes for responding to each other in situations where  our conduct does not align with our collective agreements
 * approach to supporting each other to hold ourselves accountable for how our actions impact each other as we learn and change together
 
