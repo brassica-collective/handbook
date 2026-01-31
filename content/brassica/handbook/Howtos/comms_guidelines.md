@@ -13,7 +13,7 @@ We’re a project driven by a fluctuating set of participants within a dynamic o
 
 Different tools are useful for different forms of communication. The following offers an overview of which tools we use for key communication forms within the collective.
 
-## Opting in/out of different forms of involvement in the Brassica Project = RADicalise
+## Communicating involvement in the Brassica Project = RADicalise
 
 The [RADicalise tool](https://brassica.radhousing.org/) is used by participants and collaborators to communicate their intentions for how they want to be involved in the project, updating this periodically by responding to contribution invitations and opting-in (or out) of different forms of participation.
 
