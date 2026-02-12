@@ -32,9 +32,9 @@ If you've not yet done so:
 (e.g. `git status` or `gst`)
 3. Check for any updates (`git pull`)
 4. Check-out relevant branch :
-    * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git checkout [branch name]`) and check for updates (`git pull`). 
-    * If you don't have an existing branch, create one (`git branch [branch name]`), and publish it (`git push -u origin [branch name]`) 
-    * Check out the new branch (`git checkout [branch name]`) 
+    * Check for list of existing branches (`git branch`) - if available, switch to the relevant branch (`git switch branch-name`) and check for updates (`git pull`). 
+    * If you don't have an existing branch, create one (`git checkout -b branch-name`), and publish it (`git push -u origin branch-name`) 
+
 6. Open the branch in the code-editor of your choice 
 (e.g.,`code .`)
  
@@ -63,12 +63,14 @@ sidebar:
 
   ```
 2. Add/edit the file content (using [Markdown syntax](https://www.markdownguide.org/tools/hugo/))
+3. Remember to save changes in the code-editor
 
 ### Preview changes
 Preview changes in the front-end (editing the files  as above to fix any broken dependencies)
-1. Open a new terminal tab and run the `hugo server` command, this will provide a localhost address 
-2. Open the localhost address and navigate to with the relevant section of the website  
-3. Check this preview of the website for any broken links, navigation errors, formatting errors, etc.,  
+1. Open a new terminal tab and navigate to the location of the cloned repositiory on your device (e.g., cd /dev/brassica-collective/handbook)
+2. Run the `hugo server` command, this will provide a localhost address 
+3. Open the localhost address and navigate to with the relevant section of the website  
+4. Check this preview of the website for any broken links, navigation errors, formatting errors, etc.,  
 
 ### Review other files for consistency
 1. Update the _index.md file in the appropriate folders.
@@ -78,7 +80,7 @@ Preview changes in the front-end (editing the files  as above to fix any broken 
 In the main terminal window: 
 1. check the status of the changes you have made to the branch (`git status`),
 2. stage your changes (`git add .`), and 
-3. commit your changes with a descriptive message about the major thing you changed (`git commit -m [message]`) 
+3. commit your changes with a descriptive message about the major thing you changed (`git commit -m "some-message"`) 
 
 ### Share updates
 1. check for any updates by others on the same branch (`git pull`)
