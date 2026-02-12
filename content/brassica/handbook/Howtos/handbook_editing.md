@@ -2,7 +2,7 @@
 title: Handbook Editing
 slug: handbook_editing
 type: docs
-prev: assembly_facilitation
+prev: guidelines_non-participant_attendees
 next: handbook
 weight: 4
 sidebar:

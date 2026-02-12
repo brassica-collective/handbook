@@ -11,7 +11,7 @@ sidebar:
 
 This section contains guides and processes for performing important steps in the collective. These are typically not created by full group processes (otherwise they would be an [agreement](../agreements)) but are usually maintained by a working group or individual.
 
-How-tos are living documents. If you're impacted by one of these processes, and think it should be changed or could be improved, speak up in any one of our communications channel.
+How-tos are living documents. If you're impacted by one of these processes, and think it should be changed or could be improved, speak up in any one of our communication channels.
 
 Examples include: 
 * Our facilitation guidelines - an emergent process we are using to help us create a 'container' for intentional group processes.
