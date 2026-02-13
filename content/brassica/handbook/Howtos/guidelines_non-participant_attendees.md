@@ -1,6 +1,6 @@
 ---
-title: Guidelines for non-participant attendees at assemblies and participant-workshops
-slug: guidelines_non-participant_attendees
+title: Guidelines for non-participants
+slug: guidelines_non-participant
 type: docs
 prev: assembly_facilitation
 next: handbook_editing
@@ -9,21 +9,27 @@ sidebar:
   open: true
 ---
 
-These guidelines were put together by PAS crew based on discussion with Brassica Collective participants:
+The Brassica Collective welcomes involvement from non-participants in a range of ways. This includes [Collaborators](), as well as guests that participants invite to specific events.
 
-* We are willing to try having non-participant attendees at assemblies and participant-workshops.
+These guidelines are emerging as we develop a shared understanding of when and how we want to invite non-participants into different aspects of our collective practices.
 
-* We think any extra facilitation labour is outweighed by the value of having non-participant attendees.
+## Attending Assemblies and Workshops
 
-* The criteria for who we invite to attend is "people who are interested in participating in and/or have experience of participating in housing related collective projects."
+These guidelines were put together by [PAS Crew](/content/brassica/handbook/Participation/crew.md) based on discussion with Brassica Collective participants:
 
-* Non-participants will be encouraged to take part in decision making and their input will be collected and recorded separately to input from participants.
+- We are willing to try having non-participant attendees at assemblies and participant-workshops.
 
-* If the same individual attends 5 times in a calendar year Brassicas will discuss the impact of serial non-participant attendance and other options for participation. 
+- We think any extra facilitation labour is outweighed by the value of having non-participant attendees.
 
-* If a participant has invited a non-participant who is confirmed to be intending to attend they will please notify other participants in the Brassica Project channel (so we know what to expect).
+- The criteria for who we invite to attend is "people who are interested in participating in and/or have experience of participating in housing related collective projects."
 
-* We will roughly limit non-participant attendance to 1 out of 4 of the total number of assemblies and participant-workshops.
+- Non-participants will be encouraged to take part in decision making and their input will be collected and recorded separately to input from participants.
+
+- If the same individual attends 5 times in a calendar year Brassicas will discuss the impact of serial non-participant attendance and other options for participation.
+
+- If a participant has invited a non-participant who is confirmed to be intending to attend they will please notify other participants in the Brassica Project channel (so we know what to expect).
+
+- We will roughly limit non-participant attendance to 1 out of 4 of the total number of assemblies and participant-workshops.
 
 ## Context
 
