@@ -9,7 +9,7 @@ sidebar:
 open: true
 ---
 
-Collaborators are [non-participants](guidelines_non-participants) whose involvement in the project includes contributing without, or in between intervals of, [participating](https://radhousing.org/brassica/handbook/participation) in Brassica Collective.
+Collaborators are [non-participants](https://radhousing.org/brassica/handbook/howtos/guidelines_non-participant/) whose involvement in the project includes contributing without, or in between intervals of, [participating](https://radhousing.org/brassica/handbook/participation) in Brassica Collective.
 
 ### Collaborator Responsibilities & Expectations
 
@@ -19,7 +19,7 @@ Collaborators are responsible for communicating when and how they are available 
 
 Collaborators can expect to be invited to support the project in ad-hoc ways, and offered opportunities to practice elements of collective participation. Example contributions include;
 
-- attending Assemblies and participant-workshops as [non-participants](guidelines_non-participants)
+- attending Assemblies and participant-workshops as [non-participants](https://radhousing.org/brassica/handbook/howtos/guidelines_non-participant/)
 - sharing knowledge/expertise on aspects of the project at a workshop, working-bee, or selected assemblies
 - engaging with specific support requests from participants depending on capacity at the time
 
@@ -57,7 +57,7 @@ Collaborators can request to be re-onboarded as a collaborator by any one partic
 
 ### Collaboration Exit Process
 
-Brassica [Crews](crew) will coordinate the following process for a Collaborator when they exit:
+Brassica [Crews](https://radhousing.org/brassica/handbook/participation/crew/) will coordinate the following process for a Collaborator when they exit:
 
 - Removing access to the collective’s communication channels
 - An invitation to a Brassica gathering (where current participants can thank them for their contributions and celebrate their choice to exit)
