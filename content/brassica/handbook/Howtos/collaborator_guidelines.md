@@ -11,9 +11,19 @@ open: true
 
 Collaborators are [non-participants](guidelines_non-participants) whose involvement in the project includes contributing without, or in between intervals of, [participating](https://radhousing.org/brassica/handbook/participation) in Brassica Collective.
 
-### Collaborator Conduct Agreement
+### Collaborator Responsibilities & Expectations
 
 Collaborators are responsible for treating participants and each other in ways that align with our participants' [Conduct Agreement](https://radhousing.org/brassica/handbook/agreements/conduct_agreement/).
+
+Collaborators are responsible for communicating when and how they are available for contributing to the project.
+
+Collaborators can expect to be invited to support the project in ad-hoc ways, and offered opportunities to practice elements of collective participation. Example contributions include;
+
+- attending Assemblies and participant-workshops as [non-participants](guidelines_non-participants)
+- sharing knowledge/expertise on aspects of the project at a workshop, working-bee, or selected assemblies
+- engaging with specific support requests from participants depending on capacity at the time
+
+Our guidelines for non-participant attendees at workshops and assemblies apply to collaborators.
 
 ### Entry Pathways (_How to become a Collaborator_)
 
@@ -21,17 +31,6 @@ Collaborators are responsible for treating participants and each other in ways t
 - Any one participant can invite someone to become a Collaborator
 
 Once onboarded, Collaborators are invited to opt-in to ‘seasons’ or aspects of involvement in the project (via Radicalise)
-
-### Collaborator Responsibilities & Expectations
-
-Collaborators are responsible for communicating when and how they are available for contributing to the project.
-
-Collaborators can expect to be invited to support the project in ad-hoc ways, and offered opportunities to practice elements of collective participation. Example contributions include;
-
-- sharing knowledge/expertise on aspects of the project at a workshop, working-bee, or selected assemblies
-- engaging with specific support requests from participants depending on capacity at the time
-
-Collaborators are non-participant attendees. Our guidelines for non-participant attendees at workshops and assemblies apply to collaborators.
 
 ### Collaborator On-boarding Process
 
@@ -63,13 +62,11 @@ Brassica [Crews](crew) will coordinate the following process for a Collaborator 
 - Removing access to the collective’s communication channels
 - An invitation to a Brassica gathering (where current participants can thank them for their contributions and celebrate their choice to exit)
 
-# Review Conditions
+### Review Conditions
 
 These guidelines will be reviewed in any of the following conditions:
 
 - Whenever a participant proposes an amendment to these guidelines
 - Every two years from date of the last review
 
-# Context Questions & Assumptions {#context-questions-&-assumptions}
-
-#
+### Context Questions & Assumptions
