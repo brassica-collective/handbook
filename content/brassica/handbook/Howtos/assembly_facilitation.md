@@ -4,7 +4,7 @@ slug: assembly_facilitation
 type: docs
 prev: onboarding_process
 next: guidelines_non-participant_attendees
-weight: 3
+weight: 2
 sidebar:
   open: true
 ---

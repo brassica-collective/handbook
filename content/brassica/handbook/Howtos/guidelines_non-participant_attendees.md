@@ -4,7 +4,7 @@ slug: guidelines_non-participant_attendees
 type: docs
 prev: assembly_facilitation
 next: handbook_editing
-weight: 4
+weight: 3
 sidebar:
   open: true
 ---
