@@ -14,7 +14,7 @@ The Brassica Collective welcomes involvement by non-participants in a wide range
 Examples include:
 
 - welcoming guests to attend specific events
-- inviting contributions from [Collaborators](/content/brassica/handbook/Howtos/collaborator_guidelines.md)
+- inviting contributions from [Collaborators](guidelines_collaborators)
 - engaging values-aligned organisations for additional skills, labour, products, and services
 - seeking advice and building relationships with individuals and organisations involved in broader movements for justice.
 
@@ -22,7 +22,7 @@ These guidelines are emerging as we develop a shared understanding of when and h
 
 ## Attending Assemblies and Workshops
 
-These guidelines were put together by [PAS Crew](/content/brassica/handbook/Participation/crew.md) based on discussion with Brassica Collective participants:
+These guidelines were put together by [PAS Crew](../pas_crew) based on discussion with Brassica Collective participants:
 
 - We are willing to try having non-participant attendees at assemblies and participant-workshops.
 
