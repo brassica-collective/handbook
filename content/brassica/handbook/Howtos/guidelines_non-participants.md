@@ -9,7 +9,14 @@ sidebar:
   open: true
 ---
 
-The Brassica Collective welcomes involvement from non-participants in a range of ways. This includes [Collaborators](), as well as guests that participants invite to specific events.
+The Brassica Collective welcomes involvement by non-participants in a wide range of ways.
+
+Examples include:
+
+- welcoming guests to attend specific events
+- inviting contributions from [Collaborators]()
+- engaging values-aligned organisations for additional skills, labour, products, and services
+- seeking advice and building relationships with individuals and organisations involved in broader movements for justice.
 
 These guidelines are emerging as we develop a shared understanding of when and how we want to invite non-participants into different aspects of our collective practices.
 
@@ -31,7 +38,7 @@ These guidelines were put together by [PAS Crew](/content/brassica/handbook/Part
 
 - We will roughly limit non-participant attendance to 1 out of 4 of the total number of assemblies and participant-workshops.
 
-## Context
+#### Context
 
 These guidelines were developed through discussion between the Brassica Collective participants which occurred in person (at an assembly) and online (on Loomio) as well as via a 1:1 interview process for one participant whose thoughts might otherwise have been missed out on.
 
