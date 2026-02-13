@@ -3,7 +3,7 @@ title: Guidelines for non-participants
 slug: guidelines_non-participant
 type: docs
 prev: assembly_facilitation
-next: handbook_editing
+next: guidelines_collaborators
 weight: 3
 sidebar:
   open: true
@@ -14,7 +14,7 @@ The Brassica Collective welcomes involvement by non-participants in a wide range
 Examples include:
 
 - welcoming guests to attend specific events
-- inviting contributions from [Collaborators]()
+- inviting contributions from [Collaborators](/content/brassica/handbook/Howtos/collaborator_guidelines.md)
 - engaging values-aligned organisations for additional skills, labour, products, and services
 - seeking advice and building relationships with individuals and organisations involved in broader movements for justice.
 
