@@ -37,7 +37,7 @@ Once onboarded, Collaborators can be invited to opt-in to ‘seasons’ or aspec
 A participant takes on responsibility for supporting their invited Collaborators to understand their role in the project. At a minimum, onboarding should include supporting Collaborators to find information in the Brassica Handbook and understand the communication channels, agreements and guidelines that are relevant to the forms of contribution of interest to Collaborators, notably, our:
 
 - The Collaborator section of [Radicalise](https://brassica.radhousing.org/auth/login)
-- [Conduct Agreement](../../agreements/conduct_agreement).
+- [Conduct Agreement](../../agreements/conduct_agreement)
 - [Participation Entry and Exit Pathways](../../agreements/entry_and_exit_pathways)
 
 ### Participator/Collaborator Pathways
