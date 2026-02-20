@@ -22,7 +22,7 @@ The PAS Crew goal is to ensure that the Brassica Collective can implement the RA
 The implementation of the above objectives are delegated to the PAS Crew, who may consult with Collective participants, as per the process for minor decisions, with regard to:
 * Determining structure, time, location, and facilitation of meetings (e.g., assemblies and workshops),
 * Choosing and facilitating the group's online communication processes (e.g., email, chat, Loomio),
-* Choosing what updates to supply to supporters,
+* Choosing what updates to share with non-participants
 * Determining interim decision making process, to be retired once voyagers have decided on one themselves, and
 * Developing transparent operational systems (e.g., systems for moving money, managing legal entities, etc.).
 

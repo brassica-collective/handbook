@@ -2,9 +2,9 @@
 title: Handbook Editing
 slug: handbook_editing
 type: docs
-prev: guidelines_non-participant_attendees
+prev: guidelines_collaborators
 next: handbook
-weight: 4
+weight: 5
 sidebar:
   open: true
 ---
@@ -66,7 +66,7 @@ sidebar:
 3. Remember to save changes in the code-editor
 
 ### Preview changes
-Preview changes in the front-end (editing the files  as above to fix any broken dependencies)
+Preview changes in the front-end (editing the files as above to fix any broken dependencies)
 1. Open a new terminal tab and navigate to the location of the cloned repositiory on your device (e.g., cd /dev/brassica-collective/handbook)
 2. Run the `hugo server` command, this will provide a localhost address 
 3. Open the localhost address and navigate to with the relevant section of the website  
@@ -83,6 +83,7 @@ In the main terminal window:
 3. commit your changes with a descriptive message about the major thing you changed (`git commit -m "some-message"`) 
 
 ### Share updates
+
 1. check for any updates by others on the same branch (`git pull`)
 2. push your updates to the remote branch (`git push`)
 

@@ -23,7 +23,7 @@ While involved in the collective, my minimum responsibilities are:
 
 ### Participation Responsibilities
 
-In addition to minimum responsibilities, as a participant I am responsible for co-creating collective agreements, including:  
+In addition to minimum responsibilities, as a participant I am responsible for co-creating collective agreements, including:
 
   1. Proposing amendments to existing agreements or proposals that emerge as barriers to my participation
 
@@ -62,8 +62,8 @@ Participants can expect each other to:
 ### Housing security expectations
 Housing security can only be provided within the constraints of:
 1. The number of housing-sites for which the collective has taken responsibility;
-2. The degree to which we have transitioned all of our housing-sites from bank-mortgage to collective stewardship across all sites; and
-Site-specific agreements
+2. The degree to which we have transitioned all of our housing-sites from bank-mortgage to collective stewardship across all sites; and 
+3. Site-specific agreements
 
 Acknowledging that the collective does not yet have any site-specific agreements (having not yet acquired any housing-sites), my expectations of housing security are limited to:
 1. Access to my transitional equity when I need it to pay for housing not stewarded by the collective;
@@ -71,7 +71,7 @@ Acknowledging that the collective does not yet have any site-specific agreements
 3. The assurance that, once residing in an established house stewarded by the collective, I can stay as long as I meet all relevant responsibilities as a resident of that house and to the broader collective
 
 ## Review Conditions
-This agreement (*Version: 4.1*) will be reviewed in any of the following conditions:
+This agreement (*Version: 4.2*) will be reviewed in any of the following conditions:
 1. Whenever a participant proposes an amendment to this agreement
 2. When any agreement in the set of Participation Agreements is amended
 3. Prior to the first participants living in a collectively stewarded site
@@ -88,7 +88,7 @@ _Where can I find more information about the jargon terms and associated assumpt
 _Why do we need a responsibilities and expectations agreement?_
 * This agreement emerged as a way to help us balance our responsibilities to each other with our varying capacity to consistently participate.
 * This agreement is intended to help us build a culture of encouraging participation; not punishing lack of participation
-* We assume that those who are not currently able to participate yet want to stay informed (for future participation possibilities and/or ad-hoc contributions to the project, such as attending working-bees) can continue to stay engaged in a ['supporter'](supporters/) role.
+* We assume that those who are not currently able to participate yet want to stay informed (for future participation possibilities and/or ad-hoc contributions to the project, such as attending working-bees) can continue to stay engaged in a ['Collaborator'](collaborator/) role.
 
 _Why doesn’t this agreement include details about collectively stewarded housing-sites?_
 * The current version of this agreement is for our collective practice prior to acquiring any housing-sites; the many additional responsibilities and expectations associated with collectively stewarding high-value resources or living together are beyond the present scope.

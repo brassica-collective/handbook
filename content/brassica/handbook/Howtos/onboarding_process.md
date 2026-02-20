@@ -25,7 +25,7 @@ Read through the sets of resources linked from the checklists, noting down:
 - any skills or areas of knowledge you want particularly want to contribute (and/or learn) while participating
 - any other areas where technical support, training on specific tools and processes, or additional context would increase your confidence in contributing to shaping the direction of this collective going forward. 
 
-Ask onboarding supporters or buddies for support in accessing, reading, and understanding any items in these checklists. Questions can also be directed towards participants on each of the relevant Crews.
+Ask onboarding collaborators or buddies for support in accessing, reading, and understanding any items in these checklists. Questions can also be directed towards participants on each of the relevant Crews.
 
 ### Share your context
 As you gather context about participating in the Brassica Collective, please share anything from your own experiences that could help your collaborators better appreciate the perspectives you are bringing to this project. 
