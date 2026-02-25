@@ -11,7 +11,7 @@ sidebar:
 
 This document forms part of our broader set of emerging Participation Agreements, and outlines how we currently understand our:
 * expectations of how we conduct ourselves while involved in the project, including while on hiatus from participation responsibilities
-* gradually escalating processes for responding to each other in situations where  our conduct does not align with our collective agreements
+* gradually escalating processes for responding to each other in situations where our conduct does not align with our collective agreements
 * approach to supporting each other to hold ourselves accountable for how our actions impact each other as we learn and change together
 
 ## Conduct Agreement
@@ -66,8 +66,10 @@ We believe that all of our freedom is tied up together, and we cannot leave each
 * Consistently speaking on behalf of communities you’re not part of, or taking actions against the advice or wishes of impacted communities or otherwise disrespecting or minimising their feedback
 * Proposing punitive responses, such as demanding punishments, calling the cops, or refusing to provide opportunities for others to change their behaviours.
 
-## Conduct Supporters
-In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). These roles, and how they differ from ‘participation buddies’ are expected to be clarified by a [Conduct Supporters Agreement](/content/brassica/handbook/Agreements); if no such agreement exists then we expect to implement a single ‘care supporter’ role with the following set of responsibilities:
+## Conduct Collaborators
+
+In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). These roles, and how they differ from ‘participation buddies’ are expected to be clarified by a [Conduct Collaborators Agreement](/content/brassica/handbook/Agreements); if no such agreement exists then we expect to implement a single ‘care supporter’ role with the following set of responsibilities:
+
 - Responding to requests by other participants for care following situations in which supportees felt (or contributed to others feeling) misunderstood, participated in or witnessed a conflict, and/or experienced harm.
 - Responding to requests by other participants to help those who want to hold themselves accountable for their role in mistakes, misunderstandings, conflict, and/or harmful situations.
 
@@ -137,7 +139,7 @@ When participants act at odds with our shared expectations, we agree to be guide
         * Warning of any consequences for behaviours of concern persisting beyond that timeline (e.g., pause on participation)
 
 * **Conduct supporter(s) to help us hold ourselves accountable for responding to a notice of concern by:**
-    * Supporting participants to treat the sharing of concerns as a request for acknowledgement of someone’s perspective of a situation, not as an opening for discussion. If we need clarification or want to discuss the situation further, we will ask our conduct supporter(s) to help us debrief our experience and reflect on how our behaviors were experienced by others.
+    * Supporting participants to treat the sharing of concerns as a request for acknowledgement of someone’s perspective of a situation, not as an opening for discussion. If we need clarification or want to discuss the situation further, we will ask our conduct supporter(s) to help us debrief our experience and reflect on how our behaviours were experienced by others.
     * Helping participants access the relevant supports and engage with expected behavioural changes
 
 * **Alter behaviours:** the behavioural changes requested will depend on the situation; they may be specific to an individual or be relevant to all participants. Examples include:
@@ -190,6 +192,7 @@ This agreement will be reviewed in any of the following circumstances (whichever
 * Every two years
 
 ## Context Questions & Assumptions
+
 _Where can I find more information about the jargon terms and associated assumptions in this agreement?_
 * The ‘collective’ referenced in this agreement is the Brassica Collective, as described in our handbook
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:

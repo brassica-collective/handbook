@@ -28,9 +28,14 @@ We expect each other to communicate as our capacity to participate fluctuates, a
 - temporarily opting-out of responsibilities (by communicating an intended time-frame for pausing participation in the project), or
 - indefinitely opting-out of both responsibilities and expectations (exiting, with the option to return through the entry pathway in the future)
 
-For those not currently participating in the project who want to stay engaged, we encourage maintaining a [supporter](supporters) role in the project.
+- temporarily opting-out of responsibilities (by communicating an intended time-frame for pausing participation in the project); or
+- intermittently opting-out of both responsibilities and expectations (exiting participation yet remaining involved in the project as a [Collaborator](../Howtos/collaborator_guidelines), with the option to return to participation through the entry pathway in the future); or
+- indefinitely opting-out of both responsibilities and expectations (exiting participation without staying involved in the project as a Collaborator)
 
 #### Onboarding new and returning participants
+
+Collaborators can [express interest](https://brassica.radhousing.org/collective/brassica/interest) in [participating](../participation/), as outlined in our [Entry & Exit agreement](../agreements/entry_and_exit_pathways/).
+
 Prior to inviting people who have expressed interest to begin (or return to) participating in this project, we have processes help us consider how much capacity we have to support them in the process of gathering the context and skills needed to participate and contribute to driving this project forward.
 
 For more details, see our [Responsibilities and Expectations](../agreements/responsibilities_and_expectations) and [Entry and Exit Pathways](../agreements/entry_and_exit_pathways) agreements. 
