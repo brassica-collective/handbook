@@ -11,6 +11,19 @@ sidebar:
 
 This agreement describes the general approach of the Brassica Collective to purchasing land and houses. It applies to all site purchases. 
 
+## Vision
+
+As part of the broader Brassica Collective vision, we specifically want to acquire properties consistent with the following goals:
+
+1. **Multiple residences in the inner northern suburbs of Naarm.**
+We envisage multiple residences in Naarm, located in either Merri-bek or Darebin.
+2. **Support movement and change.**
+Our residences provide different options for living for people, including the ability to change their situation due to changing life needs. While not necessarily a part of all houses, on the whole our collective has support for people moving between locations or living across multiple locations.
+3. **Low-carbon connectivity.**
+Ideally, each residence can be easily accessed from at least one other property in the collective without driving. This may be due to proximity allowing for easy walking and cycling, or it may utilise existing public transport infrastructure.
+4. **Leave room for a rural/regional connection.**
+In the future we expect to flesh out further the rough goal of providing a connection to rural and/or regional living within Victoria, either through residences in such an area owned by the collective, or close relationships with like-minded groups.
+
 ## Why we purchase
 
 We purchase sites in order to provide housing that is in line with our collective vision (when we have one). Until we have that, we purchase sites in order to fulfil the general goals of RAD Housing, that is to Retrofit and Decommodify housing Collectively, and in Solidarity.
@@ -31,8 +44,6 @@ This will be amended later to present a plan for how we stagger the purchase of 
 We develop a Site Purchasing Agreement each time we intend to purchase a site. It most likely does not describe a specific property  (unless we are reacting to an unusual opportunity) but describes a specific attempt to search for and, if found, buy a property for specific reasons.
 
 The Site Purchasing Agreement will contain:
-
-
 
 1.  **Purchase decision elements**
     1.  **Required Purchase Criteria**. These will be specific requirements that the property needs to meet. These will be consistent with and informed by the Site Selection Principles in this multi-site purchasing agreement. 
@@ -58,15 +69,11 @@ The Site Purchasing Agreement will contain:
 
 __Future amendments should update this to include ethical considerations of how we undertake the purchase, and in particular to address the issue of what we do if a property we are considering purchasing is currently tenanted.__
 
-
-
 ## What we purchase
 
 ### Site Selection Principles
 
 The following general principles guide the development of our specific purchase criteria.
-
-
 
 1.  We will **leverage our purchases for impact**
     1.  **Site Repair**: We buy “non-eco” properties and increase the sustainability of both the housing and land-use (see [<u>pattern language 104</u>](https://www.patternlanguageindex.com/patterns/site-repair))
