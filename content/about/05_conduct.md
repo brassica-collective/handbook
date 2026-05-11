@@ -11,18 +11,15 @@ status: experimental
 version: "0.3 (2022-03-07)"
 ---
 
-# Code of Conduct
-
 ## Our Commitment 
 
 We are learning in the open with the RAD Housing project. This includes sharing our documentation and hosting spaces to explore the concepts and practices of retrofitting and decommodifying housing while living more collectively and acting in solidarity with broader movements for justice. We welcome friendly contributions and expect each other to participate in ways that align with our conduct expectations.
 
 As contributors, we agree:
-
-    To act in alignment with our Conduct Expectations (outlined below)
-    To act and interact in ways that contribute to an open and welcoming experience for all participants.
-    To practice supporting each other to conduct ourselves in ways that align with these expectations.
-    To support project leaders to respond to situations where conduct expectations are not met by following our Response Guidelines (outlined below)
+- To act in alignment with our Conduct Expectations (outlined below)
+- To act and interact in ways that contribute to an open and welcoming experience for all participants.
+- To practice supporting each other to conduct ourselves in ways that align with these expectations.
+- To support project leaders to respond to situations where conduct expectations are not met by following our Response Guidelines (outlined below)
     
 
 ## Our Expectations
@@ -72,8 +69,9 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all spaces hosted by project leaders, and also applies when
-an individual is representing the project in public spaces. Examples of representing our project include acting as an appointed representative via email, on social media, or at an online or offline event.
+This Code of Conduct applies within all spaces hosted by project leaders, and also applies when an individual is representing the project in public spaces. Examples of representing our project include acting as an appointed representative via email, on social media, or at an online or offline event.
+
+Any projects implementing RAD Housing approaches are expected to take responsibility for developing and maintaining their own conduct agreements. For an example, see the [Brassica Collective Conduct Agreement](/brassica/handbook/agreements/conduct_agreement/)
 
 ## Response Guidelines
 
