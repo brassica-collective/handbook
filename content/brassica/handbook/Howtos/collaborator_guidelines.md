@@ -40,7 +40,7 @@ A participant takes on responsibility for supporting their invited Collaborators
 - [Conduct Agreement](../../agreements/conduct_agreement)
 - [Participation Entry and Exit Pathways](../../agreements/entry_and_exit_pathways)
 
-### Participator/Collaborator Pathways
+### Participant/Collaborator Pathways
 
 - Collaborators can [express interest in participating](https://brassica.radhousing.org/collective/brassica/interest) at any time
 - When participants [choose to exit](../../agreements/entry_and_exit_pathways/#exit-pathway), they become a collaborator unless they request otherwise (to encourage past participants to stay involved in the project in add-hoc ways and/or ease the pathway for expressing interest in participate in the future)

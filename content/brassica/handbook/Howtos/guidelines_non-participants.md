@@ -32,7 +32,7 @@ These guidelines were put together by [PAS Crew](../../participation/crew) based
 
 - Non-participants will be encouraged to take part in decision making and their input will be collected and recorded separately to input from participants.
 
-- If the same individual attends 5 times in a calendar year Brassicas will discuss the impact of serial non-participant attendance and other options for participation.
+- If the same individual attends 5 times in a calendar year participants will discuss the impact of serial non-participant attendance and other options for that person to engage with the collective.
 
 - If a participant has invited a non-participant who is confirmed to be intending to attend they will please notify other participants in the Brassica Project channel (so we know what to expect).
 

@@ -12,23 +12,23 @@ sidebar:
 Onboarding is a self-directed process intended to help new and returning participants ask for support as they learn about our current practices, and build confidence in to co-creating our collective going forward. 
 
 ### Access orientation support
-Ask your onboarding supporter or buddy for a series of 'orientation sessions' to: 
+Ask your onboarding supporters or participation buddy for a series of 'orientation sessions' to: 
 - Discuss [what participating in the Collective](https://radhousing.org/brassica/handbook/participation/) involves in practice    
 - Demonstrate when, how, and why to use each of our communication channels
 - Outline each of our current collective agreements, the scope of decision-making delegated to each of the current Crews, and our decision-making process for creating and amending agreements 
 - Create a copy of the template checklists, and personalise them by adding any additional areas of onboarding support you may need. 
-- Share your current capacity for doing the work of onboarding, and clarify when/how you can ask for help in ways that are sustainable for your supporter/buddy.  
+- Share your current capacity for doing the work of onboarding, and clarify when/how you can ask for help in ways that are sustainable for your supporters/buddy.  
 
 ### Gather context 
 Read through the sets of resources linked from the checklists, noting down: 
 - any new terms, concepts, or talk through areas of knowledge implied in our documentation  
-- any skills or areas of knowledge you want particularly want to contribute (and/or learn) while participating
+- any skills or areas of knowledge you particularly want to contribute (and/or learn) while participating
 - any other areas where technical support, training on specific tools and processes, or additional context would increase your confidence in contributing to shaping the direction of this collective going forward. 
 
-Ask onboarding collaborators or buddies for support in accessing, reading, and understanding any items in these checklists. Questions can also be directed towards participants on each of the relevant Crews.
+Ask onboarding supporters or participation buddies for support in accessing, reading, and understanding any items in these checklists. Questions can also be directed towards participants on each of the relevant Crews.
 
 ### Share your context
-As you gather context about participating in the Brassica Collective, please share anything from your own experiences that could help your collaborators better appreciate the perspectives you are bringing to this project. 
+As you gather context about participating in the Brassica Collective, please share anything from your own experiences that could help your onboarding supporters better appreciate the perspectives you are bringing to this project. 
 
 For example, consider sharing from your experiences in the context of: 
 [leaderful horizontal organising](https://commonslibrary.org/collection/leaderful-organizing/); [navigating generative conflict](https://commonslibrary.org/conflict-is-inevitable-knowledge-roundup/); [building local resilience and mutual aid networks](https://commonslibrary.org/how-to-make-your-community-space-into-a-hub-for-local-resilience-and-mutual-aid/); 
@@ -36,7 +36,7 @@ For example, consider sharing from your experiences in the context of:
 
 
 ### Share how confident you feel about participating  
-Review the following statements, for those that you are not ready to agree with, please discuss with your supporter/buddy how to build confidence in these areas.
+Review the following statements, for those that you are not ready to agree with, please discuss with your supporters/buddy how to build confidence in these areas.
 
    - I can use each of the Brassica communication channels appropriately
    - I can regularly attend assemblies 
@@ -74,15 +74,15 @@ Templates for each of the following checklists are available on our shared drive
 
 Brassica Collective emerged as a project to design and implementation of version of RAD housing. 
 
-As a RAD Housing inspired project, we aim to [decommodify](https://radhousing.org/about/decommodify/) and [retrofit](https://radhousing.org/about/retrofit/) multiple housing sites by [transitioning from collective ownership to stewardship](https://radhousing.org/t2s-model/) while [living collectively](https://radhousing.org/about/collectively/) and [acting in solidarity](https://radhousing.org/about/solidarity/) with movements for justice)
+As a RAD Housing inspired project, we aim to [decommodify](https://radhousing.org/about/decommodify/) and [retrofit](https://radhousing.org/about/retrofit/) multiple housing sites by [transitioning from collective ownership to stewardship](https://radhousing.org/t2s-model/) while [living collectively](https://radhousing.org/about/collectively/) and [acting in solidarity](https://radhousing.org/about/solidarity/) with movements for justice.
 
-For more of the context on which the Brassica Collective is building, see the [RAD Housing](content/about) website, and discuss with your on-boarding supporter or buddy the ‘what’, ‘why’, and ‘how’ questions around how the Collective is currently incorporating:
+For more of the context on which the Brassica Collective is building, see the [RAD Housing](content/about) website, and discuss with your onboarding supporters or participation buddy the ‘what’, ‘why’, and ‘how’ questions around how the Collective is currently incorporating:
 - [ ] Climate-adaptation processes
 - [ ] Decommodification principles
 - [ ] Collective practices for commoning
-- [ ] Solidarity actions for connecting our collective to broader movements for justice. 
+- [ ] Solidarity actions for connecting our collective to broader movements for justice
 - [ ] Transformative Justice approaches to navigating conflict well
-- [ ] The RAD Housing Transition to Stewardship pathway 
+- [ ] The RAD Housing Transition to Stewardship pathway
   
 
 
