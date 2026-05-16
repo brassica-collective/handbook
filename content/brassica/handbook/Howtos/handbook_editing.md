@@ -4,7 +4,7 @@ slug: handbook_editing
 type: docs
 prev: guidelines_collaborators
 next: handbook
-weight: 5
+weight: 6
 sidebar:
   open: true
 ---

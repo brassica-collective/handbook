@@ -2,9 +2,9 @@
 title: Assembly Facilitation Guidelines
 slug: assembly_facilitation
 type: docs
-prev: onboarding_process
-next: guidelines_non-participant_attendees
-weight: 2
+prev: comms_guidelines
+next: guidelines_non-participant
+weight: 3
 sidebar:
   open: true
 ---

@@ -1,10 +1,10 @@
 ---
-title: Guidelines for non-participants
+title: Guidelines for Non-participants
 slug: guidelines_non-participant
 type: docs
 prev: assembly_facilitation
 next: guidelines_collaborators
-weight: 3
+weight: 4
 sidebar:
   open: true
 ---
