@@ -26,10 +26,7 @@ Each interval, each participant can also choose to take on some of the additiona
 ##### Opting-out of participation responsibilities and expectations
 We expect each other to communicate as our capacity to participate fluctuates, and to encourage each other to take breaks by either:
 - temporarily opting-out of responsibilities (by communicating an intended time-frame for pausing participation in the project), or
-- indefinitely opting-out of both responsibilities and expectations (exiting, with the option to return through the entry pathway in the future)
-
-- temporarily opting-out of responsibilities (by communicating an intended time-frame for pausing participation in the project); or
-- intermittently opting-out of both responsibilities and expectations (exiting participation yet remaining involved in the project as a [Collaborator](../Howtos/collaborator_guidelines), with the option to return to participation through the entry pathway in the future); or
+- intermittently opting-out of both responsibilities and expectations (exiting participation yet remaining involved in the project as a [Collaborator](../Howtos/collaborator_guidelines), with the option to return to participation through the entry pathway in the future), or
 - indefinitely opting-out of both responsibilities and expectations (exiting participation without staying involved in the project as a Collaborator)
 
 #### Onboarding new and returning participants

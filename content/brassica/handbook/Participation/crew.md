@@ -21,7 +21,7 @@ Regardless of the length of the working group itself, participants are asked to 
 The following are examples of different types of Crews to illustrate our approach to working groups.
 
 ## Governance Crews
-Governance type of Crews are those focused on planning and design tasks,documentation, and facilitation practices.
+Governance type of Crews are those focused on planning and design tasks, documentation, and facilitation practices.
 
 The **Process & Strategy (PAS) Crew** is our first governance type crew. The PAS Crew's goals are to ensure that the Brassica Collective is working towards the long-term goals of stewarding multiple sites of housing so that we, and others, can live in secure, resilient and affordable housing. As part of this, the crew will take the initial responsibility for designing and facilitating group decision-making processes, documenting emerging processes, and supporting the emerging direction of Brassica Collective.
 
@@ -32,7 +32,7 @@ Implementation types of Crew are those focused on the project management tasks r
 
 The **Seedling Crew** will be our first implementation type crew and will take responsibility for project-managing the first 'Seedling House' stage of the Brassica project. Associated tasks may include proposing property-selection criteria, project managing house retrofits, etc.,
 
-The **Retreat Crew** is a short-term crew responsible for the logistical implementation of our first 'retreat' - time away from the pressures of day-to-day life where participants to practice co-creating shared experiences while learning about each other, sharing skills, and (hopefully) building trust.
+The **Retreat Crew** is a short-term crew responsible for the logistical implementation of our  'retreats' - time away from the pressures of day-to-day life where participants practice co-creating shared experiences while learning about each other, sharing skills, and (hopefully) building trust.
 
 ## Optimisation Crews
-Optimisation crews are expected to form much later; once we've some established sites available for long-term habitation. Responsibilities might include things such as navigating the practical details of living in a multi-house collective, site maintenance, etc.,
+Optimisation crews are expected to form much later; once we have some established sites available for long-term habitation. Responsibilities might include things such as navigating the practical details of living in a multi-house collective, site maintenance, etc.,
