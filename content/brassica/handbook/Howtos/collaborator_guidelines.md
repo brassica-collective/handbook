@@ -4,7 +4,7 @@ slug: guidelines_collaborators
 type: docs
 prev: guidelines_non-participant
 next: handbook_editing
-weight: 4
+weight: 5
 sidebar:
 open: true
 ---
