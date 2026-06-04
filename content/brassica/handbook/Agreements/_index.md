@@ -33,7 +33,7 @@ Our current shared understanding of different aspects of participation are outli
 ### Decision making agreements
 Our current approach to making our initial decisions is outlined in an [interim process](../interim_processes/decision_making_process); we intend to replace this process with a more comprehensive decision-making agreement based on our experience of making our initial decisions together.
 
-### Agreements to delegate operational decisions
+#### Agreements to delegate operational decisions
 Specific operational decisions are currently being delegated to crew based on their 'scope and delegated decision making' proposals, including:
 * [Solidarity Crew](solidarity_crew): responsible for functioning as a 'radical core' that reminds the broader collective to keep prioritising solidarity actions and support political engagement.
 * [Seedling Crew](seedling_crew): responsible for determining the requirements and criteria for the initial property to be purchased by the Collective.
