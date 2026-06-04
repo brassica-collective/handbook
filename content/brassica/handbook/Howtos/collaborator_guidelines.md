@@ -3,7 +3,7 @@ title: Guidelines for Collaborators
 slug: guidelines_collaborators
 type: docs
 prev: guidelines_non-participant
-next: handbook_editing
+next: guidelines_buddies
 weight: 4
 sidebar:
 open: true

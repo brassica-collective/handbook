@@ -10,12 +10,12 @@ sidebar:
 ---
 
 This document forms part of our broader set of emerging Participation Agreements, and outlines how we currently understand our:
-* expectations of how we conduct ourselves while involved in the project, including while on hiatus from participation responsibilities
+* expectations of how we conduct ourselves while involved in the project in any way, including while on hiatus from participation responsibilities and while involved as a collaborator
 * gradually escalating processes for responding to each other in situations where our conduct does not align with our collective agreements
 * approach to supporting each other to hold ourselves accountable for how our actions impact each other as we learn and change together
 
-## Summary 
-As participants and collaborators, we agree:
+## Conduct Agreement
+While involved in the Brassica Collective, we agree:
 * To act in alignment with our **Conduct Expectations** (as detailed below)
 * To act in alignment with any conduct expectations expressed in our other agreements
 * To take responsibility for holding ourselves and others accountable for conduct that does not align with our shared expectations by acting in accordance with the **Response Guidelines** (as detailed below).
@@ -74,11 +74,11 @@ We believe that all of our freedom is tied up together, and we cannot leave each
 
 ### Conduct Supporters
 
-In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). The responsibilities of these roles, how they are distributed, and how they differ from [Participation Buddies](/../howtos/buddies_guidelines) are described in the a [Conduct Supporters Agreement](/supporter_agreement). 
+In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). These roles, and how they differ from ‘participation buddies’ are expected to be clarified by a Conduct Supporters Agreement. 
 
-If the Conduct Supporters Agreement has not been implemented, then  each participant’s respective ‘buddy’ (or the participant who invited the collaborator) takes responsibility for responding to requests from participants or collaborators for support to initiate and/or participate in one of our conduct agreement responses, including: 
-* Responding to requests for care support when supportees feel (or contributed to others feeling) misunderstood, participated in or witnessed a conflict, and/or experienced harm.
-* Responding to requests for accountability support from supportees ready to hold themselves accountable for their role in mistakes, misunderstandings, conflict, and/or harmful situations. 
+If the Conduct Supporters Agreement has not been implemented, then each participant’s respective ‘buddy’ (or the participant who invited the collaborator) takes responsibility for responding to requests from participants or collaborators for support to initiate and/or participate in one of our conduct agreement responses, including: 
+* Responding to requests by other participants for care following situations in which supportees felt (or contributed to others feeling) misunderstood, participated in or witnessed a conflict, and/or experienced harm.
+* Responding to requests by other participants to help those who want to hold themselves accountable for their role in mistakes, misunderstandings, conflict, and/or harmful situations. 
 
 
 ### Response Guidelines
