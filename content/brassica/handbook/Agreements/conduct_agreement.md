@@ -190,7 +190,7 @@ Continued learning: The group will work to assess the conditions that led to the
 Re-entry pathways: In keeping with abolitionist views that people are capable of change and self reflection in their own time, a re-entry pathway may be considered if the person shows long term extensive change in behaviour and expresses interest in participating again. In circumstances where participants remain concerned about safety, collective-wide decisions may need to be made about how we determine our capacity for responding to these concerns.
 
 ## Review Conditions
-This agreement will be reviewed in any of the following circumstances (whichever comes first):
+This agreement (Version 5.1) will be reviewed in any of the following circumstances (whichever comes first):
 * Whenever a participant proposes an amendment to this agreement
 * When any agreement in the set of Participation Agreements is amended
 * Prior to the first participants living in a collectively stewarded site

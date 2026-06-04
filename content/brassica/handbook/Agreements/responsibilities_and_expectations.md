@@ -71,7 +71,7 @@ Acknowledging that the collective does not yet have any site-specific agreements
 3. The assurance that, once residing in an established house stewarded by the collective, I can stay as long as I meet all relevant responsibilities as a resident of that house and to the broader collective
 
 ## Review Conditions
-This agreement (*Version: 4.2*) will be reviewed in any of the following conditions:
+This agreement (*Version: 5*) will be reviewed in any of the following conditions:
 1. Whenever a participant proposes an amendment to this agreement
 2. When any agreement in the set of Participation Agreements is amended
 3. Prior to the first participants living in a collectively stewarded site
