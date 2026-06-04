@@ -4,7 +4,7 @@ slug: entry_and_exit_pathways
 type: docs
 prev: conduct_agreement
 next: responsibilities_and_expectations
-weight: 2
+weight: 3
 sidebar:
   open: true
 ---

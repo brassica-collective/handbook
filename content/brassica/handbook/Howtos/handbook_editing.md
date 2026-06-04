@@ -2,7 +2,7 @@
 title: Handbook Editing
 slug: handbook_editing
 type: docs
-prev: guidelines_collaborators
+prev: guidelines_buddies
 next: handbook
 weight: 6
 sidebar:

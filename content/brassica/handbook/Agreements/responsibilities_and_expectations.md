@@ -4,7 +4,7 @@ slug: responsibilities_and_expectations
 type: docs
 prev: entry_and_exit_pathways
 next: multi_site_purchasing
-weight: 3
+weight: 4
 sidebar:
   open: true
 ---

@@ -4,7 +4,7 @@ slug: multi_site_purchasing
 type: docs
 prev: responsibilities_and_expectations
 next: knowledge_gardening_crew
-weight: 4
+weight: 5
 sidebar:
   open: true
 ---
