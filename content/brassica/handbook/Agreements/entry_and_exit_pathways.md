@@ -171,6 +171,7 @@ When a participant opts-out indefinitely or is otherwise indefinitely absent, PA
 1. Removing the exiting participant’s access to the collective's communication channels
 2. Reminding the exiting participant that they are relinquishing their expectations of the collective (including expectations of housing security, if relevant).
 3. Returning the exiting participant’s transitional equity (following the *withdrawal of equity* process detailed in the Transition to Stewardship model).
+4. Adding the exiting participant to our pool of collaborators (unless requested otherwise) to enable them to stay involved in the project in ad-hoc ways, and to more easily express interest in participating again in the future.
 
 ## Review conditions {#review-conditions}
 
@@ -205,3 +206,6 @@ _Why doesn’t this agreement consider all possible scenarios we might face as a
 
 * We also expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.
 
+_Why do we add exiting participants as Collaborators (unless requested otherwise)?_ 
+
+* Encouraging collaboration is intended to make it easier to for participants to take a rest from their responsibilities with the knowledge they can express interest in participating again in the future.
