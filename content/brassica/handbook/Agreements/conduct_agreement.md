@@ -74,7 +74,7 @@ We believe that all of our freedom is tied up together, and we cannot leave each
 
 ### Conduct Supporters
 
-In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). The responsibilities associated with these roles, how they are distributed, and how they differ from [Participation Buddies](../../buddies_guidelines) are detailed in the [Conduct Supporters Agreement](../supporter_agreement). 
+In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). The responsibilities associated with these roles, how they are distributed, and how they differ from [Participation Buddies](../../howtos/buddies_guidelines) are detailed in the [Conduct Supporters Agreement](../supporter_agreement). 
 
 
 If the Conduct Supporters Agreement has not been implemented, then each participant’s respective ‘buddy’ (or the participant who invited the collaborator) takes responsibility for responding to requests from participants or collaborators for support to initiate and/or participate in one of our conduct agreement responses, including: 
