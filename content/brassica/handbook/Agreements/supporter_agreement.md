@@ -130,7 +130,7 @@ This agreement is intended to help us implement our conduct agreement. Because l
   * **These responsibilities differ for each support role (see Section on the number and types of Supporter Roles examples).**  
 * OUT-OF-SCOPE:   
   * Support requests that are unrelated to participation in this housing collective (noting that at times individuals who are participants in the collective may also  have separately agreed to support each other outside the context of involvement in the same housing collective). **We encourage participants to practice reaching out to their broader support networks for these forms of support.**  
-  *  Support for [non-participants](https://radhousing.org/brassica/handbook/howtos/guidelines_non-participant/) (with the exception of [collaborators](https://radhousing.org/brassica/handbook/howtos/guidelines_collaborators/) who have initiated a Conduct Agreement Response) 
+  * Support for [non-participants](../../howtos/guidelines_non-participant) (with the exception of [collaborators](../../howtos/guidelines_collaborators) who have initiated a Conduct Agreement Response) 
 
 #### How do we learn to implement our Conduct Supporter responsibilities? 
 
