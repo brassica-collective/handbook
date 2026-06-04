@@ -4,7 +4,7 @@ slug: conduct_agreement
 type: docs
 prev: agreements
 next: entry_and_exit_pathways
-weight: 1
+weight: 2
 sidebar:
   open: true
 ---
