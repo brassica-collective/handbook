@@ -14,7 +14,7 @@ This document forms part of our broader set of emerging Participation Agreements
 * gradually escalating processes for responding to each other in situations where our conduct does not align with our collective agreements
 * approach to supporting each other to hold ourselves accountable for how our actions impact each other as we learn and change together
 
-## Conduct Agreement
+## Conduct Agreement 
 As participants and collaborators, we agree:
 * To act in alignment with our **Conduct Expectations** (as detailed below)
 * To act in alignment with any conduct expectations expressed in our other agreements
@@ -191,7 +191,13 @@ This agreement will be reviewed in any of the following circumstances (whichever
 * After the Behaviours-Expectations Calibration process has been initiated five times
 * Every two years
 
-## Context Questions & Assumptions
+## Supplementary Materials
+
+### Conduct Agreement Flowchart Summary 
+
+![Fit Image](/images/ConductAgreementFlowchartV4_Kin-Teq.jpg?fit=278x127)
+
+### Context Questions & Assumptions
 
 _Where can I find more information about the jargon terms and associated assumptions in this agreement?_
 * The ‘collective’ referenced in this agreement is the Brassica Collective, as described in our handbook
