@@ -283,11 +283,11 @@ The skills this conduct supporter roles support include:
 
 #### *Where can I find more information about other jargon terms and assumed-knowledge in this agreement?* 
 
-* The ‘collective’ referenced in this agreement is the Brassica Collective, as described in our [handbook](https://radhousing.org/brassica/handbook/)  
-* This agreement assumes familiarity with our broader set of [collective agreements](https://radhousing.org/brassica/handbook/agreements/) and any ambiguities in this agreement should be interpreted in that context. In this context:   
+* The ‘collective’ referenced in this agreement is the Brassica Collective, as described in our [handbook](../../../handbook)  
+* This agreement assumes familiarity with our broader set of [collective agreements](../../agreements) and any ambiguities in this agreement should be interpreted in that context. In this context:   
   * ‘we’ refers to all current participants and collaborators in the Brassica Collective.   
-  * A ‘current participant’ is described in the [Responsibilities and Expectations Agreement](https://docs.google.com/document/d/1G98BKYxxNulPQqi92HP9DM-2EzW0P1Ah_3u6mYSnZ4U/edit?usp=sharing).  
-  * A ‘collaborator’ is described in the [Collaborators Guidelines](https://radhousing.org/brassica/handbook/howtos/guidelines_collaborators/)  
+  * A ‘current participant’ is described in the [Responsibilities and Expectations Agreement](../responsibilities_and_expectations)  
+  * A ‘collaborator’ is described in the [Collaborators Guidelines](../../howtos/guidelines_collaborators)  
 * This agreement draws on lessons from [transformative approaches to navigating conflict](https://commonslibrary.org/transformative-approaches-to-conflict-resolution/) and [disability justice](https://sinsinvalid.org/10-principles-of-disability-justice/) approaches to [moving at the speed of trust](https://bcrw.barnard.edu/event/moving-at-the-speed-of-trust-disability-and-transformative-justice/) when building collective practices, for more context and definitions of terms in this context, see our Conduct Agreement.  
 * Key terms include:   
   * Accountability \= willingness to accept responsibility for the consequences of one’s actions   
