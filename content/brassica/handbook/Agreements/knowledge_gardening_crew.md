@@ -4,7 +4,7 @@ slug: knowledge_gardening_crew
 type: docs
 prev: multi_site_purchasing
 next: solidarity_crew
-weight: 6
+weight: 7
 sidebar:
   open: true
 ---

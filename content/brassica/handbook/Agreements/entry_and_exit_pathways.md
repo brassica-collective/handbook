@@ -2,9 +2,9 @@
 title: Entry and Exit Pathways
 slug: entry_and_exit_pathways
 type: docs
-prev: conduct_agreement
+prev: supporter_agreement
 next: responsibilities_and_expectations
-weight: 3
+weight: 4
 sidebar:
   open: true
 ---
