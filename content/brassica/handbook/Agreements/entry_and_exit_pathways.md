@@ -19,7 +19,9 @@ This document forms part of our set of emerging Participation Agreements, and ou
 ## Entry Pathway {#entry-pathway}
 ### Expression of Interest {#expression-of-interest}
 
-When a person expresses an interest in participating in the collective, it is expected to include:
+Expressions of interest specify intentions to contribute to the project as a Collaborator and/or as a Participant
+
+When a person expresses an interest in contributing to the collective, it is expected to include:
 
 1. A description of their current understanding of the foundational (RAD housing) context for the Brassica Collective
 2. A commitment to acting in alignment with the current agreements and processes the collective has shared publicly while contributing to co-creating emerging collective practices going forward.
