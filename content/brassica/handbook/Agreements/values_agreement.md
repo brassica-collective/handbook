@@ -28,7 +28,7 @@ Step 6: Review and recalibrate shared values periodically.
 
 These steps led to a set of values that move from internal transformation to systemic impact.
 
-## **Values Agreement **Short Description** 
+## **Values Agreement - Short Description** 
 
 **We use housing as a lever for transformative justice:** stewarding homes to practice personal and collective change so we can act in solidarity with broader movements for justice.
 
@@ -50,7 +50,11 @@ These steps led to a set of values that move from internal transformation to sys
 
 9. …and through all this **We change ourselves**.
 
-## **Values Agreement **Extended Description** 
+Please open the following image in full-size view summary of this agreement, and scroll down for further details.
+
+![Fit Image](/images/ValuesSpiral_09_ChrisStanley.jpg?fit=200x200)
+
+## **Values Agreement -- Extended Description** 
 
 1. **We change ourselves**
 
@@ -96,18 +100,14 @@ These steps led to a set of values that move from internal transformation to sys
 
    
 
-Please open the following image in full-size view summary of this agreement, and scroll down for further details.
-
-**![][image1]**
 
 ## **Review conditions** 
 
-This agreement will be reviewed in any of the following circumstances: 
+This agreement (*Version 2*) will be reviewed in any of the following circumstances:
 
 * When another agreement is amended in ways that impact the implementation of these guidelines
 
 * When an amendment is proposed to these guidelines.
-
 
 
 ## **Context Questions, Assumptions, and Risks**  
@@ -429,3 +429,8 @@ These values aren't linear; they feed into each other. **Playfulness** makes **c
 * Build infrastructure that supports the new values.
 
 9. **…and through all this We change ourselves.**
+
+
+##### _Why doesn’t this agreement consider all possible scenarios we might face as a collective?_
+
+* We also expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.
