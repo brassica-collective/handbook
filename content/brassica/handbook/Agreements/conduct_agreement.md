@@ -14,11 +14,11 @@ This document forms part of our broader set of emerging Participation Agreements
 * gradually escalating processes for responding to each other in situations where our conduct does not align with our collective agreements
 * approach to supporting each other to hold ourselves accountable for how our actions impact each other as we learn and change together
 
-## Conduct Agreement 
+## Summary 
 As participants and collaborators, we agree:
 * To act in alignment with our **Conduct Expectations** (as detailed below)
 * To act in alignment with any conduct expectations expressed in our other agreements
-* To take responsibility for holding ourselves and others accountable for conduct that does not align with our shared expectations by acting in accordance with the **Response Guidelines** (detailed below).
+* To take responsibility for holding ourselves and others accountable for conduct that does not align with our shared expectations by acting in accordance with the **Response Guidelines** (as detailed below).
 
 Additionally we all share a responsibility for:
 * Reflecting on the values that inform our conduct expectations towards each others (outlined below)
@@ -26,10 +26,16 @@ Additionally we all share a responsibility for:
 * Learning about our differences as we continually practice aligning our conduct with our shared expectations
 * Supporting each other to conduct ourselves in ways that align with any expectations expressed in our other agreements.
 
-## Conduct Expectations
+Please open the following image in full-size view to read a flow-chart summary of this agreement, and scroll down for further details. 
+
+![Fit Image](/images/ConductAgreementFlowchartV4_Kin-Teq.jpg?fit=278x127)
+
+## Details 
+
+### Conduct Expectations
 Our conduct expectations outline the ways in which we expect ourselves and each other to act. We also expect ourselves and each other to act in alignment with any expectations expressed in our other agreements.
 
-### 1. Relating intentionally for living collectively
+#### 1. Relating intentionally for living collectively
 We believe that one way to help build a more just world is by intentionally acting in relation to each other in ways that actively resist the oppressive defaults that structure most relational dynamics.
 
 **Conduct that aligns with this expectation of relating intentionally includes:**
@@ -49,7 +55,7 @@ We believe that one way to help build a more just world is by intentionally acti
 * Refusing to work with people who have breached this value to understand the conditions within which that breach occurred
 * Not making an effort to assess what may need to change in our group to prevent further incidents.
 
-### 2. Solidarity for collective liberation
+#### 2. Solidarity for collective liberation
 We recognise that the systems we are resisting locally are the same systems that oppress people across the world on the basis of their race, class, gender, age, sexuality, ability, religion, and marginalised experiences.
 We believe that all of our freedom is tied up together, and we cannot leave each other behind in our fight for justice.
 
@@ -66,7 +72,7 @@ We believe that all of our freedom is tied up together, and we cannot leave each
 * Consistently speaking on behalf of communities you’re not part of, or taking actions against the advice or wishes of impacted communities or otherwise disrespecting or minimising their feedback
 * Proposing punitive responses, such as demanding punishments, calling the cops, or refusing to provide opportunities for others to change their behaviours.
 
-## Conduct Supporters
+### Conduct Supporters
 
 In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s) e.g. accountability support or care support. These roles, and how they differ from the ‘participation buddies’ role are expected to be clarified by a [Conduct Supporters Agreement](/content/brassica/handbook/Agreements) and [participation buddies guidlines](/content/brassica/handbook/Howtos); if no such agreement and guidelines exist then we expect to implement a single ‘care supporter’ role with the following set of responsibilities:
 
@@ -75,11 +81,11 @@ In the following guidelines, 'conduct supporter(s)' indicate those participants 
 
 Each interval, participants can opt into this role. If no participants opt into this role, the associated responsibilities will be transferred to each participant’s respective participation buddy.
 
-## Response Guidelines
+### Response Guidelines
 Drawing on lessons from [transformative justice movements](https://commonslibrary.org/transformative-approaches-to-conflict-resolution/), these responses include actions that we are individually responsible for (e.g., approaching misunderstandings with curiosity), as well as actions we take responsibility for as a collective (e.g., paying for and participating in cultural awareness training).
 When participants or collaborators act at odds with our shared expectations, we agree to be guided by the following processes, choosing the first listed response appropriate to the situation and escalating to additional responses if/as needed.
 
-### 1. Listening & Learning
+#### 1. Listening & Learning
 **Situations this process applies to:**
 * When any participant shares that they feel uncomfortable with another participant’s specific actions, behaviours, or word choices.
 * When any participant shares that they have experienced an action, behaviour, or choice of words of another participant as being out of alignment with our shared expectations (as outlined here or our other agreements).
@@ -98,7 +104,7 @@ When participants or collaborators act at odds with our shared expectations, we 
 
 * **Escalate:** if reflections identify misunderstandings or disagreements, or patterns of behaviour that are out-of-alignment with our shared expectations, then we request our conduct supporter(s) to initiate the Structured Dialogue or Behaviours-Expectations Calibration processes, as appropriate
 
-### 2. Structured Dialogue
+#### 2. Structured Dialogue
 **Situations this process applies when:**
 * Participants within a group setting discuss something in ways others find uncomfortable or disruptive; or
 * Participants are unable to directly resolve a misunderstanding or disagreement, or
@@ -113,7 +119,7 @@ When participants or collaborators act at odds with our shared expectations, we 
 **Further actions:**
 * **Escalate:** our conduct supporter(s) will initiate a Behaviours-Expectations Calibration process if we refuse to participate in dialogue when requested.
 
-### 3. Behaviours-Expectations Calibration
+#### 3. Behaviours-Expectations Calibration
 
 **Situations this process applies to:**
 * When any participant acts in ways that others experience as violating our conduct expectations, notably:
@@ -151,7 +157,7 @@ When participants or collaborators act at odds with our shared expectations, we 
 
 * **Escalate:** the Behaviour-Expectations Calibration working-group will initiate a Pause on Participation process if we refuse to participate in these responses processes
 
-### 4. Pause on participation and collaboration
+#### 4. Pause on participation and collaboration
 
 **Situations this process applies to:**
 * A major violation of collective values or agreements, including sustained inappropriate behaviour. For example, harassment and bullying, and persistent discriminatory behaviour as a result of refusal to engage in Behaviour-Expectations Calibration processes.
@@ -169,7 +175,7 @@ When participants or collaborators act at odds with our shared expectations, we 
 **Further actions:**
 * **Escalate:** the Pause on Participation working group will initiate an Involuntary Exit process if the conditions for returning to participation are not met within the specified time-frame.
 
-### 5. Involuntary Exit
+#### 5. Involuntary Exit
 
 **Situations this process applies to**:
 Demonstrating a pattern of violating community agreements, including deep and sustained damaging behaviour. For example, domestic violence or other abusive behaviours.
@@ -193,9 +199,6 @@ This agreement will be reviewed in any of the following circumstances (whichever
 
 ## Supplementary Materials
 
-### Conduct Agreement Flowchart Summary 
-
-![Fit Image](/images/ConductAgreementFlowchartV4_Kin-Teq.jpg?fit=278x127)
 
 ### Context Questions & Assumptions
 
