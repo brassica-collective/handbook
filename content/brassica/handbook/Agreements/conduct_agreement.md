@@ -15,12 +15,12 @@ This document forms part of our broader set of emerging Participation Agreements
 * approach to supporting each other to hold ourselves accountable for how our actions impact each other as we learn and change together
 
 ## Conduct Agreement
-As participants, we agree:
+As participants and collaborators, we agree:
 * To act in alignment with our **Conduct Expectations** (as detailed below)
 * To act in alignment with any conduct expectations expressed in our other agreements
 * To take responsibility for holding ourselves and others accountable for conduct that does not align with our shared expectations by acting in accordance with the **Response Guidelines** (detailed below).
 
-Additionally, all participants in the Brassica Collective share a responsibility for:
+Additionally we all share a responsibility for:
 * Reflecting on the values that inform our conduct expectations towards each others (outlined below)
 * Remembering that it is not enough to hold values as abstract concepts; and committing to our values being visible in the way we conduct ourselves
 * Learning about our differences as we continually practice aligning our conduct with our shared expectations
@@ -44,7 +44,7 @@ We believe that one way to help build a more just world is by intentionally acti
 
 **Conduct that does not meet this expectation includes:**
 * Behaviours contributing to oppressive dynamics (e.g., disrespectful behaviour, belittling language, bullying, harassment, etc.)
-* Refusing to demonstrate curiosity or acknowledge assumptions (e.g. jumping to harsh feedback, or calling out individuals in group setting without having conversations to check their perspectives and, if useful  ‘calling in’ first)
+* Refusing to demonstrate curiosity or acknowledge assumptions (e.g. jumping to harsh feedback, or calling out individuals in group setting without having conversations to check their perspectives and, if useful ‘calling in’ first)
 * Refusing to reflect on mistakes or respond graciously to feedback (e.g. refusal to participate in responses following an incident, responding defensively to feedback)
 * Refusing to work with people who have breached this value to understand the conditions within which that breach occurred
 * Not making an effort to assess what may need to change in our group to prevent further incidents.
@@ -66,18 +66,18 @@ We believe that all of our freedom is tied up together, and we cannot leave each
 * Consistently speaking on behalf of communities you’re not part of, or taking actions against the advice or wishes of impacted communities or otherwise disrespecting or minimising their feedback
 * Proposing punitive responses, such as demanding punishments, calling the cops, or refusing to provide opportunities for others to change their behaviours.
 
-## Conduct Collaborators
+## Conduct Supporters
 
-In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). These roles, and how they differ from ‘participation buddies’ are expected to be clarified by a [Conduct Collaborators Agreement](/content/brassica/handbook/Agreements); if no such agreement exists then we expect to implement a single ‘care supporter’ role with the following set of responsibilities:
+In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s) e.g. accountability support or care support. These roles, and how they differ from the ‘participation buddies’ role are expected to be clarified by a [Conduct Supporters Agreement](/content/brassica/handbook/Agreements) and [participation buddies guidlines](/content/brassica/handbook/Howtos); if no such agreement and guidelines exist then we expect to implement a single ‘care supporter’ role with the following set of responsibilities:
 
 - Responding to requests by other participants for care following situations in which supportees felt (or contributed to others feeling) misunderstood, participated in or witnessed a conflict, and/or experienced harm.
 - Responding to requests by other participants to help those who want to hold themselves accountable for their role in mistakes, misunderstandings, conflict, and/or harmful situations.
 
-Each interval, participants can opt into this role. If no participants opt into this role, the associated responsibilities will be transferred to each participant’s respective ‘buddy’.
+Each interval, participants can opt into this role. If no participants opt into this role, the associated responsibilities will be transferred to each participant’s respective participation buddy.
 
 ## Response Guidelines
 Drawing on lessons from [transformative justice movements](https://commonslibrary.org/transformative-approaches-to-conflict-resolution/), these responses include actions that we are individually responsible for (e.g., approaching misunderstandings with curiosity), as well as actions we take responsibility for as a collective (e.g., paying for and participating in cultural awareness training).
-When participants act at odds with our shared expectations, we agree to be guided by the following processes, choosing the first listed response appropriate to the situation and escalating to additional responses if/as needed.
+When participants or collaborators act at odds with our shared expectations, we agree to be guided by the following processes, choosing the first listed response appropriate to the situation and escalating to additional responses if/as needed.
 
 ### 1. Listening & Learning
 **Situations this process applies to:**
@@ -96,7 +96,7 @@ When participants act at odds with our shared expectations, we agree to be guide
 
 * **Agreement review:** all participants are expected to reflect on the ways our collective practices structure how we relate to each other and propose amendments to agreements where relevant
 
-* **Escalate:** if reflections identify misunderstandings or disagreements, or patterns of behaviour that are out-of-alignment with our shared expectations, then we request our conduct supports to initiate the Structured Dialogue or Behaviours-Expectations Calibration processes, as appropriate
+* **Escalate:** if reflections identify misunderstandings or disagreements, or patterns of behaviour that are out-of-alignment with our shared expectations, then we request our conduct supporter(s) to initiate the Structured Dialogue or Behaviours-Expectations Calibration processes, as appropriate
 
 ### 2. Structured Dialogue
 **Situations this process applies when:**
@@ -111,7 +111,7 @@ When participants act at odds with our shared expectations, we agree to be guide
 * [**Mediated dialogue:**](https://www.tangledwilderness.org/features/pocket-guide-to-conflict-mediation) if a misunderstanding, disagreement, or conflict is unable to be resolved directly, the conduct supporter(s) will either mediate or organise an external mediator to hold space for participants to continue their dialogue.
 
 **Further actions:**
-* **Escalate:** our conduct supports will initiate a Behaviours-Expectations Calibration process if we refuse to participate in dialogue when requested.
+* **Escalate:** our conduct supporter(s) will initiate a Behaviours-Expectations Calibration process if we refuse to participate in dialogue when requested.
 
 ### 3. Behaviours-Expectations Calibration
 
@@ -151,7 +151,7 @@ When participants act at odds with our shared expectations, we agree to be guide
 
 * **Escalate:** the Behaviour-Expectations Calibration working-group will initiate a Pause on Participation process if we refuse to participate in these responses processes
 
-### 4. Pause on participation
+### 4. Pause on participation and collaboration
 
 **Situations this process applies to:**
 * A major violation of collective values or agreements, including sustained inappropriate behaviour. For example, harassment and bullying, and persistent discriminatory behaviour as a result of refusal to engage in Behaviour-Expectations Calibration processes.
