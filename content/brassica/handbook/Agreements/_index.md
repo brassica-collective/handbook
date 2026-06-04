@@ -28,10 +28,12 @@ Specific operational decisions are currently being delegated to crew based on th
 
 ### Participation agreements
 We are in the processes of clarifying our shared understanding of different aspects of participation, including:
+* [Values](values_agreement): outlining the shared values we choose to guide our actions and efforts to implement RAD housing
+
 * [Responsibilities & Expectations](responsibilities_and_expectations): outlining what responsibilities we each agree to by participating in this collective in different ways, and what we can expect as participants in the collective
 
 * [Entry & Exit Pathways](entry_and_exit_pathways): outlining our processes for inviting additional people to participate in the collective and our processes for opting-out of participation temporarily or indefinitely.
 
 * [Conduct](conduct_agreement): clarifying how we can expect others to conduct themselves in relation to us, our responsibilities to conduct ourselves likewise, and how we intend to respond in situations where the conduct of any participants are not aligning with our expectations of each other.
 
-* Conduct Supporter Roles: establishing a distributed support structure to help us learn to collectively take responsibility for navigating conflict well together.
+* [Conduct Supporter Roles](supporter_agreement): an approach to establishing a distributed support structure to help us learn to collectively take responsibility for navigating conflict well together.

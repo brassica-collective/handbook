@@ -12,7 +12,7 @@ sidebar:
 ## Overview 
 This document forms part of our emerging set of Participation Agreements, and outlines how we currently understand our:
 
-* Shared *responsibilities* for supporting each other to align our behaviour with our Conduct Agreement  
+* Shared *responsibilities* for supporting each other to align our behaviour with our [Conduct Agreement](../conduct_agreement) 
 * Types of roles we can expect each other to *opt-into* as we support each other  
 * Ways of distributing the work associated with different types of roles 
 
@@ -26,7 +26,7 @@ An additional **Coordinator for Conduct Support** role is also outlined below. T
 
 This agreement can be summarised as follows: 
 
-1. *We agree to treat our **Conduct** **Supporter roles** as operating in the context of our participation in this collective; not as a replacement for the support we need within our lives more generally*  
+1. *We agree to treat our **Conduct Supporter roles** as operating in the context of our participation in this collective; not as a replacement for the support we need within our lives more generally*  
 2. *We agree to **practice offering, giving, asking for, and receiving distinct types of support** in the context of our collective agreements*  
 3. *We agree to commit to the **asymmetrical responsibilities** of asking for and offering distinct types of conduct support from/to different people*  
 4. *We agree to processes for **distributing allocation of Conduct Supporter roles** while involved in the collective*  
@@ -100,7 +100,7 @@ This role is a collective responsibility that will be filled each interval, via:
 
     
 
-## Review Conditions {#review-conditions}
+## Review Conditions 
 
 This agreement will be reviewed in any of the following conditions: 
 
@@ -135,7 +135,7 @@ This agreement is intended to help us implement our conduct agreement. Because l
 #### How do we learn to implement our Conduct Supporter responsibilities? 
 
 * We expect this learning to be an ongoing process with *opportunities to learn and practice together skills for offering, giving, asking for, and receiving distinct types of support in the context of our collective agreements.*  
-* O*nboarding for new participants will additionally include:*    
+* Onboarding for new participants will additionally include:   
   * Context on the distinctions between the different types of supporter roles   
   * *Directions to resources we’ve created or curated so far in the collective related to how we support  each other.*
 
@@ -145,12 +145,12 @@ This agreement is intended to help us implement our conduct agreement. Because l
 * It takes time and practice to unlearn these defaults and learn alternative ways of supporting each other in ways that allow us to transform ourselves and our society in ways that contribute to more liberatory futures for all.   
 * We hope that by intentionally structuring our participation practices to distribute specific forms of care and accountability support we can prefigure futures where these structures are no longer needed.
 
-#### Why doesn’t this agreement consider all possible scenarios we might face as a collective? / *Is this agreement (or any of our participation agreements) perfect and set in stone?*
+#### Why doesn’t this agreement consider all possible scenarios we might face as a collective? / Is this agreement (or any of our participation agreements) perfect and set in stone?
 
 * We expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.   
 * It is not set in stone. All of our participation agreements are living documents that both guide and reflect how we actually behave towards each other and together in the world. We expect them to be amended via collective process to both reflect changes in our aspirations and document emerging current practices.
 
-### Questions about Supporter Roles {#questions-about-supporter-roles}
+### Questions about Supporter Roles 
 
 #### Why do we need a Coordinator for some Conduct Support Roles? 
 
@@ -188,7 +188,7 @@ Example acts of accountability support following a particular situation of mista
 * Supporting practice while learning to interact in mutually agreed ways (e.g., role play)  
 * Reminding participants to reach out to their Care Supporter for additional forms of conduct support.
 
-#### Won't I need both care and accountability in most situations \- why separate these into two roles?
+#### Won't I need both care and accountability in most situations? Why separate these into two roles?
 
 Yes, we often need both care and accountability support, especially when we contribute to the conditions within which we are impacted by mistakes, misunderstandings, conflict, and harm. 
 
@@ -233,7 +233,7 @@ In addition to responding to requests for support as described in the examples a
 #### Why haven’t we included any other types of supporter roles?
 
 * Care and accountability supporter roles are intended as a minimum set of support that we can practice to help us differentiate between types of support needed to implement our conduct agreement. We may want to introduce other support roles after we have more experience *offering, giving, asking for, and receiving* these distinct forms of support.   
-* Other forms of support are described in other agreements, including the onboarding supporter role (in the [Entry and Exit Pathway Agreement](https://radhousing.org/brassica/handbook/agreements/entry_and_exit_pathways/)) and the participation supporter role in our [Participation Supporter Guidelines](https://docs.google.com/document/d/16iPg-VBoTB5f9MrUvNEpkDazPS2c0f64BVsPfCghEa8/edit?usp=sharing).  
+* Other forms of support are described in other agreements, including the onboarding supporter role (in the [Entry and Exit Pathway Agreement](../entry_and_exit_pathways) and the participation buddy role in our [Participation Buddy Guidelines](../../buddies_guidelines).  
 * Participants can propose amendments to add additional supporter roles that become relevant within the context of our collective capacity to support each other.
 
 ### Questions about the Mutli-Role Distribution Approach  {#questions-about-the-mutli-role-distribution-approach}
