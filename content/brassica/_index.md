@@ -11,6 +11,7 @@ This is a landing page for participants in the collective to find all the resour
 
 {{< cards >}}
 {{< card link="/brassica/handbook" title="Brassica Handbook" icon="book-open" >}}
-{{< card link="about" title="About RAD Housing" icon="question-mark-circle" subtitle="What does it mean to retrofit and decommodify housing?" >}}
-{{< card link="t2s-model" title="T2S Model" icon="document-text" subtitle="The Transition to Stewardship model is a legal/financial approach to transition housing away from being a financial commodity" >}}
+{{< card link="/about/" title="About RAD Housing" icon="question-mark-circle" subtitle="What does it mean to retrofit and decommodify housing?" >}}
+{{< card link="/t2s-model/" title="T2S Model" icon="document-text" subtitle="The Transition to Stewardship model is a legal/financial approach to transition housing away from being a financial commodity" >}}
 {{< /cards >}}
+
