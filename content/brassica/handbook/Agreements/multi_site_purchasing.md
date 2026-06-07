@@ -96,7 +96,7 @@ The following general principles guide the development of our specific purchase 
 
 ## Review Conditions
 
-This agreement will be reviewed in any of the following conditions (whichever comes first): 
+This agreement (Version 1.1) will be reviewed in any of the following conditions (whichever comes first): 
 
 -   The collective agrees on a clear vision or mission statement
 -   The collective passes an agreement describing house theming, or who gets to live in each house.

@@ -31,7 +31,7 @@ The allocation of buddies is distributed to help us build relationships between 
 
 ### Review Conditions
 
-These guidelines  will be reviewed in any of the following circumstances: 
+These guidelines (Version 2) will be reviewed in any of the following circumstances: 
 
 * When an agreement is amended in ways that impact the implementation of these guidelines  
 * When an amendment is proposed to these guidelines
