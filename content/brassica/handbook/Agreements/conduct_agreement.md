@@ -42,7 +42,7 @@ We believe that one way to help build a more just world is by intentionally acti
 * Taking responsibility for reflecting on our own behaviour and acknowledging assumptions
 * Demonstrating patience, care, and empathy towards each other
 * Approaching misunderstandings with curiosity
-* Practicing giving and receiving feedback about how our actions impact others
+* Practising giving and receiving feedback about how our actions impact others
 * Genuinely reflecting on and learning from mistakes
 * Creating conditions that support constructive discussions (recognising that these conditions can vary by context)
 * Supporting each others learning and growth
@@ -74,7 +74,8 @@ We believe that all of our freedom is tied up together, and we cannot leave each
 
 ### Conduct Supporters
 
-In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). These roles, and how they differ from ‘participation buddies’ are expected to be clarified by a Conduct Supporters Agreement. 
+In the following guidelines, 'conduct supporter(s)' indicate those participants who are acting in the relevant conduct supporter role(s). The responsibilities associated with these roles, how they are distributed, and how they differ from [Participation Buddies](../../howtos/buddies_guidelines) are detailed in the [Conduct Supporters Agreement](../supporter_agreement). 
+
 
 If the Conduct Supporters Agreement has not been implemented, then each participant’s respective ‘buddy’ (or the participant who invited the collaborator) takes responsibility for responding to requests from participants or collaborators for support to initiate and/or participate in one of our conduct agreement responses, including: 
 * Responding to requests by other participants for care following situations in which supportees felt (or contributed to others feeling) misunderstood, participated in or witnessed a conflict, and/or experienced harm.

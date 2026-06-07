@@ -1,6 +1,6 @@
 ---
 title: Guidelines for Participation Buddies
-slug: guidelines_buddies
+slug: buddies_guidelines
 type: docs
 prev: guidelines_collaborators
 next: handbook_editing

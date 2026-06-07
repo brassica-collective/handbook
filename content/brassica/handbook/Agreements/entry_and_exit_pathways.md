@@ -2,9 +2,9 @@
 title: Entry and Exit Pathways
 slug: entry_and_exit_pathways
 type: docs
-prev: conduct_agreement
+prev: supporter_agreement
 next: responsibilities_and_expectations
-weight: 3
+weight: 4
 sidebar:
   open: true
 ---
@@ -191,7 +191,7 @@ _Where can I find more information about the jargon terms and associated assumpt
 * The ‘collective’ referenced in this agreement is the [Brassica Collective](/brassica/handbook), as described in our handbook
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:
   * ‘we’ refers to all current participants in the Brassica Collective.
-  * A ‘current participant’ is everyone who has opted-in to their ‘minimum responsibilities’ to the collective for the relevant interval(s), as described in the [Responsibilities and Expectations Agreement](../responsibilities_and_expectations)
+  * A ‘current participant’ is everyone who has opted-in to their 'minimum responsibilities’ to the collective for the relevant interval(s), as described in the [Responsibilities and Expectations Agreement](../responsibilities_and_expectations)
 
 _Why do we need an entry & exit agreement?_
 
