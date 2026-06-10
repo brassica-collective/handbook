@@ -28,13 +28,13 @@ The implementation of the above objectives are delegated to the Operations Crew,
 * Facilitating and ensuring the smooth operation of the group’s online communication processes (e.g., email, chat, Loomio, Radicalize).
 * Oversee all financial operations
 * Spending money on expenses necessary to carry out the crew objectives:
-For general expenses: up to a maximum of $200 per interval (to allow for occasional spikes in operational spending; not as a monthly target)
-For specific projects: up to a project budget agreed by the collective
-* Undertake agreements with other parties so they can supply us with goods/services needed to carry out the crew objectives:
-For general participant needs: up to a maximum of 3 months commitment
-For specific projects: within a project timeline agreed by the collective
+   * For general expenses: up to a maximum of $200 per interval (to allow for occasional spikes in operational spending; not as a monthly target)
+   * For specific projects: up to a project budget agreed by the collective
+* Undertake agreements with other parties so they can supply us with goods/services needed to carry out a crews objectives:
+   * For general participant needs: up to a maximum of 3 months commitment
+   * For specific projects: within a project timeline agreed by the collective
 * Ensuring that implementation of agreements and other processes are carried out.
-Carry out operational processes specified in Brassica Collective agreements, including exercising any powers explicitly needed by those agreements (eg: offboarding a participant as per the Entry & Exit agreement)
+* Carry out operational processes specified in Brassica Collective agreements, including exercising any powers explicitly needed by those agreements (eg: offboarding a participant as per the Entry & Exit agreement)
 
 ## Limits on the Scope of Delegation
 Operations Crew does not have delegated authority to:
@@ -50,7 +50,9 @@ Given the objectives outlined above, we expect the Operations Crew to be ongoing
 
 ## Context Questions & Assumptions
 _What is meant by "ensure Loomio is operating"?_
-Loomio operating is part of our minimum operations (it's key to our decisions) so we are expecting the Operations Crew to take responsibility for noticing if it breaks and reaching out to those responsible for technical support (either internally, or to those hosting Loomio for us). Operations Crew are not responsible for maintaining the discussion threads, this sits with the thread-faciliator (usually the person who started the thread, or a particular Crew); we also have the Knowledge Gardening Crew periodically closing orphaned threads. 
+
+* Loomio operating is part of our minimum operations (it's key to our decisions) so we are expecting the Operations Crew to take responsibility for noticing if it breaks and reaching out to those responsible for technical support (either internally, or to those hosting Loomio for us). Operations Crew are not responsible for maintaining the discussion threads, this sits with the thread-faciliator (usually the person who started the thread, or a particular Crew); we also have the Knowledge Gardening Crew periodically closing orphaned threads. 
 
 _What is an example of a commitment to collaborators and participants on hiatus?_
-An example of a commitment to participants on hiatus is ensuring that someone reaches out if they have been gone for a long time without any word, as per our Entry and Exit Pathways for unexplained absences. This was previously within the scope of PAS Crew responsibilities. 
+
+* An example of a commitment to participants on hiatus is ensuring that someone reaches out if they have been gone for a long time without any word, as per our Entry and Exit Pathways for unexplained absences. This was previously within the scope of PAS Crew responsibilities. 
