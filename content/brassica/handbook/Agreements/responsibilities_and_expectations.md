@@ -33,7 +33,7 @@ In addition to minimum responsibilities, as a participant I am responsible for c
 
   3. Contributing to agreed processes for making collective-wide decisions, by: 
       1. reliably responding to calls for consent or consensus in our online forums, AND
-      2. offering amendments to proposals that I’m not satisfied wit
+      2. offering amendments to proposals that I’m not satisfied with
 
 
 ### Additional Responsibilities

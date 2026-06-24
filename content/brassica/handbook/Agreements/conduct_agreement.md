@@ -52,12 +52,12 @@ We believe that one way to help build a more just world is by intentionally acti
 * Behaviours contributing to oppressive dynamics (e.g., disrespectful behaviour, belittling language, bullying, harassment, etc.)
 * Refusing to demonstrate curiosity or acknowledge assumptions (e.g. jumping to harsh feedback, or calling out individuals in group setting without having conversations to check their perspectives and, if useful ‘calling in’ first)
 * Refusing to reflect on mistakes or respond graciously to feedback (e.g. refusal to participate in responses following an incident, responding defensively to feedback)
-* Refusing to work with people who have breached this value to understand the conditions within which that breach occurred
+* Refusing to work with people who have breached this expectation to understand the conditions within which that breach occurred
 * Not making an effort to assess what may need to change in our group to prevent further incidents.
 
 #### 2. Solidarity for collective liberation
 We recognise that the systems we are resisting locally are the same systems that oppress people across the world on the basis of their race, class, gender, age, sexuality, ability, religion, and marginalised experiences.
-We believe that all of our freedom is tied up together, and we cannot leave each other behind in our fight for justice.
+We believe that all of our freedom is tied up together and we cannot leave each other behind in our fight for justice.
 
 **Conduct that aligns with this expectation includes:**
 * Respecting the leadership of those who are most impacted by an issue, while avoiding extractive expectations of their time/energy
@@ -89,7 +89,7 @@ When participants or collaborators act at odds with our shared expectations, we 
 #### 1. Listening & Learning
 **Situations this process applies to:**
 * When any participant shares that they feel uncomfortable with another participant’s specific actions, behaviours, or word choices.
-* When any participant shares that they have experienced an action, behaviour, or choice of words of another participant as being out of alignment with our shared expectations (as outlined here or our other agreements).
+* When any participant shares that they have experienced an action, behaviour, or choice of words of another participant as being out of alignment with our shared expectations (as outlined here or in our other agreements).
 
 **Response process:**
 * We expect each other to **acknowledge** that our behaviours can impact each other by **listening** when others share how they experience our behaviours, AND
@@ -186,7 +186,7 @@ Repeated violations of collective agreements will initiate the Exit Pathway (as 
 In addition, the context prompting an involuntary exit may be communicated privately to organisers of other projects within our broader ecosystem of collective practices if there is reason to believe that broader awareness would provide more avenues for supporting the behaviour changes we believe would reduce further harm.
 
 **Further actions**:
-Continued learning: The group will work to assess the conditions that led to the exit, and work with affected parties and the whole group to identify any broader changes we may need to initiate within our collective practices.
+Continued learning: The working group will work to assess the conditions that led to the exit, and work with affected parties and the whole collective to identify any broader changes we may need to initiate within our collective practices.
 
 Re-entry pathways: In keeping with abolitionist views that people are capable of change and self reflection in their own time, a re-entry pathway may be considered if the person shows long term extensive change in behaviour and expresses interest in participating again. In circumstances where participants remain concerned about safety, collective-wide decisions may need to be made about how we determine our capacity for responding to these concerns.
 
@@ -204,19 +204,22 @@ This agreement (Version 5.1) will be reviewed in any of the following circumstan
 ### Context Questions & Assumptions
 
 _Where can I find more information about the jargon terms and associated assumptions in this agreement?_
+
 * The ‘collective’ referenced in this agreement is the Brassica Collective, as described in our handbook
 * This agreement assumes familiarity with our broader set of Participation Agreements, and any ambiguities in this agreement should be interpreted in that context. In this context:
     * ‘we’ refers to all current participants in the Brassica Collective.
     * A ‘current participant’ is everyone who has opted-in to their ‘minimum responsibilities’ to the collective for the relevant interval(s), as described in the Responsibilities and Expectations Agreement
     * If we have a Conduct Supporters Agreement then references to 'conduct supporter(s)' indicate those participants currently acting in the relevant conduct supporter role(s) it describes.
-* This agreement draws on lessons from transformative approaches to navigating conflict and disability justice approaches to moving at the speed of trust. Also see the‘Conflict is Inevitable: Knowledge Roundup’.
+* This agreement draws on lessons from transformative approaches to navigating conflict and disability justice approaches to moving at the speed of trust. Also see the [‘Conflict is Inevitable: Knowledge Roundup’](https://commonslibrary.org/conflict-is-inevitable-knowledge-roundup/).
 
 _Will I get kicked out of the collective if my behaviour fails to meet the expectations expressed in this document or one of the other agreements?_
-* No, no no no no! This document is intended to be useful in a wide range of situations from small everyday missteps to serious ongoing unacceptable behaviour.
+
+* No, no. Relax. This document is intended to be useful in a wide range of situations from small everyday missteps to serious ongoing unacceptable behaviour.
 * The intention is that the response guidelines can be used to support a structured response to each situation within that range.
 * We aim to be using these processes often and early when engaging with the project and each other to respond well to inevitable mistakes, misunderstandings, conflict and instances of harm.
 
 _Why do we need a Conduct agreement?_
+
 * In this collective, all participants share responsibility for aligning our behaviour towards each other and those in our wider communities with our foundational set of values.
 * We recognise that it is not enough to hold values as abstract concepts; our values matter when they are put into practice.
 * A conduct agreement can help us foster spaces where we can build trust with each other and relate well across our differences by:
@@ -225,6 +228,7 @@ _Why do we need a Conduct agreement?_
     * Outlining our processes for navigating situations in which our shared expectations for how we act in relation to each other have not been met.
 
 _What are the assumed values reflected in this agreement?_
+
 * The values informing the RAD housing goals that inspired this initial configuration of the Brassica Collective
 * Transformative justice - see [‘Transformative Approaches to Conflict Resolution’](https://commonslibrary.org/transformative-approaches-to-conflict-resolution/) for a set of resources introducing some of the key concepts and practices associated with Transformative Justice. In brief:
     * Transformative justice approaches aim to avoid simply restoring the conditions within which a given misunderstanding, conflict, and/or harm occurred by seeking to understand how we can change these conditions for the better (both individually and through our collective practices).
@@ -240,7 +244,8 @@ Individual behaviours that can reflect and reinforce these broader oppressive po
 * Belittling language, prejudiced comments, or thoughtless jokes about another person’s identity, personal characteristics, and/or life-choices (including but not limited to: gender, gender identity and expression, sexual orientation, disability, mental illness, neuroatypicality, physical appearance, race, religion, eating habits, health decisions, and drug use).
 
 _Why doesn’t this agreement consider all possible scenarios we might face as a collective?_
-* We think it is impossible to predict all possible scenarios. We are creating a ‘how to’ guide as a starting point to guide us in more concrete ways and will update this as new scenarios emerge.
+
+* We think it is impossible to predict all possible scenarios. This agreement is a starting point to guide us and will be updated as new scenarios emerge.
 * We expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.
 * In building our capacity for navigating our interdependent responsibilities within the collective, we recognise the importance of positioning our participation in this group within our broader support networks (e.g, by mapping out 'pods' of people we trust to provide us with care when we experience harm as well as those who we trust to help us hold ourselves accountable when we learn we've caused harm to others).
 

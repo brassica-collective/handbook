@@ -12,11 +12,11 @@ sidebar:
 The following is a summary of the objectives and associated decision-making scope delegated to the Operations Crew by participants of the Brassica Collective (via the consent process detailed in our interim decision making process, with the [proposal and discussion documented on Loomio](https://loomio.shedberries.app/d/WxELM5Dv/proposal-to-split-pas-crew-into-operations-crew-and-s-d-crew)).
 
 ## Goal
-The goal of Operations Crew is to ensure that all tasks are done that are needed to “keep the lights on” for the Brassica Collective.
+The goal of Operations Crew is to ensure that tasks are done that are needed to “keep the lights on” for the Brassica Collective.
 
 ## Objectives
-Ensure that all processes are run that enable participation, including:
-* Decision making processes (eg: Assembly is run, Loomio is operating)
+Ensure that processes are run that enable participation, including:
+* Decision making processes (eg: Assembly is run, Loomio and matrix are operating)
 * Ongoing tasks described in Agreements is performed 
 * Ensure that legal/financial obligations to other parties are met (bills paid, etc)
 * Ensure that commitments made to collaborators and participants on hiatus are kept

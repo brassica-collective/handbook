@@ -49,7 +49,7 @@ Posting on Loomio won't necessarily alert participants. Depending on the partici
 Subgroups on Loomio are used to collect related sets of closed threads that may need to be reviewed. For example, we have subgroups for 'Agreement Made' and 'Assembly Minutes'.   
 
 ## Strategic Roadmap = Handbook
-To get a sense of how tasks we are working on relate to the broader strategic goals of the collective we will have the strategic roadmap. It’s being developed by participants in PAS crew.
+To get a sense of how tasks we are working on relate to the broader strategic goals of the collective we will have the strategic roadmap. It’s being developed by participants in DAS crew.
 
 ## Current Agreements and Processes = Handbook
 Stable versions of documentation related to the project including current agreements, processes and guidelines are published in the [handbook](https://radhousing.org/brassica/handbook/).
@@ -60,7 +60,7 @@ Draft versions of documentation including agreements and processes are stored in
 Edit access to the Brassica folder can be granted by any participant who has edit access.
 
 ## Coordinating our shared task lists = Taiga Dashboards
-Each Crew uses a [Tiaga dashboards](https://tree.taiga.io/) to coordinate their work. A guideline recommending using taiga in an agile project management style is being developed. In the mean time, ask any participant who has been introduced to the style.
+Each Crew uses a [Tiaga dashboard](https://tree.taiga.io/) to coordinate their work. A guideline recommending using taiga in an agile project management style is being developed. In the mean time, ask any participant who has been introduced to the style.
 
 To add a new participant (‘member’) to a crew taiga dashboard (‘project’) use settings > members > add member > type an email address into the box to send an email invite.
 

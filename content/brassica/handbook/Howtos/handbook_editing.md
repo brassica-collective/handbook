@@ -97,7 +97,7 @@ When you have finished making all changes, create a pull-request in github (so t
 If you were asked to review the changes proposed by someone else: 
 1. review and comment on changes and/or
 2. merge the changes into the main branch 
-3. delete the branch (both on the repository when prompted, and on your local device (e.g. `git switch main` then `git branch -d [branch name]`))    
+3. delete the branch (both on the repository when prompted, and on your local device (e.g. `git switch main` then `git branch -d branch-name`))    
 
 # Further Resources:
 
