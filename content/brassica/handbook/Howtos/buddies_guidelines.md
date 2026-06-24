@@ -40,12 +40,12 @@ These guidelines (Version 2) will be reviewed in any of the following circumstan
 
 #### Context Questions & Assumptions 
 
-#### Why don't these guidelines consider all possible scenarios we might face as a collective? / Are these guidelines perfect and set in stone?
+##### Why don't these guidelines consider all possible scenarios we might face as a collective? / Are these guidelines perfect and set in stone?
 
 * We think it is impossible to predict all possible scenarios. These guidelines provide a starting point and will be updated as new scenarios emerge.
 * We expect these guidelines to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective. 
 
-##### *Where can I find more information about the jargon terms and associated assumptions in these guidelines?* 
+##### Where can I find more information about the jargon terms and associated assumptions in these guidelines? 
 
 * The ‘collective’ referenced in these guidelines is the Brassica Collective, as described in our [handbook](https://radhousing.org/brassica/handbook/)   
 * These guidelines assume familiarity with our broader set of [collective agreements](https://radhousing.org/brassica/handbook/agreements/) and any ambiguities should be interpreted in that context. In this context:   
