@@ -61,12 +61,21 @@ Signs that someone may be ready include demonstrating capacity for:
 - Support engagement in the relevant processes outlined in our other agreements    
 - Reminding participants to reach out to their Care Supporter for additional forms of conduct support.
 - Offer resources, such as:
-    - [(How to give a good apology)](https://leavingevidence.wordpress.com/2019/12/18/how-to-give-a-good-apology-part-1-the-four-parts-of-accountability/)*   
+    - [How to give a good apology](https://leavingevidence.wordpress.com/2019/12/18/how-to-give-a-good-apology-part-1-the-four-parts-of-accountability/)*   
 
 
 ### Tips for supporting a participant to *engage with a Conduct Agreement response* after learning that they have acted in ways that feel to another participant as at odds with the shared expectations outlined in our Conduct Agreement.
 
 
-## Further Resources
+## Further Resources 
 
-- [inevitable conflicts](https://commonslibrary.org/conflict-is-inevitable-knowledge-roundup/),
+The following resources focus on approaches to conflict that seek to transform oppressive dynamics, our relationships to each other, and our communities at large. 
+
+- A Commons Library resource roundup on navigating [inevitable conflicts](https://commonslibrary.org/conflict-is-inevitable-knowledge-roundup/),
+- An introduction to [transformative approaches to navigating conflict](https://commonslibrary.org/transformative-approaches-to-conflict-resolution/)
+- [Progressive Therapeutic Collective Radical Repair Toolkit](https://drive.google.com/file/d/13FYQP20FZHr7FSokCQYzRdelmn0eb2A1/view?usp=drive_link) Sarah Newbold© 2025 Underground Radical, Naarm offers a bold approach to relationship repair that challenges power, prioritises equity, and fosters connection in every relationship.
+- [From conflict to co-operation - a Primer](https://peoplesupport.coop/from-conflict-to-cooperation/) - Written by Kate Whittle, Cooperantics, and illustrated by Angela Martin. This From Conflict to Co-operation series aims to help co-operatives not only to deal with conflict when it arises but also to avoid unnecessary conflict.
+- [Conflict Resolution Trainers Manual](https://www.crnhq.org/cr-trainer-manual/) This manual is a comprehensive guide running for highly successful Conflict Resolution sessions. It offers teaching material, group and individual exercises and handouts for over 50 hours of instruction on the 12 skills of Conflict Resolution. Each chapter starts with clear guidelines for constructing training sessions of different lengths. It is invaluable for a new trainer and will refresh and inspire even the most experienced trainer’s material. 
+- [Community Accountability process](https://callingupjustice.com/fumbling-towards-repair/)
+
+
