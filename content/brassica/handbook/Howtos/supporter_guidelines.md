@@ -13,41 +13,44 @@ open: true
 
 ***Conduct Supporter*** roles are intended to help us distribute the labour of meeting our shared conduct expectations when resolving misunderstandings, identifying and responding to conflicts, reducing the conditions within which we might harm each other, and practising how we respond to harm when it does occur. 
 
-## FAQs
-
-### Why differentiate between Care Support and Accountability Support?
+**Why differentiate between Care Support and Accountability Support?**
 While supporting someone to hold themselves accountable is a form of care-work (broadly understood), it can be helpful to treat it as different from the care support, above because each requires a different form of interaction. 
 * Care support requires an holding-space forms of support that focus on listening to someone express their perspective and respecting the kinds of support requested (even when these may be different to the kinds of support we think they need or ‘should’ have). See this explanation of the care-work of ['holding space'](https://psychhub.com/resources/articles/holding-space) for people toe express their feelings and perspectives without judgement or advice.
 * Accountability support is about offering  self-reflective and perspective-broadening opportunities; not policing each others' behaviour. This type of support is useful when someone is ready to take responsibility for the consequences of their choices. In this context, the goal is to support each other learn how to hold ourselves accountable for what we said we would do (not to hold others accountable for what they said they would do), including learning about and acknowledging when our behaviour impacting others, and (where relevant)how to change behaviours to reduce potential for harming others. See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
 
-### When do I request Care and/or Accountability?
+## When Do We Request Support?
 
 Practising skills in low consequence conflict can prepare us for if/when we need to collectively navigate more serious instances of violence and/or abuse (i.e., [behaviours …intended to gain, exert, and maintain power over another person or in a group](https://commonslibrary.org/book-review-we-will-not-cancel-us/)).
 
 For example, seeking out accountability support is encouraged whenever gap emerge between what we intend with our actions and the actual impacts on others in the context of particiating in the collective. By inviting feedback from others we can learn the skills of being able to give and receive feedback about how we are doing in relation to our own commitments. With practice, asking for feedback can become a regular part of how we operate together.
 
-Likewise, seekng care support is encouraged whenever feelings emerge in the context of participating in Brassica Collective. Asking for and holding a container to express stong feelings... 
+Likewise, seekng care support is encouraged whenever feelings emerge in the context of participating in Brassica Collective. Asking for and holding a container to express stong feelings offers oppourtunities to practive integrating our experiences and reconnecting with people around us.
 
-## Tips & Tools for Asking for Support
+Typically, both types of support will be relevant to any situation. However, recognising when/why each specific type of support is most relevant is part of what we're hoping to learn through these practices.  
+
+#### Tips & Tools for Asking for Support
 
 ...
+## When Do We Offer Support?
 
-## Tips & Tools for Providing Support
-
-### Providing Care Support
+#### Tips & Tools for Offering Care Support
 
 **Tips for holding space for participants to express their feelings and perspectives without judgement or advice.** 
-* Create a container where you can be present and actively listen to someone express the feelings associated with a situation offering *tenderness, attentiveness, regard, and consideration* (while avoiding forming judgements or offering advice)..  
+* Create a container where you can be present and actively listen to someone express the feelings associated with a situation offering *tenderness, attentiveness, regard, and consideration* 
+* The goal is not to help people feel "better" - it is to create space for people to feel whatever it is they are feeling 
+* Focusing on allowing whatever the feeling are to be expressed 
+* Avoid asking "why", expressing any opinions, alternative perspectives, or advice
 
 **Tips for responding to requests for care following situations in which participants felt misunderstood and/or contributed to others feeling misunderstood; participated in or witnessed a conflict; and/or contributed to or experienced harm.** 
 * Supporting a participant to articulate and share their perspective of behaviours within the collective they experience as contributing to misunderstandings, conflict, or harmful situations.  
+* Focus on encouraging expressions of perspective, ask clarification questions with *curiosity*
 
 **Tips for supporting a participant to *initiate* the appropriate ‘Response Guidelines’ from our Conduct Agreement**
-- When someone has expressed feelings about actions within the collective that are at odds with our shared expectations or values, remind participants to reach out to their Accountability Supporter for additional forms of conduct support.
+- When someone identifies anothers' actions within the collective as at odds with shared expectations or values, remind them reach out to their Accountability Supporter for additional forms of conduct support to seek additional perspectives  
 
-## Providing Accountability Supporter
+#### Tips & Tools for Offering Accountability Supporter
 
-### Tips for supporting people to consider alternative perspectives
+**Tips for supporting people to consider alternative perspectives**
 * Offer “yes, and” perspective on what else might be true with regards to the situation when listening to an interpretation of a situation (avoid forming judgements or offering advice)
 * Use the [ladder of inference framework] to support them to the role of assumptions, observations, conclusions, and actions in their interpretations .  
 * Offer examples of when/how actions aren’t aligning with our collectively agreed expectations.  
