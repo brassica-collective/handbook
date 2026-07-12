@@ -34,11 +34,11 @@ The following diagram offers an example of the varied and iterative pathways bet
 
 ```mermaid
 graph LR
-A[I feel misunderstand] --> B[I can express my feelings/perspectives to a Care Supporter] -->D
+A[I feel misunderstood] --> B[I can express my feelings/perspectives to a Care Supporter] -->D
 B --> C[I am willing to hear alternative perspectives from an Accountability Supporter] -->D
 A --> C
 C --> A 
-A--> D[I feel ready to discuss the misunderstanding directly]-->A
+A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 ```
 
 #### Metacommunicate that want to Asking for, or Offer, Support:
