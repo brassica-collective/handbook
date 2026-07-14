@@ -15,22 +15,18 @@ The following guidelines outline our in-progress collection of tips & tools for 
 
 ## When and How to Request Support?
 
-Practising with small misunderstandings and disagreements that have low-consequences - like those we'd prefer to let-slide - can help prepare us for when we need to collectively navigate more serious high-consequence forms of conflict.
+Practising asking for support in low-consequence contexts, can help prepare us for when we need to support each other navigate high-consequence forms of conflict.
 
-For example, seeking out accountability support is encouraged whenever gap emerge between what we intend with our actions and the actual impacts on others in the context of participating in the collective. 
-
-By inviting feedback from others we can learn the skills of being able to give and receive feedback about how we are doing in relation to our own commitments. With practice, asking for feedback can become a regular part of how we operate together.
-
-Likewise, seeking care support is encouraged whenever feelings emerge in the context of participating in Brassica Collective. Asking for and holding a container to express strong feelings offers opportunities to practice integrating our experiences and reconnecting with people around us.
+Examples of some of the low-consequence contexts we can practice seeking support include: when we experience feelings about how others are participating in the collective; when we learn that the way we're participating in crews is impacts others in ways we did not intend; and when we have a minor disagreement we're unable to resolve directly with another participant.  
 
 #### Identifying when to talk who, about what 
-Both types of support will can be relevant for the same situations; each benefits from specific forms of interacting and recognising form is  most useful in relation to when we ge the other is part of what we're practising. 
+While both types of support will be relevant for most situations, recognising which form of support is most useful when is part of what we're practising. 
 
-* Care support offers a [holding space](https://psychhub.com/resources/articles/holding-space) for to express their feelings and perspectives without judgement or advice
+* Care support offers a [holding space](https://psychhub.com/resources/articles/holding-space) to practice expressing our feelings and reflecting on our experiences  without exposing ourselves to judgement or advice.
 
-* Accountability support offers a gentle challenge to reflect on alternative perspectives that help us practice holding *ourselves* accountable for how our actions impact others (without policing each others' behaviour). See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
+* Accountability support offers a gentle challenge to practice reflecting on alternative perspectives and holding *ourselves* accountable for how our actions impact others (without policing each others' behaviour). See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
 
-The following diagram offers an example of the varied and iterative pathways between each of our Supporters this may involve: 
+The following diagram offers an example of the varied and iterative pathways we might seek out each of our Supporters for one instance of feeling misunderstood: 
 
 ```mermaid
 graph LR
@@ -41,12 +37,12 @@ C --> A
 A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 ```
 
-#### Metacommunicate that want to Asking for, or Offer, Support:
+#### Ask for support:
 Once you know who you want to talk to about what:
-- Contact the person in the relevant Supporter role in relation to you   
-- Offer a brief overview of the scope and goal of your request 
-- Once the goal has been articulated and consented to, and all parties have indicated sufficient capacity, agree on the format of communication and any structured-discussion tools.
-- At an agreed time/place, take a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) and check that everyone has the available time, energy, and mental-space to give the conversation the appropriate level of attention. If anyone does not have capacity, set another time to reconvene. 
+- Contact whoever is in the relevant Supporter role(s) in relation to you  
+- Offer a brief overview of the scope of your request and check if they are willing and able to offer support. 
+- Once the support request has been articulated and consented to, agree on the format of communication and any [structured-discussion tools](https://hackmd.io/@IntentionalRelationships/metacommunication).
+- At an agreed time/place, take a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) and check that everyone has capacity to give the conversation the appropriate level of attention. If anyone does not have capacity, set another time to reconvene.
 
 ## When & How to Offer Support
 Your roles as a Conduct Supporter is to offer support on request, and in the context of navigating experiences within the Brassica Collective. 
