@@ -21,7 +21,7 @@ Examples of some of the low-consequence contexts we can practice seeking support
 #### Identifying when to talk who, about what 
 While both types of support will be relevant for most situations, recognising which form of support is most useful when is part of what we're practising. 
 
-* Care support offers a [holding space](https://psychhub.com/resources/articles/holding-space) to practice expressing our feelings and reflecting on our experiences  without exposing ourselves to judgement or advice.
+* Care support offers a [holding space](https://psychhub.com/resources/articles/holding-space) to practice expressing our feelings and reflecting on our experiences  without exposing ourselves to either judgement or rescue.
 
 * Accountability support offers a gentle challenge to practice reflecting on alternative perspectives and holding *ourselves* accountable for how our actions impact others (without policing each others' behaviour). See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
 
@@ -48,16 +48,16 @@ Your core role as a Conduct Supporter is to respond to requests for specific for
 
 ### Tips & Tools for Offering Care Support
 
-**Holding space for participants to express their feelings and perspectives without judgement or advice.** 
+**Holding space for participants to express their feelings and perspectives without judging or rescuing.** 
 * Create a container where you can be present and actively listen to someone express the feelings associated with a situation offering *tenderness, attentiveness, regard, and consideration* 
-* The goal is not to help people feel "better" - it is to create space for people to feel whatever it is they are feeling 
-* Focusing on allowing whatever the feeling are to be expressed 
-* Avoid asking "why", expressing any opinions, alternative perspectives, or advice
-* See the *peer listening* training
+* The goal is to create space for people to feel whatever it is they are feeling; not to help people feel "better" or solve their concerns.
+* Focus on allowing whatever the feeling are to be expressed; avoid asking "why", expressing any opinions, alternative perspectives, or advice
+* Practice using a [*peer listening*](https://loomio.shedberries.app/d/4ZQ5Jg3p/facilitation-notes-from-interval-16-workshop-on-basic-peer-support-skills) container
 
 **Responding to requests for care following situations in which participants felt misunderstood and/or contributed to others feeling misunderstood; participated in or witnessed a conflict; and/or contributed to or experienced harm.** 
 * Supporting a participant to articulate and share their perspective of behaviours within the collective they experience as contributing to misunderstandings, conflict, or harmful situations.  
 * Focus on encouraging expressions of perspective, ask clarification questions with *curiosity*
+* Encourage different ways of *sharing* their [partial perspectives](https://hackmd.io/@Teq/perspective-sharing-examples)
 
 **Supporting a participant to *initiate* the appropriate ‘Response Guidelines’ from our Conduct Agreement**
 - When someone identifies actions by someone within the collective as at odds with shared expectations or values, remind them reach out to their Accountability Supporter for additional forms of conduct support to seek additional perspectives  
@@ -65,13 +65,13 @@ Your core role as a Conduct Supporter is to respond to requests for specific for
 ### Tips & Tools for offering Accountability Supporter
 
 **Supporting people to consider alternative perspectives**
-* Offer “yes, and” perspective on what else might be true with regards to the situation when listening to an interpretation of a situation (avoid forming judgements or offering advice)
-* Use the [ladder of inference framework] to support them to the role of assumptions, observations, conclusions, and actions in their interpretations .  
+* Offer alternative [partial perspectives](https://hackmd.io/@Teq/perspective-sharing-examples) on [what else might be true](http://www.deanspade.net/wp-content/uploads/2025/07/Dean-Spade-EP04-What-Else-Is-True-worksheet.pdf) with regards to the situation when listening to an interpretation of a situation (avoid forming judgements or offering advise). 
+* Use the [ladder of inference framework](https://untools.co/ladder-of-inference/) to support them to consider the role of assumptions, observations, conclusions, and actions in their interpretations .  
+
+**Initiating 'courageous conversations' that support people to engage with multiple perspectives on how their actions in the collective may have contributed to a particular situation of misunderstanding, conflict, or harm.** 
+
 * Offer examples of when/how actions aren’t aligning with our collectively agreed expectations.  
 * Provide a practice-partner to role-play different ways of interacting
-* Offer to facilitate a [Perspective-sharing process](https://hackmd.io/@Teq/perspective-sharing-facilitation)
-
-**Initating 'courageous conversations' that support people to engage with multiple perspectives on how their actions in the collective may have contributed to a particular situation of misunderstanding, conflict, or harm.** 
   
 **Signs that someone may be ready to hold themselves accountable for the consequences of their actions include:**
 - Recognising and sitting with uncomfortable feelings;
