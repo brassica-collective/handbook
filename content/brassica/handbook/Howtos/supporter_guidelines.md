@@ -11,21 +11,29 @@ open: true
 
 [**Conduct Supporter roles**](../../agreements/supporter_agreement) are intended to help us distribute the labour of supporting each other to act in alignment with our [Conduct Agreement](../../agreements/conduct_agreement). 
 
-The following guidelines outline our in-progress collection of tips & tools for learning when to ask for care and accountability support, and what to offer when we're asked for each of these specific forms of conduct support.
+The following guidelines outline our in-progress collection of tips & tools for learning when to ask for care and accountability support, and what to offer when we're asked for each of these specific forms of conduct support. We'll learn more about options we might ask for together over time, as each different supporter learns how to provide the specific supports we each ask for.
+
+Our initial processes focus on practising reaching out to ask for forms of support and responding to specific support requests (while outside scope, this may help us learn how to pay attention to when and how to offer specific forms of support as well). 
 
 ## When and How to Request Support?
-Practising asking for support in low-consequence contexts, can help prepare us for when we need to support each other navigate high-consequence forms of conflict.
+We are practising asking for support early and often so that we can prepare for when we need to support each other navigate higher consequence forms of conflict. 
 
-Examples of some of the low-consequence contexts we can practice seeking support include: when we experience feelings about how others are participating in the collective; when we learn that the way we're participating in crews is impacts others in ways we did not intend; and when we have a minor disagreement we're unable to resolve directly with another participant.  
+As a guide, we aim to reach out to each of our Supporters at least once an interval. 
+Examples of some of the low-consequence contexts we can practice seeking support include: 
+- when we experience feelings about how others are participating in the collective; 
+- when we learn that the way we're participating impacts others in ways we did not intend; and 
+- when we have a minor disagreement we're unable to resolve directly with another participant. 
+ 
+### Identifying when to talk who, about what 
+Who our Supporters are, and who we are supporting, will be visible on our RADicalise Participation Dashboard.
 
-#### Identifying when to talk who, about what 
 While both types of support will be relevant for most situations, recognising which form of support is most useful when is part of what we're practising. 
 
 * Care support offers a [holding space](https://psychhub.com/resources/articles/holding-space) to practice expressing our feelings and reflecting on our experiences  without exposing ourselves to either judgement or rescue.
 
 * Accountability support offers a gentle challenge to practice reflecting on alternative perspectives and holding *ourselves* accountable for how our actions impact others (without policing each others' behaviour). See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
 
-Cultivating an [empowerment triangle, rather than a drama triangle](https://beckett-mcinroy.com/articles/resolving-conflict/) the goal is to support each other to directly navigate generative conflict. The following diagram offers an example of the varied and iterative pathways we might seek out each of our Supporters for one instance of feeling misunderstood: 
+The goal is to support each other to directly navigate generative conflict, cultivating an [empowerment triangle, rather than a drama triangle](https://beckett-mcinroy.com/articles/resolving-conflict/). The following diagram offers an example of the varied and iterative pathways we might seek out each of our Supporters for one instance of feeling misunderstood: 
 
 ```mermaid
 graph LR
@@ -36,15 +44,23 @@ C --> A
 A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 ```
 
-#### Ask for support:
+### Ask for support:
+We are practising asking for the specific support that we need. 
+
 Once you know who you want to talk to about what:
-- Contact whoever is in the relevant Supporter role(s) in relation to you  
-- Offer a brief overview of the scope of your request and check if they are willing and able to offer support. 
-- Once the support request has been articulated and consented to, agree on the format of communication and any [structured-discussion tools](https://hackmd.io/@IntentionalRelationships/metacommunication).
+- Contact whoever is in the relevant Supporter role(s) in relation to you. Make a clearly scoped request, offer a brief overview of the context, and check if they are willing and able to offer support. Example formats: 
+
+> "Hi, thanks for being my care supporter. If you're available, can we arrange a 30 min call this week for me to talk through my experience of how the last Assembly was facilitated?
+
+>  “Hi, thanks for being my accountability supporter. Are you available for a 30 min call this week? I had a tense verbal exchange at the Assembly. I have talked to my care supporter already and would now like help to think about what I could have done differently in that situation.” 
+
+- Once the support request has been articulated and consented to, agree on the format of communication (e.g., 30min phone call) and any [structured-discussion tools](https://hackmd.io/@IntentionalRelationships/metacommunication) (e.g., peer-listening).
+
 - At an agreed time/place, take a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) and check that everyone has capacity to give the conversation the appropriate level of attention. If anyone does not have capacity, set another time to reconvene.
 
 ## When & How to Offer Support
-Your core role as a Conduct Supporter is to respond to requests for specific forms of support within the scope of our shared conduct expectations within the Brassica Collective.
+
+Your role as a Conduct Supporter is to respond to requests for specific forms of support within the scope of our shared conduct expectations within the Brassica Collective. As a guideline, each interval we try to be available for at least two 30min containers of support requests (plus coordination).
 
 ### Tips & Tools for Offering Care Support
 
@@ -90,6 +106,12 @@ Your core role as a Conduct Supporter is to respond to requests for specific for
 
 **Tips for supporting a participant to *engage with a Conduct Agreement response* after learning that they have acted in ways that feel to another participant as at odds with the shared expectations outlined in our Conduct Agreement.**
 
+
+## Seeking Additional Supports
+
+By practising with this structured support system we’re pushing back on defaults. This is difficult, and takes time. In the meantime, our efforts may go badly. In these cases, please ask for support from whomever you would have gone to if we didn’t have assigned support people. 
+
+When you feel you can, please reach out to your assigned support person again to talk about the experience (how it went, how it could have gone differently). 
 
 ## Further Resources 
 
