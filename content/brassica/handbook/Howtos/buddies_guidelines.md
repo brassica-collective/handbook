@@ -3,7 +3,7 @@ title: Guidelines for Participation Buddies
 slug: buddies_guidelines
 type: docs
 prev: guidelines_collaborators
-next: handbook_editing
+next: guidelines_supporters
 weight: 5
 sidebar:
 open: true
