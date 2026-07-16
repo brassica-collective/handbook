@@ -13,7 +13,6 @@ open: true
 
 The following guidelines outline our in-progress collection of tips & tools for learning when to ask for care and accountability support, and what to do when we're asked for each of these specific forms of support. 
 
-
 ## When to Ask & Offer Support?
 Ask for support early and often, and respond to support requests generously. 
 
@@ -35,7 +34,7 @@ While both types of support will be relevant for most situations, recognising wh
 
 * Accountability support offers a gentle challenge to practice reflecting on alternative perspectives and holding *ourselves* accountable for how our actions impact others (without policing each others' behaviour). See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
 
-The goal is to support each other to directly navigate generative conflict, cultivating an [empowerment triangle, rather than a drama triangle](https://beckett-mcinroy.com/articles/resolving-conflict/). The following diagram offers one example of the varied and iterative pathways we might seek out each of our Supporters: 
+The goal is to support each other to directly navigate generative conflict. The following diagram offers one example of the varied and iterative pathways we might seek out each of our Supporters: 
 
 ```mermaid
 graph LR
@@ -48,19 +47,12 @@ A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 
 ## Tips and Tools for Asking for Support
 
-Once you know which Supporter you want to talk to about what, contact whoever is in the relevant Supporter role in relation to you and practice:
-1.  Making a clearly scoped request. For example, including a brief overview of the context and specifying a requested format and timeline for support can help Supporters make informed decisions about their capacity for providing the requested support. Example formats: 
+Once you know which Supporter you want to talk to about what, contact whoever is in the relevant Supporter role in relation to you. Try to practice the following steps:
+1.  Make a direct request. Briefly outlining the scope of the request can help Supporters make informed decision about providing the requested support (see Example Requests below). 
 
-> "Hi, thanks for being my care supporter. Can we arrange a 15 min call in the next few days? I'd like to talk through my experience of how a recent Crew meeting was facilitated if possible.
+2. Take a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) to check that everyone has capacity to give the conversation the appropriate level of attention prior to starting the discussion. If anyone does not have capacity, set another time to reconvene.
 
->  “Hi, are you available for a 30 min calls this week as my Brassica accountability supporter? I had a tense verbal exchange at a recent Crew meeting. I have talked to my care supporter already and would now like help to think about what I could have done differently in that situation.” 
-
-> "Hi, thanks for the care support earlier. I've talked to my accountability supporter and heard about how my actions may have contributed to the situation I expressed frustration about last we talked. I want to resolve the tensions my actions have contributed to but have lingering feelings of defensiveness. Can we arrange another 10 min call this week for me to express those feelings before I talk to others on the crew?"
-
-2. Choosing an appropriate form of [structured-discussion](https://hackmd.io/@IntentionalRelationships/metacommunication) together (see Tips & Tools below).
-
-3. Taking a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) to check that everyone has capacity to give the conversation the appropriate level of attention prior to starting. If anyone does not have capacity, set another time to reconvene.
-
+3. Confirm the time-container (e.g., 20 mins) and choose an appropriate form of [structured-discussion](https://hackmd.io/@IntentionalRelationships/metacommunication) together (see Tips & Tools below).
 
 ## Tips & Tools for Responding to Care Support Requests
 
@@ -110,6 +102,25 @@ By practising with this structured support system we’re pushing back on defaul
 
 When you feel you can, please reach out to your assigned support person again to talk about the experience (how it went, how it could have gone differently). 
 
+## Example Support Requests
+
+Including a clear scope for your request can help Supporters make informed decision about providing the requested support. The examples below include formats that outline a brief overview of the context and request a specific format and timeline for support.
+
+Also see the [examples shared in Loomio](https://loomio.shedberries.app/d/ow365eOI/examples-of-conduct-support-requests)
+
+Example 1 - Care Support Only 
+> "Hi, thanks for being my care supporter - I'm feeling really sad so few folk attended the workshop I facilitated; do you have 10 min for a call to hold a container and listen to me vent my feelings about that within the next day or so?"
+
+Example 2: - Accountability Support Only
+> "Hey thanks for being my accountability supporter. I've learned that others felt like I spoke over people a lot in the last Assembly. I'd like to learn how to listen more in meetings - do you have time this interval to meet up with me and help me practice active listening?
+
+Example 3 - Care --> Accountability --> Care 
+> "Hi, thanks for being my care supporter. Can we arrange a 15 min call in the next few days? I'd like to talk through my experience of how a recent Crew meeting was facilitated.
+
+>  “Hi, are you available for a 30 min calls this week as my Brassica accountability supporter? I had a tense verbal exchange at a recent Crew meeting. I have talked to my care supporter already and would now like help to think about what I could have done differently in that situation.” 
+
+> "Hey, thanks for the care support earlier. I've talked to my accountability supporter and heard about how my actions may have contributed to the situation I expressed frustration about last we talked. I want to resolve the tensions my actions have contributed to but have lingering feelings of defensiveness. Can we arrange another 10 min call this week for me to express those feelings before I talk to others on the crew?"
+
 ## Further Resources 
 
 > "... I finally, finally, take a deep breath and ask for the care I need most from my friends, and am able to do this because of the collective work done to make accepting that care safe and possible." [Leah Lakshmi Piepzna-Samarasinha](https://amplifybookstore.com/products/the-future-is-disabled-by-leah-lakshmi-piepzna-samarasinha?variant=47864940691735) 
@@ -123,5 +134,6 @@ The following resources focus on approaches to conflict that seek to transform o
 - [Conflict Resolution Trainers Manual](https://www.crnhq.org/cr-trainer-manual/) This manual is a comprehensive guide running for highly successful Conflict Resolution sessions. It offers teaching material, group and individual exercises and handouts for over 50 hours of instruction on the 12 skills of Conflict Resolution. Each chapter starts with clear guidelines for constructing training sessions of different lengths. It is invaluable for a new trainer and will refresh and inspire even the most experienced trainer’s material. 
 - [Community Accountability process](https://callingupjustice.com/fumbling-towards-repair/)
 - [Upstream podcast episode Nov 7 2024 "Prefigurative Politics and Workplace Democracy w/Saio Gradin and Nicole Wires"](https://www.upstreampodcast.org/conversations) 
+- A guide to cultivating [empowerment triangles, rather than drama triangles](https://beckett-mcinroy.com/articles/resolving-conflict/). 
 
 
