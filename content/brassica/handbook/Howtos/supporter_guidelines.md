@@ -11,20 +11,22 @@ open: true
 
 [**Conduct Supporter roles**](../../agreements/supporter_agreement) are intended to help us distribute the labour of supporting each other to act in alignment with our [Conduct Agreement](../../agreements/conduct_agreement). 
 
-The following guidelines outline our in-progress collection of tips & tools for learning when to ask for care and accountability support, and what to offer when we're asked for each of these specific forms of conduct support. We'll learn more about options we might ask for together over time, as each different supporter learns how to provide the specific supports we each ask for.
+The following guidelines outline our in-progress collection of tips & tools for learning when to ask for care and accountability support, and what to do when we're asked for each of these specific forms of support. 
 
-Our initial processes focus on practising reaching out to ask for forms of support and responding to specific support requests (while outside scope, this may help us learn how to pay attention to when and how to offer specific forms of support as well). 
 
-## When and How to Request Support?
-We are practising asking for support early and often so that we can prepare for when we need to support each other navigate higher consequence forms of conflict. 
+## When to Ask & Offer Support?
+Ask for support early and often, and respond to support requests generously. 
 
-As a guide, we aim to reach out to each of our Supporters at least once an interval. 
-Examples of some of the low-consequence contexts we can practice seeking support include: 
-- when we experience feelings about how others are participating in the collective; 
-- when we learn that the way we're participating impacts others in ways we did not intend; and 
-- when we have a minor disagreement we're unable to resolve directly with another participant. 
- 
-### Identifying when to talk who, about what 
+By practising on small forms of support within the scope of our shared conduct expectations, we hope to build our collective capacity for supporting each to other navigate higher consequence forms of conflict. 
+
+Examples of low-consequence contexts we can practice seeking support include: 
+- When we experience feelings about how others are participating in the collective 
+- When we learn our ways of communicating impact others in ways we did not intend 
+- When we have a minor disagreement we're unable to resolve directly with another participant 
+
+We'll explore more options as we all begin to learn how to respond to specific support requests. For now, we encourage participants to reach out to each of our Supporters at least once an interval. To enable this, Conduct Supporters are expected to be available for up to 1hr of support for each supported participant per interval.
+
+## Identifying who to talk to about what
 Who our Supporters are, and who we are supporting, will be visible on our RADicalise Participation Dashboard.
 
 While both types of support will be relevant for most situations, recognising which form of support is most useful when is part of what we're practising. 
@@ -33,7 +35,7 @@ While both types of support will be relevant for most situations, recognising wh
 
 * Accountability support offers a gentle challenge to practice reflecting on alternative perspectives and holding *ourselves* accountable for how our actions impact others (without policing each others' behaviour). See this video on [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
 
-The goal is to support each other to directly navigate generative conflict, cultivating an [empowerment triangle, rather than a drama triangle](https://beckett-mcinroy.com/articles/resolving-conflict/). The following diagram offers an example of the varied and iterative pathways we might seek out each of our Supporters for one instance of feeling misunderstood: 
+The goal is to support each other to directly navigate generative conflict, cultivating an [empowerment triangle, rather than a drama triangle](https://beckett-mcinroy.com/articles/resolving-conflict/). The following diagram offers one example of the varied and iterative pathways we might seek out each of our Supporters: 
 
 ```mermaid
 graph LR
@@ -44,72 +46,67 @@ C --> A
 A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 ```
 
-### Ask for support:
-We are practising asking for the specific support that we need. 
+## Tips and Tools for Asking for Support
 
-Once you know who you want to talk to about what:
-- Contact whoever is in the relevant Supporter role(s) in relation to you. Make a clearly scoped request, offer a brief overview of the context, and check if they are willing and able to offer support. Example formats: 
+Once you know which Supporter you want to talk to about what, contact whoever is in the relevant Supporter role in relation to you and practice:
+1.  Making a clearly scoped request. For example, including a brief overview of the context and specifying a requested format and timeline for support can help Supporters make informed decisions about their capacity for providing the requested support. Example formats: 
 
-> "Hi, thanks for being my care supporter. If you're available, can we arrange a 30 min call this week for me to talk through my experience of how the last Assembly was facilitated?
+> "Hi, thanks for being my care supporter. Can we arrange a 15 min call in the next few days? I'd like to talk through my experience of how a recent Crew meeting was facilitated if possible.
 
->  “Hi, thanks for being my accountability supporter. Are you available for a 30 min call this week? I had a tense verbal exchange at the Assembly. I have talked to my care supporter already and would now like help to think about what I could have done differently in that situation.” 
+>  “Hi, are you available for a 30 min calls this week as my Brassica accountability supporter? I had a tense verbal exchange at a recent Crew meeting. I have talked to my care supporter already and would now like help to think about what I could have done differently in that situation.” 
 
-- Once the support request has been articulated and consented to, agree on the format of communication (e.g., 30min phone call) and any [structured-discussion tools](https://hackmd.io/@IntentionalRelationships/metacommunication) (e.g., peer-listening).
+> "Hi, thanks for the care support earlier. I've talked to my accountability supporter and heard about how my actions may have contributed to the situation I expressed frustration about last we talked. I want to resolve the tensions my actions have contributed to but have lingering feelings of defensiveness. Can we arrange another 10 min call this week for me to express those feelings before I talk to others on the crew?"
 
-- At an agreed time/place, take a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) and check that everyone has capacity to give the conversation the appropriate level of attention. If anyone does not have capacity, set another time to reconvene.
+2. Choosing an appropriate form of [structured-discussion](https://hackmd.io/@IntentionalRelationships/metacommunication) together (see Tips & Tools below).
 
-## When & How to Offer Support
+3. Taking a moment to [HALT+](https://www.multiamory.com/podcast/218-ive-halted-now-what) to check that everyone has capacity to give the conversation the appropriate level of attention prior to starting. If anyone does not have capacity, set another time to reconvene.
 
-Your role as a Conduct Supporter is to respond to requests for specific forms of support within the scope of our shared conduct expectations within the Brassica Collective. As a guideline, each interval we try to be available for at least two 30min containers of support requests (plus coordination).
 
-### Tips & Tools for Offering Care Support
+## Tips & Tools for Responding to Care Support Requests
 
-**Holding space for participants to express their feelings and perspectives without judging or rescuing.** 
+**Holding space for participants to express their feelings and perspectives without judgement or advice.** 
 * Create a container where you can be present and actively listen to someone express the feelings associated with a situation offering *tenderness, attentiveness, regard, and consideration* 
-* The goal is to create space for people to feel whatever it is they are feeling; not to help people feel "better" or solve their concerns.
+* The goal is to create space for people to feel whatever it is they are feeling; not to help people feel "better" , solve their concerns, or otherwise rescue them.
 * Focus on allowing whatever the feeling are to be expressed; avoid asking "why", expressing any opinions, alternative perspectives, or advice
-* Practice using a [*peer listening*](https://loomio.shedberries.app/d/4ZQ5Jg3p/facilitation-notes-from-interval-16-workshop-on-basic-peer-support-skills) container
+* We are practising structuring these discussion using [peer listening containers](https://loomio.shedberries.app/d/4ZQ5Jg3p/facilitation-notes-from-interval-16-workshop-on-basic-peer-support-skills) 
 
 **Responding to requests for care following situations in which participants felt misunderstood and/or contributed to others feeling misunderstood; participated in or witnessed a conflict; and/or contributed to or experienced harm.** 
-* Supporting a participant to articulate and share their perspective of behaviours within the collective they experience as contributing to misunderstandings, conflict, or harmful situations.  
-* Focus on encouraging expressions of perspective, ask clarification questions with *curiosity*
-* Encourage different ways of *sharing* their [partial perspectives](https://hackmd.io/@Teq/perspective-sharing-examples)
+* Listen to their perspective of others' behaviours within the collective, holding space for their interpretations and feelings, and asking any clarification questions with *curiosity* 
+* One way to structure this form of support is to focus on encouraging participants to [share their interpretations of a situation, within the context of the participant's partial perspectives](https://hackmd.io/@Teq/perspective-sharing-examples)
 
-**Supporting a participant to *initiate* the appropriate ‘Response Guidelines’ from our Conduct Agreement**
-- When someone identifies actions by someone within the collective as at odds with shared expectations or values, remind them reach out to their Accountability Supporter for additional forms of conduct support to seek additional perspectives  
+**Supporting a participant to initiate the appropriate Response Guidelines from our Conduct Agreement**
+- When someone identifies actions by someone within the collective as at odds with shared expectations or values, remind them to reach out to their Accountability Supporter to to seek additional perspectives and additional forms of conduct support.
 
-### Tips & Tools for offering Accountability Supporter
+## Tips & Tools for offering Accountability Supporter Requests
 
-**Supporting people to consider alternative perspectives**
-* Offer alternative [partial perspectives](https://hackmd.io/@Teq/perspective-sharing-examples) on [what else might be true](http://www.deanspade.net/wp-content/uploads/2025/07/Dean-Spade-EP04-What-Else-Is-True-worksheet.pdf) with regards to the situation when listening to an interpretation of a situation (avoid forming judgements or offering advise). 
-* Use the [ladder of inference framework](https://untools.co/ladder-of-inference/) to support them to consider the role of assumptions, observations, conclusions, and actions in their interpretations .  
+> *“People can support you to be accountable, but no one but you can do the hard work of taking accountability for yourself. Don’t wait until someone else has to bring up your behavior.” - [(Mia Mingus)](https://leavingevidence.wordpress.com/2019/12/18/how-to-give-a-good-apology-part-1-the-four-parts-of-accountability/)*
 
-**Initiating 'courageous conversations' that support people to engage with multiple perspectives on how their actions in the collective may have contributed to a particular situation of misunderstanding, conflict, or harm.** 
-
-* Offer examples of when/how actions aren’t aligning with our collectively agreed expectations.  
-* Provide a practice-partner to role-play different ways of interacting
-  
-**Signs that someone may be ready to hold themselves accountable for the consequences of their actions include:**
-- Recognising and sitting with uncomfortable feelings;
-- Identifying when/how actions aligned with values (or not)
-- Acknowledging when and how the relevant actions impacted others
-- Engaging constructively with requests for behavioural changes
-- Willing to commit to specific changes in behaviours and/or expectations moving forward.
-
-> *“People can support you to be accountable, but no one but you can do the hard work of taking accountability for yourself. Don’t wait until someone else has to bring up your behavior.” [(Mia Mingus)](https://leavingevidence.wordpress.com/2019/12/18/how-to-give-a-good-apology-part-1-the-four-parts-of-accountability/)*
-
-**Tips for supporting people who want to hold themselves accountable for the ways their actions were felt by themselves or others to have contributed to misunderstandings, conflict, and/or harmful situations** 
-- Support engagement in the relevant processes outlined in our other agreements    
-- Reminding participants to reach out to their Care Supporter for additional forms of conduct support.
-- Offer resources, such as:
-    - [How to give a good apology](https://leavingevidence.wordpress.com/2019/12/18/how-to-give-a-good-apology-part-1-the-four-parts-of-accountability/)*   
-
-**Tips for supporting a participant to *engage with a Conduct Agreement response* after learning that they have acted in ways that feel to another participant as at odds with the shared expectations outlined in our Conduct Agreement.**
+**Practise courageous conversations**
+* Listen to their interpretation of a situation (avoid forming judgements or offering advise), then use the [ladder of inference framework](https://untools.co/ladder-of-inference/) to support consideration of the role of assumptions, observations, conclusions, and actions in their interpretations .
+* Support people to engage with multiple perspectives on how their actions in the collective may have contributed to a particular situation of misunderstanding, conflict, or harm. For example, consider asking [what else might be true](http://www.deanspade.net/wp-content/uploads/2025/07/Dean-Spade-EP04-What-Else-Is-True-worksheet.pdf) and offering [alternative partial perspectives](https://hackmd.io/@Teq/perspective-sharing-examples). 
 
 
-## Seeking Additional Supports
+**Supporting people who want to hold themselves accountable for the ways their actions were felt by themselves or others to have contributed to misunderstandings, conflict, and/or harmful situations** 
+* Initiate courageous conversations (see above) and remind participants to reach out to their Care Supporter as well.
+* Provide a [sounding-board](https://grammarist.com/idiom/sounding-board/) for them to explore when/how their actions align with our collectively agreed expectations.  
+* Acknowledge signs of readiness to hold themselves accountable for the consequences of their actions. Examples include:
+    - Recognising and sitting with uncomfortable feelings;
+    - Identifying when/how actions aligned with values (or not)
+    - Acknowledging when and how the relevant actions impacted others
+    - Engaging constructively with requests for behavioural changes
+    - Willing to commit to specific changes in behaviours and/or expectations moving forward.
+* Provide a practice-partner to role-play talking directly with others involved in the situation.
+* Support engagement in the relevant processes outlined in our other agreements 
 
-By practising with this structured support system we’re pushing back on defaults. This is difficult, and takes time. In the meantime, our efforts may go badly. In these cases, please ask for support from whomever you would have gone to if we didn’t have assigned support people. 
+**Supporting a participant to *engage with a Conduct Agreement response* after learning that they have acted in ways that feel to another participant as at odds with the shared expectations outlined in our Conduct Agreement.**
+- Offering reminders to reach out to their Care Supporter for a container to express their feelings and additional forms of conduct support and then return for more Accountability support.
+- Offer containers for courageous conversations (see above)
+- Offer resources, such as [How to give a good apology](https://leavingevidence.wordpress.com/2019/12/18/how-to-give-a-good-apology-part-1-the-four-parts-of-accountability/)*   
+
+
+## A Reminder to Cultivate Additional Support Networks
+
+By practising with this structured support system we’re pushing back on defaults. This is difficult, and takes time. In the meantime, our efforts will not always go well. In these cases, please ask for support from whomever you would have gone to if we didn’t have assigned support people. 
 
 When you feel you can, please reach out to your assigned support person again to talk about the experience (how it went, how it could have gone differently). 
 
