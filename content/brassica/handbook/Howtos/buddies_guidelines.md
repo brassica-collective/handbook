@@ -12,7 +12,7 @@ open: true
 ### Participation Buddies  
 Participation Buddies support *each-other* to communicate and meet our participation intentions in the project.
 
-Each interval, active participants are paired into ‘Participation Buddies’. 
+Each interval, participants who are not on hiatus are paired into ‘Participation Buddies’. 
 
 What types of support buddies agree to will vary depending on the participant pairs. Examples include:
 
