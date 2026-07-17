@@ -37,7 +37,7 @@ The requirements and criteria for the initial property to be purchased by the Co
 * Creating a document which can be handed over to the Crew (yet undetermined) responsible for the purchase of the house.
 * Documenting the process which the Seedling Crew uses so it may be replicated in the future for other purchases.
 
-The Crew may consult and petition the PAS Crew for funds as needed for things such as:
+The Crew may consult and petition the Ops Crew for funds as needed for things such as:
 * Resources to allow for better research, such as real estate results.
 * Consultancy services of relevant specialists, such as architects, quantity surveyors, or accessibility services.
 * Consultation with local First Nations land councils

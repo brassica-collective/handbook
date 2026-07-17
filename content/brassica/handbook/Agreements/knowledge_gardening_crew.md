@@ -31,23 +31,23 @@ We expect other Crews to continue documenting their own processes. While the Kno
 
 We expect the Knowledge Gardening Crew to consult with the relevant Crew about documentation decisions that impact their objectives. Examples include:
 
-* Consulting with PAS Crew when updating documentation about how to facilitate an Assembly
+* Consulting with Ops Crew when updating documentation about how to facilitate an Assembly
 * Consulting with Solidarity Crew when we are considering the broader justice implications of choosing a particular product or supplier
 
 Additionally, we expect the Knowledge Gardening Crew to ask Collective participants for advice on decisions that require significant work from non-crew participants or are potentially controversial. For example, deciding when and how to introduce a new documentation tool or processes that changes how participants are expected to meet their minimum responsibilities
 
-The Knowledge Gardening Crew is not expected to be responsible for internal and external communication processes (these remain PAS Crew responsibilities).
+The Knowledge Gardening Crew is not expected to be responsible for internal and external communication processes (these remain Ops Crew responsibilities).
 
-The Knowledge Gardening Crew will consult and petition PAS Crew for funds as needed
+The Knowledge Gardening Crew will consult and petition Ops Crew for funds as needed.
 
 ## Timeline
-Given the objectives outlined above, we expect the Knowledge Gardening Crew to be needed in ongoing yet intermittently active way. As usual, we expect the associated  responsibilities and workload will need to be distributed amongst participants to be sustainable.
+Given the objectives outlined above, we expect the Knowledge Gardening Crew to be needed in ongoing yet intermittently active way. As usual, we expect the associated responsibilities and workload will need to be distributed amongst participants to be sustainable.
 
 Given that some of the responsibilities outlined above rely on specific technical skills, there is an added expectation on more experienced crew participants to prioritise opportunities to share relevant technical skills with less experienced crew participants.
 
-For those intervals the crew is active, updates on how the Knowledge Gardening Crew is working towards the above objectives will be included in the Crew report backs at the relevant Assembly .
+For those intervals the crew is active, updates on how the Knowledge Gardening Crew is working towards the above objectives will be included in the Crew report backs at the relevant Assembly.
 
 ## Context
-Documentation functions to transparently record our collective decisions and processes, and can help us organise the information we generate throughout the project so that all participants can access it. To remain relevant and useful, project documentation needs to be regularly tended.
+Documentation functions to transparently record our collective decisions and processes and can help us organise the information we generate throughout the project so that all participants can access it. To remain relevant and useful, project documentation needs to be regularly tended.
 
 Examples of information that we want to document in public includes records of our decisions; legal and financial documents; retrofit designs; project-timelines; and how-to materials. Examples of internal documentation includes meeting notes; discussion threads; facilitation materials; and draft agreements.

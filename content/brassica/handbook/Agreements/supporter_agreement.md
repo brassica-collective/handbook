@@ -59,7 +59,6 @@ The core responsibilities of this role are:
 See the Supplementary Materials for examples.
 
 #### Accountability Supporter 
-
 The core responsibilities of this role are: 
 
 * Engaging in courageous conversations with participants wanting to explore multiple perspectives on how their actions in the collective may have contributed to a particular situation of misunderstanding, conflict, or harm.  
@@ -90,7 +89,7 @@ The person in the Coordinator for Conduct Support role is responsible for:
 * Identifying an appropriate participant or collaborator (inclusive of themselves) to act in the role of Conduct Supporter for the following:  
   * Collaborators when they request a Conduct Supporter to engage in our conduct agreement responses   
   * Any participants who are onboarding or on hiatus and request a Conduct Supporter to engage in our conduct agreement responses  
-  * Any participant who needs a new Conduct Supporter to engage in our conduct agreement responses (because one of their current Conduct Supporters were not available or  had acted in ways that they felt violated our conduct expectations).
+  * Any participant who needs a new Conduct Supporter to engage in our conduct agreement responses (because one of their current Conduct Supporters were not available or acted in ways that they felt violated our conduct expectations).
 
 This role is a collective responsibility that will be filled each interval, via:
 
@@ -127,9 +126,9 @@ This agreement is intended to help us implement our conduct agreement. Because l
 
 * IN-SCOPE:   
   * Responsibilities for conduct support required for us to implement our other collective agreements as participants and collaborators are clearly within the scope of our collective responsibility.   
-  * **These responsibilities differ for each support role (see Section on the number and types of Supporter Roles examples).**  
+  * **These responsibilities differ for each support role.**  
 * OUT-OF-SCOPE:   
-  * Support requests that are unrelated to participation in this housing collective (noting that at times individuals who are participants in the collective may also  have separately agreed to support each other outside the context of involvement in the same housing collective). **We encourage participants to practice reaching out to their broader support networks for these forms of support.**  
+  * Support requests that are unrelated to participation in this housing collective (noting that at times individuals who are participants in the collective may also have separately agreed to support each other outside the context of involvement in the same housing collective). **We encourage participants to practice reaching out to their broader support networks for these forms of support.**  
   * Support for [non-participants](../../howtos/guidelines_non-participant) (with the exception of [collaborators](../../howtos/guidelines_collaborators) who have initiated a Conduct Agreement Response) 
 
 #### How do we learn to implement our Conduct Supporter responsibilities? 
@@ -137,7 +136,7 @@ This agreement is intended to help us implement our conduct agreement. Because l
 * We expect this learning to be an ongoing process with *opportunities to learn and practice together skills for offering, giving, asking for, and receiving distinct types of support in the context of our collective agreements.*  
 * Onboarding for new participants will additionally include:   
   * Context on the distinctions between the different types of supporter roles   
-  * *Directions to resources we’ve created or curated so far in the collective related to how we support  each other.*
+  * *Directions to resources we’ve created or curated so far in the collective related to how we support each other.*
 
 #### Why is this such a long/complex agreement?
 
@@ -152,10 +151,10 @@ This agreement is intended to help us implement our conduct agreement. Because l
 
 ### Questions about Supporter Roles 
 
-#### Why do we need a Coordinator for some Conduct Support Roles? 
+#### Why do we need a Coordinator for Conduct Support Role? 
 
 * This role is needed to ensure that our Conduct Agreement is relevant to all involved in the collective, including participants on hiatus, participants who are being onboarded and collaborators.  
-* Particularly, in order to navigate the Conduct Agreement response as it is described in the Conduct Agreement active participants will have access to their Supporters. We also want to ensure that collaborators and participants on hiatus, have access to at least one Conduct Supporter, if they want one. This may be someone from their own support network or they may request assistance from the Coordinator for Conduct Support to engage someone to act as Conduct Supporter for them. We want to have a process in place in case it is needed. 
+* In order to engage in the Conduct Response Guidelines as described in the Conduct Agreement a person involved with the collective will need at least one Conduct Supporter. This may be someone from their own support network or they may request assistance from the Coordinator for Conduct Support to engage someone to act as Conduct Supporter for them. We want to have a process in place in case it is needed. 
 
 #### Why do we need a Care Supporter Role?
 
@@ -190,7 +189,7 @@ Example acts of accountability support following a particular situation of mista
 
 #### Won't I need both care and accountability in most situations? Why separate these into two roles?
 
-Yes, we often need both care and accountability support, especially when we contribute to the conditions within which we are impacted by mistakes, misunderstandings, conflict, and harm. 
+Yes, we often need both care and accountability support. We usually contribute in some way to the conditions within which we are impacted by mistakes, misunderstandings, conflict, and harm. 
 
 By practising distributing the labour of giving and receiving both care support and accountability support with different people, we hope to learn how to take more collective responsibility for navigating the nuance of these situations. 
 
@@ -198,7 +197,7 @@ This includes allowing ourselves to experience the feelings of being impacted (w
 
 The following examples artificially separate the complexities of the care/accountability support needed in any given situation to help illustrate the value of having different people act in each of these roles for each of us: 
 
-A care supporter may be particularly useful when a participant is: :
+A care supporter may be particularly useful when a participant is:
 
 * Feeling misunderstood by others in the collective and wanting to debrief with someone who is willing to listen without trying to find solutions (including feeling misunderstood when others’ express concern about their behaviours not aligning with collective conduct expectations)  
 * Feeling impacted by the actions of others and needing support to raise the incident with others in the collective
@@ -222,7 +221,7 @@ An accountability supporter may be particularly useful when a participant is:
   * Take responsibility for the pre-agreed consequences of acting in ways that don’t align with collective conduct expectations     
   * Participate in adjusting collective practices in ways that help us to reduce the likelihood of repeating the set of conditions within which the conflict and/or harmful situations emerged. 
 
-Participants are expected to ask *both* their care supporter and accountability supporter for help navigating situations within the group. The supporters for a participant (or multiple participants) may need to talk to each other when:
+Participants are expected to ask *both* their care supporter and accountability supporter for help navigating situations within the collective. The supporters for a participant (or multiple participants) may need to talk to each other when:
 
 * A situation is complex, with multiple layers of mistakes, misunderstandings or harm   
 * Initial attempts to navigate conflict are unproductive and they need additional help in mediating discussions about how to move forward.  
@@ -233,7 +232,7 @@ In addition to responding to requests for support as described in the examples a
 #### Why haven’t we included any other types of supporter roles?
 
 * Care and accountability supporter roles are intended as a minimum set of support that we can practice to help us differentiate between types of support needed to implement our conduct agreement. We may want to introduce other support roles after we have more experience *offering, giving, asking for, and receiving* these distinct forms of support.   
-* Other forms of support are described in other agreements, including the onboarding supporter role (in the [Entry and Exit Pathway Agreement](../entry_and_exit_pathways) and the participation buddy role in our [Participation Buddy Guidelines](../../buddies_guidelines).  
+* Other forms of support are described in other agreements, including the onboarding supporter role in the [Entry and Exit Pathway Agreement](../entry_and_exit_pathways) and the participation buddy role in our [Participation Buddy Guidelines](../../buddies_guidelines).  
 * Participants can propose amendments to add additional supporter roles that become relevant within the context of our collective capacity to support each other.
 
 ### Questions about the Mutli-Role Distribution Approach  {#questions-about-the-mutli-role-distribution-approach}
@@ -260,8 +259,7 @@ In addition to responding to requests for support as described in the examples a
     * a Care Supporter (by a participant that they are not currently supporting), and    
     * an Accountability Supporter (by a participant that they are not currently supporting).   
 * As noted in the agreement: “Allocated supporter roles will be set for **three months**. During this time, allocations can be **redistributed** if a participant does not have the expected number of conduct supporters (e.g. one of their conduct supporters goes on hiatus or exits the collective).”  
-* Conduct Supporter Coordinators are allocated based on an attempt to preserve the current distributed allocations of supporter roles  where possible.  
-* Collaborators and participants who are onboarding or on hiatus will be allocated a Conduct Supporter on request. The process for requesting a Conduct Supporter is to ask the Conduct Supporter Coordinator to initiate one of our conduct agreement responses. 
+* Collaborators and participants who are onboarding or on hiatus will be allocated a Conduct Supporter on request. The process for requesting a Conduct Supporter is to ask the Coordinator for Conduct Support to help you find a Conduct supporter so that you can initiate one of our conduct agreement responses. 
 
 ### Questions about Jargon Terms and Assumed Knowledge {#questions-about-jargon-terms-and-assumed-knowledge}
 

@@ -41,7 +41,7 @@ This will be amended later to present a plan for how we stagger the purchase of 
 
 ### Site Purchasing Agreement
 
-We develop a Site Purchasing Agreement each time we intend to purchase a site. It most likely does not describe a specific property  (unless we are reacting to an unusual opportunity) but describes a specific attempt to search for and, if found, buy a property for specific reasons.
+We develop a Site Purchasing Agreement each time we intend to purchase a site. It most likely does not describe a specific property (unless we are reacting to an unusual opportunity) but describes a specific attempt to search for and, if found, buy a property for specific reasons.
 
 The Site Purchasing Agreement will contain:
 
@@ -79,7 +79,7 @@ The following general principles guide the development of our specific purchase 
     1.  **Site Repair**: We buy “non-eco” properties and increase the sustainability of both the housing and land-use (see [<u>pattern language 104</u>](https://www.patternlanguageindex.com/patterns/site-repair))
     2.  **Value the Edge**: We value sites that can be embedded in broader community, and where we can embrace the edge between the housing and more common spaces. (see [<u>permaculture principle 11</u>](https://permacultureprinciples.com/permaculture-principles/_11/))
 2.  We will support more **sustainable and resilient lifestyles** in the context of climate and ecological emergency.
-    1.  **Food growing**: We expect to grow food at most of our sites, to any extent that makes a meaningful contribution to our food needs, and we will prioritise sites with access to sun, water and growing space.
+    1.  **Food growing**: We expect to grow food at most of our sites, to an extent that makes a meaningful contribution to our food needs, and we will prioritise sites with access to sun, water and growing space.
     2.  **Resilience potential**: We value sites that have the potential for specific resilience features which support our residents and the surrounding neighbourhood.
     3.  Location supports non-car transport options
 3.  We will support **inclusion and access**

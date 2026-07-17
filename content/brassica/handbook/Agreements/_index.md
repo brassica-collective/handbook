@@ -37,7 +37,7 @@ Our current approach to making our initial decisions is outlined in an [interim 
 Specific operational decisions are currently being delegated to crew based on their 'scope and delegated decision making' proposals, including:
 * [Solidarity Crew](solidarity_crew): responsible for functioning as a 'radical core' that reminds the broader collective to keep prioritising solidarity actions and support political engagement.
 * [Seedling Crew](seedling_crew): responsible for determining the requirements and criteria for the initial property to be purchased by the Collective.
-* [Process and Strategy (PAS) Crew](pas_crew): responsible for ensuring that the Brassica Collective can implement the RAD housing approach to retrofit and decommodify existing suburban housing so that we, and others, can live in secure, resilient and affordable housing.
+* [Development and Strategy (DAS) Crew](das_crew): responsible for ensuring that the Brassica Collective can implement the RAD housing approach to retrofit and decommodify existing suburban housing so that we, and others, can live in secure, resilient and affordable housing.
 * [Knowledge Gardening Crew](knowledge_gardening_crew): responsible for documenting our project in ways that support us to implement our collective agreements internally, and share our processes as we learn about collective practices in public.
 
 

@@ -14,8 +14,6 @@ This document forms part of our set of emerging Participation Agreements, and ou
 * process for handling unexplained absences of non-participation
 * exit pathway for supporting people to leave the collective indefinitely
 
-
-
 ## Entry Pathway {#entry-pathway}
 ### Expression of Interest {#expression-of-interest}
 
@@ -28,11 +26,11 @@ When a person expresses an interest in contributing to the collective, it is exp
 
 Expressions of interest should be in writing ([e.g., via this EOI Form](https://brassica.radhousing.org/collective/brassica/interest)) as these provide the list of ‘potential participants’.
 
-PAS Crew are responsible for maintaining a list of potential participants and sharing it with the broader collective.
+Ops Crew are responsible for maintaining a list of potential participants and sharing it with the broader collective.
 
 ### Proposal intention {#proposal-intention}
 
-Intentions to propose a potential participant can be declared by current participants who have completed their onboarding, or by the PAS Crew.
+Intentions to propose a potential participant can be declared by current participants who have completed their onboarding, or by the Ops Crew.
 
 An intention to propose inviting a participant needs to be declared at least 8 days prior to the end of an interval to be considered for an invitation in the following interval.
 
@@ -40,7 +38,7 @@ We do not consider more invitation proposals in an interval than the **invitatio
 
 * The invitation cap is the limit on how many invitation proposals we can support during an interval
 * Unless otherwise specified, the invitation cap sits at *20% of the number of participants who opted-in for **additional** responsibilities during the previous interval.*
-* To adjust to changes in our needs and capacity as a collective, the invitation cap can be adjusted by the PAS crew via an advice process that provides at least 1 interval notice.
+* To adjust to changes in our needs and capacity as a collective, the invitation cap can be adjusted by the DAS crew via an advice process that provides at least 1 interval notice.
 * Potential participants who are not proposed in the intended interval will remain on the list of potential participants unless the proposer removes them.
 
 ### Prioritisation of Potential Participants {#prioritisation-of-potential-participants}
@@ -49,9 +47,9 @@ The prioritisation process is intended to ensure we only onboard a small number 
 
 When there are more invitation proposals intended for the same interval than the ‘invitation cap’, we consider proposals prioritised by:
 
-* The **total number of intervals the proposer has participated** in this collective, divided by the **total number of people they have proposed in the past** (regardless of whether they ended up as participants). If there is a tie, we consider whichever proposal was received first. This ensures that we prioritise the people invited by active participants who have invited the least people.
+* The **total number of intervals the proposer has participated** in this collective, divided by the **total number of people they have proposed in the past** (regardless of whether they ended up as participants). This ensures that we prioritise the people invited by active participants who have invited the least people. If there is a tie, we consider whichever proposal was received first. 
 
-If the number of invitation proposals intended by current participants are less than the invitation cap for that interval, the PAS Crew has the option to propose a potential participant from those who’ve not previously been proposed.
+If the number of invitation proposals intended by current participants are less than the invitation cap for that interval, the Ops Crew has the option to propose a potential participant from those who’ve not previously been proposed.
 
 ### Proposal discussion {#proposal-discussion}
 
@@ -69,7 +67,7 @@ A proposal is expected be posted as the start of a discussion thread on Loomio, 
    2. An outline of support needed for the potential participant to feel confident co-creating our collective practices
    3. A request for at least one other participant to share responsibility for providing this support
 4. **Specific time-bound requests for engagement by other participants**, including:
-   1. A date by which current participants are expected to nominate as a second supporter and/or raise any concerns or objections to the proposal (date 01). A second supporter can not be nominated, and no concerns or objections to the proposal can be raised after date 01\.
+   1. A date by which current participants are expected to nominate as a second supporter and/or raise any concerns or objections to the proposal (date 01). A second supporter can not be nominated, and no concerns or objections to the proposal can be raised after date 01.
    2. A date at which the proposer intends to retire the proposal if there are any unresolved concerns or objections remaining (date 02).
 
 *An invitation proposal template is available in Loomio*
@@ -81,11 +79,11 @@ The proposer will monitor the relevant discussion thread to allow current partic
 1. Discuss the capacity of current participants to support the proposed participant
 2. Ask clarification questions and discuss any **concerns** (e.g. “This person has no experience with collective practice, how do we plan to support them to participate well?”) about the proposal of this potential participant
    * Clarification questions and concerns are expected to be offered with curiosity and constructive suggestions for how to resolve them.
-   * While unresolved concerns do not obstruct the entry pathway, the proposer may choose to extend the preset timeline (date 02\) to allow for ongoing discussion.
+   * While unresolved concerns do not obstruct the entry pathway, the proposer may choose to extend the preset timeline (date 02) to allow for ongoing discussion.
 3. Raise a **principled objection** to the proposal
    * To raise a principled objection a participant shares their reasoning in the discussion forum and initiates the collective’s relevant process for resolving disagreements. If there is no relevant agreement, this invitation is paused until the group develops one.
    * Principled objections are made based on reasoning as to why the proposed person is likely to violate fundamental principles of the collection (“I think there is a serious risk this person will act in unjust, unethical, or deliberately harmful ways”).
-4. Express any ‘unprincipled objections’ (e.g. “I don’t like this person”). This does not obstruct the entry pathway. Participants who have ‘unprincipled objections’ to the proposal are encouraged to discuss them directly with the proposer (to allow for understanding of different perspectives) and with other collective participants during an assembly (as a twinge)
+4. Express any ‘unprincipled objections’ (e.g. “I don’t like this person”). This does not obstruct the entry pathway. Participants who have ‘unprincipled objections’ to the proposal are encouraged to discuss them directly with the proposer (to allow for understanding of different perspectives) and with other collective participants during an assembly (as a twinge).
 
 #### Proposal resolution
 
@@ -104,7 +102,7 @@ After a proposal is resolved or retired, the proposer is responsible for
 
 * Summarising the considerations discussed
 * Adding the potential participant to either the ‘participant invitation list’ or ‘retired proposals’ list, and
-* Communicating to the potential participant the outcome of the proposal, including any concerns/objections raised if relevant, and explaining the next steps in the process
+* Communicating to the potential participant the outcome of the proposal, including any concerns/objections raised if relevant, and explaining the next steps in the process.
 
 ### Invitation  {#invitation}
 
@@ -118,7 +116,7 @@ If the invitation is accepted, the proposer should ensure that participants are:
 
 ### Onboarding  {#onboarding}
 
-The [*process* for onboarding](https://radhousing.org/brassica/handbook/howtos/onboarding_process/) is stewarded by the PAS crew and is intended to guide recent participants in understanding existing agreements and actively engage in co-creating future collective practices.
+The [*process* for onboarding](https://radhousing.org/brassica/handbook/howtos/onboarding_process/) is stewarded by the Ops crew and is intended to guide recent participants in understanding existing agreements and actively engage in co-creating future collective practices.
 
 The proposer is responsible for coordinating the support requested by a new participant as they complete the relevant onboarding activities. This initial support is expected to continue until onboarding is complete, or the onboarding support is replaced with some other agreed mode of support within the collective.
 
@@ -152,7 +150,7 @@ If a participant has not met their minimum responsibilities for two consecutive 
 
 * While absent, participants will not be included in decision-making processes. They retain all other expectations of the collective.
 * Other participants are expected to attempt to check-in and identify if there are any barriers to participation that could be resolved by the collective.
-* PAS Crew are responsible for reminding an absent participant that they will be considered to have opted-out of participation if unable to either re-engage or communicate an intention to pause participation (go on hiatus) during this period.
+* Ops Crew are responsible for reminding an absent participant that they will be considered to have opted-out of participation if unable to either re-engage or communicate an intention to pause participation (go on hiatus) during this period.
 
 To return to participating, an absent participant needs to communicate they want to pause participation (go on hiatus) for a set time-period or opt-in to participation again. Returning participants are expected to ask for support to catch up on any agreements or collective practices that emerged in their absence.
 
@@ -168,7 +166,7 @@ A participant will be considered to have opted-out of their collective responsib
 2. Remain on unexplained absence for two consecutive intervals (in addition to the two intervals of inactivity required to trigger the ‘unexplained absence’ process), or;
 3. Meet the exit criteria defined in another agreement of the collective.
 
-When a participant opts-out indefinitely or is otherwise indefinitely absent, PAS Crew will coordinate the following process:
+When a participant opts-out indefinitely or is otherwise indefinitely absent, Ops Crew will coordinate the following process:
 
 1. Removing the exiting participant’s access to the collective's communication channels
 2. Reminding the exiting participant that they are relinquishing their expectations of the collective (including expectations of housing security, if relevant).
@@ -197,7 +195,11 @@ _Why do we need an entry & exit agreement?_
 
 * Articulating our current understanding of when/how/why people start and stop participating is intended to help us honour our varying and fluctuating capacity for participation, and navigate the emerging project-group dynamics as the configuration of participants change over time.
 * Our entry pathway is the process through which **any current participant** can invite additional potential participants to collaborate with us on this experiment in implementing RAD housing and co-creating our collective living practices going forward.
-* As part of taking collective responsibility for each other as participants, we want to ensure that we are thoughtful about our collective capacity for supporting additional people to become active participants (by becoming familiar with the various conceptual and relational contexts this may require).
+* As part of taking collective responsibility for each other's experience as participants, we want to ensure that we are thoughtful about our collective capacity for supporting additional people to become active participants (by becoming familiar with the various conceptual and relational contexts this may require).
+
+_Why do we add exiting participants as Collaborators (unless requested otherwise)?_ 
+
+* Encouraging collaboration is intended to make it easier to for participants to take a rest from their responsibilities with the knowledge they can express interest in participating again in the future.
 
 _Why doesn’t this agreement include details about how people enter or exit collectively stewarding housing-sites?_
 
@@ -206,8 +208,5 @@ _Why doesn’t this agreement include details about how people enter or exit col
 
 _Why doesn’t this agreement consider all possible scenarios we might face as a collective?_
 
-* We also expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.
-
-_Why do we add exiting participants as Collaborators (unless requested otherwise)?_ 
-
-* Encouraging collaboration is intended to make it easier to for participants to take a rest from their responsibilities with the knowledge they can express interest in participating again in the future.
+* We think it is impossible to predict all possible scenarios. This agreement is a starting point to guide us and will be updated as new scenarios emerge.
+* We expect this agreement to be updated as we try, fail, learn, and review our shared expectations of how to navigate the ever-changing dynamics of our collective.
