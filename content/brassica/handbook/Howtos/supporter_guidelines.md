@@ -41,6 +41,7 @@ graph LR
 A[I feel misunderstood] --> B[I can express my feelings/perspectives to a Care Supporter] -->D
 B --> C[I am willing to hear alternative perspectives from an Accountability Supporter] -->D
 A --> C
+B --> A
 C --> A 
 A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 ```
