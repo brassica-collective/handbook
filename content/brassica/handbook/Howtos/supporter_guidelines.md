@@ -41,6 +41,7 @@ graph LR
 A[I feel misunderstood] --> B[I can express my feelings/perspectives to a Care Supporter] -->D
 B --> C[I am willing to hear alternative perspectives from an Accountability Supporter] -->D
 A --> C
+B --> A
 C --> A 
 A--> D[I feel ready to direcly resolve the misunderstanding]-->A
 ```
@@ -135,5 +136,11 @@ The following resources focus on approaches to conflict that seek to transform o
 - [Community Accountability process](https://callingupjustice.com/fumbling-towards-repair/)
 - [Upstream podcast episode Nov 7 2024 "Prefigurative Politics and Workplace Democracy w/Saio Gradin and Nicole Wires"](https://www.upstreampodcast.org/conversations) 
 - A guide to cultivating [empowerment triangles, rather than drama triangles](https://beckett-mcinroy.com/articles/resolving-conflict/). 
+
+## Context 
+
+These guidelines (Version 2) offer a starting point for helping us practice our Conduct Supporter roles. 
+
+We expect them to update these as we learn together, so please contribute your reflections on these practices in our Loomio discussions (please tag relevant threads with *Supporter Skills*) 
 
 
