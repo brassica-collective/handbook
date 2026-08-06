@@ -83,9 +83,12 @@ In the main terminal window:
 3. commit your changes with a descriptive message about the major thing you changed (`git commit -m "some-message"`) 
 
 ### Share updates
+To backup your changes and share them, push to your remote branch: 
 
 1. check for any updates by others on the same branch (`git pull`)
 2. push your updates to the remote branch (`git push`)
+(note, for a new branch you may be prompted to set the upstream origin by running
+`git push --set-upstream origin branch-name`. Do this.) 
 
 ### Create a pull-request  
 When you have finished making all changes, create a pull-request in github (so that your changes can be merged into the main branch and deployed): 
