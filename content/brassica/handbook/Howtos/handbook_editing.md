@@ -2,9 +2,9 @@
 title: Handbook Editing
 slug: handbook_editing
 type: docs
-prev: buddies_guidelines
+prev: roadmap_guidelines
 next: handbook
-weight: 6
+weight: 8
 sidebar:
   open: true
 ---
@@ -19,7 +19,7 @@ If you would like to contribute and are not yet comfortable with any of the rele
 
 ## Updating content in the Brassica Handbook: 
 
-### Clone the repository
+### Clone the brassica-collective/handbook repository
 If you've not yet done so: 
 1. Open a terminal and navigate to a location on your device where you want to store a copy of this Handbook (e.g.,`cd dev`) and create an approriatly named directory (e.g., `mkdir brassica-collective`) 
 2. Retrieve a copy (clone) of the entire handbook repository from the hosted location via URL (e.g. 
@@ -83,9 +83,12 @@ In the main terminal window:
 3. commit your changes with a descriptive message about the major thing you changed (`git commit -m "some-message"`) 
 
 ### Share updates
+To backup your changes and share them, push to your remote branch: 
 
 1. check for any updates by others on the same branch (`git pull`)
 2. push your updates to the remote branch (`git push`)
+(note, for a new branch you may be prompted to set the upstream origin by running
+`git push --set-upstream origin branch-name`. Do this.) 
 
 ### Create a pull-request  
 When you have finished making all changes, create a pull-request in github (so that your changes can be merged into the main branch and deployed): 
