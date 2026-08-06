@@ -19,7 +19,7 @@ If you would like to contribute and are not yet comfortable with any of the rele
 
 ## Updating content in the Brassica Handbook: 
 
-### Clone the repository
+### Clone the brassica-collective/handbook repository
 If you've not yet done so: 
 1. Open a terminal and navigate to a location on your device where you want to store a copy of this Handbook (e.g.,`cd dev`) and create an approriatly named directory (e.g., `mkdir brassica-collective`) 
 2. Retrieve a copy (clone) of the entire handbook repository from the hosted location via URL (e.g. 
