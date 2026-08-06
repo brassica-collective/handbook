@@ -3,7 +3,7 @@ title: Guidelines for Conduct Supporters
 slug: guidelines_supporters
 type: docs
 prev: guidelines_buddies
-next: handbook_editing
+next: roadmap_guidelines
 weight: 6
 sidebar:
 open: true
