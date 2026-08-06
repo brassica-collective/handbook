@@ -4,7 +4,7 @@ slug: handbook_editing
 type: docs
 prev: buddies_guidelines
 next: handbook
-weight: 6
+weight: 8
 sidebar:
   open: true
 ---
