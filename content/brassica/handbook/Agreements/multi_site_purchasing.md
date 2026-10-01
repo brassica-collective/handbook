@@ -3,7 +3,7 @@ title: Multi-Site Purchasing
 slug: multi_site_purchasing
 type: docs
 prev: responsibilities_and_expectations
-next: knowledge_gardening_crew
+next: seedling_house
 weight: 6
 sidebar:
   open: true

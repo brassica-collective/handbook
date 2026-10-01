@@ -4,7 +4,7 @@ slug: solidarity_crew
 type: docs
 prev: knowledge_gardening_crew
 next: seedling_crew
-weight: 8
+weight: 9
 sidebar:
   open: true
 ---
