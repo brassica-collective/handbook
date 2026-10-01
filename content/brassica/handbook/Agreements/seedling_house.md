@@ -104,3 +104,12 @@ This section will be added later, after group process.
 
 ### How
 This section will be added later, after group process.
+
+## Review conditions {#review-conditions}
+
+This agreement (*Version 1.1*) will be reviewed in any of the following circumstances:
+
+* Whenever a participant proposes an amendment to this agreement
+* When any agreement in the set of Participation Agreements is amended
+* Prior to the first participants living in a collectively stewarded site
+* Every two years (if not otherwise reviewed in that timeframe)
