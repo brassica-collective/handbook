@@ -2,7 +2,7 @@
 title: Knowledge Gardening Crew
 slug: knowledge_gardening_crew
 type: docs
-prev: multi_site_purchasing
+prev: seedling_house_purchasing
 next: solidarity_crew
 weight: 8
 sidebar:
