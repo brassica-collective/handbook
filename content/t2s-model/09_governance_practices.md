@@ -18,5 +18,4 @@ The following outline is intended to offer an indication of some of these consid
 |Transitional Equity priorities|Decisions about improving land use value and/or impact the land value for equity holders|Decisions that impact the value of buildings for equity holders |Decisions at the appropriate level (e.g., site, house, room)|Decisions about transfer of equity to Collective Stewardship |
 |Collective Stewardship priorities|Decisions about when and how to improve land quality for collective benefit (quality of soil and water, support for wildlife, etc.,) and how best to honour Indigenous leadership and participate in Land Back processes |Decisions about adding, maintaining, and improving buildings for collective benefit (e.g., retrofitting, adding secondary dwellings, etc.,)|Decisions at the appropriate level (e.g., site, house, room)|Decisions about how to ensure participants contributions are affordable|
 
-For an example of governance practices for a RAD Housing project, see the [Brassica Collective's Handbook](/brassica/handbook).
-
+For an example of governance practices for a RAD Housing project, see the [Brassica Collective's Handbook](https://brassica.radhousing.org/handbook/).
