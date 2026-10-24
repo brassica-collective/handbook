@@ -3,7 +3,7 @@ title: Multi-Site Purchasing
 slug: multi_site_purchasing
 type: docs
 prev: responsibilities_and_expectations
-next: seedling_house
+next: seedling_house_purchasing
 weight: 6
 sidebar:
   open: true
